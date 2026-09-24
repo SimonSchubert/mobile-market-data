@@ -11,7 +11,8 @@ and screenshots every screen it reaches.
 
 - `verdicts.json`: one entry per plugin, keyed by market id: the commit that
   was tested, a rating (`perfect`, `usable`, `desktop only`, `not usable`,
-  `broken`), notes in plain words, what it needs (camera, API key…), and the
+  `broken`, or `retest` for one whose screenshots were taken at the wrong
+  screen size and has not been tested again yet), notes in plain words, what it needs (camera, API key…), and the
   file names below.
 - `shots/<id>-<n>-<hash>.webp`: up to three phone screens.
 - `icons/<id>-<hash>.webp`: a square cut from the top of the first screen.
