@@ -1,0 +1,4069 @@
+{
+ "0xfanko.advanced-clipboard": {
+  "commit": "c5e37c3573810f6b8b441aaf24eb08dbc6fecad5",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "920four.devlinkspad": {
+  "commit": "0100e7d2154f4b5be7a14870f13e8591a42a031f",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "abdul.hotcorners": {
+  "commit": "4d599f3aa62862441d15212feb5d5c343a203422",
+  "icon": "abdul.hotcorners-dada820c.webp",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "abdul.hotcorners-0-cd8285ec.webp"
+  ]
+ },
+ "aether.notch": {
+  "commit": "4ad808c52b6348baa200a268370bf7f6818bdb53",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Expects the desktop bar",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "ai.bkblab.displaywright": {
+  "commit": "97878fa394faf8c249d398245aac15eec1be7c2d",
+  "icon": "ai.bkblab.displaywright-b0124b5f.webp",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "ai.bkblab.displaywright-0-52ef57c1.webp"
+  ]
+ },
+ "alanfortlink.clipboard": {
+  "commit": "f4fc81eefe52052ce100eb9db579cf91c0f04889",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": [
+   "alanfortlink.clipboard-0-89528f9c.webp"
+  ]
+ },
+ "anagrius.resume": {
+  "commit": "cf736a59457ab3e17cc7753c4ee22a71a9d54967",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Made for a keyboard: nothing to tap"
+  ],
+  "rating": "retest",
+  "shots": [
+   "anagrius.resume-0-ccfdb787.webp"
+  ]
+ },
+ "anavarre.obsidian-focused-search": {
+  "commit": "6757c8f3f30e86506d713c937fb97ea794981d67",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "andreconde.quick-look": {
+  "commit": "0222974e045fef752cabb32d7b5fadc8b2310eb7",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "andreconde.quick-look-0-21a0bf82.webp"
+  ]
+ },
+ "angus.beeline": {
+  "commit": "6d140a8382b29be2463dfaab1a78415a4c5588a0",
+  "icon": "",
+  "needs": [],
+  "notes": [],
+  "rating": "desktop only",
+  "shots": [
+   "angus.beeline-0-dbed55b8.webp"
+  ]
+ },
+ "animated.dock": {
+  "commit": "8963939fa0ae30708beedee9fafd5239c8300f47",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the whole screen instead of opening as an app"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "arh.file-picker": {
+  "commit": "85100a7b75e23beecbb382044e9b02647748bd54",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "asaharan.omackey": {
+  "commit": "51c001c4d85e79e464e6b241e1ad0a18989e0a41",
+  "icon": "asaharan.omackey-48fec144.webp",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "asaharan.omackey-0-2bf0e2e3.webp"
+  ]
+ },
+ "astrofoundry.keybind-editor": {
+  "commit": "3dae61adfa69aa2f2d731b90bb0b63d67d4c3509",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Did not open when tested"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "austindixson.ominput": {
+  "commit": "30d985a7c2c44698604129197242deb65bff7190",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "avila.superrun": {
+  "commit": "b89fa971efb5d7b0095b562adaf9842872ca47d8",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "b.okomart": {
+  "commit": "c8ff3b2f5377c72c8a854c6183617602f904ee62",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Did not open when tested"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "b.omahud": {
+  "commit": "7a13cd1bb2e76b3512e4a32426d8b6e573ebf2eb",
+  "icon": "",
+  "needs": [
+   "container or VM"
+  ],
+  "notes": [
+   "Did not open from its app entry"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "b.omashot": {
+  "commit": "09eddf466bbe00e917a3e6de0840166ff727dfff",
+  "icon": "",
+  "needs": [
+   "camera"
+  ],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Some buttons are small for a finger",
+   "Small text"
+  ],
+  "rating": "retest",
+  "shots": [
+   "b.omashot-0-bd115988.webp",
+   "b.omashot-1-0154d738.webp",
+   "b.omashot-2-331c369b.webp"
+  ]
+ },
+ "bbachmann.foot-bookmarks": {
+  "commit": "68164242a97b3bd2860ad316ebd24c8ecc3b9d93",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Made for a keyboard: nothing to tap",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "beam": {
+  "commit": "907169e932c7ff92a3f01b0d3bd1bd7014a60743",
+  "icon": "",
+  "needs": [
+   "container or VM"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "bennethon.launchboard": {
+  "commit": "b11da37e29ccbb325b6269e8bc8fb9ad0390f065",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "bibek.obsidian-search": {
+  "commit": "09c5f0ed008115846871a9f31cb4d1b734a383c3",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture"
+  ],
+  "rating": "retest",
+  "shots": [
+   "bibek.obsidian-search-0-0b56840c.webp"
+  ]
+ },
+ "birdseye.window-overview": {
+  "commit": "e8f678cfea514ca9a6cf74324b034c898ea6a2ab",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture",
+   "Some of it runs off the edge"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "blusyn.notification-slideover": {
+  "commit": "ff4eb62c1777e3d31a65189c29574e21c88ca5f3",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Expects the desktop bar",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "blusyn.notification-slideover-0-d8ba05fe.webp"
+  ]
+ },
+ "bobbynicholas.omaland": {
+  "commit": "d67741f90ea0dad2d538641b699777925fac7344",
+  "icon": "bobbynicholas.omaland-d9d5e9fa.webp",
+  "needs": [],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": [
+   "bobbynicholas.omaland-0-2cb6247d.webp",
+   "bobbynicholas.omaland-1-b30d6f66.webp",
+   "bobbynicholas.omaland-2-42772f56.webp"
+  ]
+ },
+ "bogdart.dock": {
+  "commit": "c8b2c8cb7c2cc7c70f6e8d1a27ff19635e5a0a75",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have"
+  ],
+  "rating": "retest",
+  "shots": [
+   "bogdart.dock-0-b8389e87.webp"
+  ]
+ },
+ "bottelet.omatidy": {
+  "commit": "15126cc708b51e8cb3677476773929be5677d8ef",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "bottelet.quickdocs": {
+  "commit": "da7079cf4405dcd2bb3967c9f53e4a184d799f6b",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "bronder.metronome": {
+  "commit": "227a13e72389b46c9cc0aebfc3ee34b29d428171",
+  "icon": "bronder.metronome-e367281f.webp",
+  "needs": [],
+  "notes": [
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger",
+   "Small text"
+  ],
+  "rating": "usable",
+  "shots": [
+   "bronder.metronome-0-94a3c1fb.webp"
+  ]
+ },
+ "carlossf12.lock-screen": {
+  "commit": "0b2f776723a7c8bfd850442c0a42bc9d03f65446",
+  "icon": "carlossf12.lock-screen-cc83b424.webp",
+  "needs": [
+   "hardware sensor"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "carlossf12.lock-screen-0-b937abc2.webp",
+   "carlossf12.lock-screen-1-8e87b6cb.webp",
+   "carlossf12.lock-screen-2-20f4b318.webp"
+  ]
+ },
+ "cgranier.dojo": {
+  "commit": "fe2ad36ccf4ffbe8edb04b0884db19d063e99260",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "chagel.window-tree": {
+  "commit": "84bb82ef417ab1864192b29af9be0bd9f22e0719",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "chagel.window-tree-0-042adcdb.webp"
+  ]
+ },
+ "clickety-clacks.ask": {
+  "commit": "02921bb13d90e0995cb69bd6652407add14ea861",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "The back gesture does nothing"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "com.arashlab.panorama": {
+  "commit": "8395534c0b97d90783ae0802a52a6a17c603a4fd",
+  "icon": "",
+  "needs": [
+   "hardware sensor"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "com.columbiafoundry.loderunner": {
+  "commit": "7f8c2fe8ea7abcbbf0fb836915bd2f8e2df3e623",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Small text"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "com.statable.desktop": {
+  "commit": "4a33aa2749d9d485625493d08572c8d325562dfe",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "cordrogue.omatate": {
+  "commit": "3a4d4e8ebc4ad426936bae39ec80ec1a25ae1981",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Expects the desktop bar"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "crazybadger.app-dock": {
+  "commit": "c971cec89c92449c72939fa4d4374fc0507a44aa",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "crazybadger.workspace-ribbon": {
+  "commit": "12ba6c0d3aff5579538217bbfe275d024e3ce092",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some of it runs off the edge"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "cylon58.numpad-shortcuts": {
+  "commit": "97bfaf00225985e777808f34402004b286f11881",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Did not open from its app entry"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "dai199.visual-keybindings": {
+  "commit": "00189ade32d70763c5e3157b344ed3aff2c7ae35",
+  "icon": "dai199.visual-keybindings-5b6717e4.webp",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "dai199.visual-keybindings-0-dd1d18cd.webp"
+  ]
+ },
+ "dailen.omarcharium": {
+  "commit": "751c3521086873c5b70c4de67aba068b22528f41",
+  "icon": "dailen.omarcharium-8f0bde04.webp",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Small text"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "dailen.omarcharium-0-3445b276.webp",
+   "dailen.omarcharium-1-efc19c5f.webp"
+  ]
+ },
+ "dailen.omi": {
+  "commit": "752896e94ee6260b1dd0e53ec9e954e79acf9727",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "darren.randomsaver": {
+  "commit": "68dab6caab40c76c3cdef41026fffa19ac796170",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "davidcbradleyjr.lanes": {
+  "commit": "b3bc1d0ff9c1a003b2e87b65282e0b15589beb1b",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "de.gransoftware.yank": {
+  "commit": "79ba08a5b8c7fa537fe2a5a6972a980362480fc5",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger",
+   "Small text"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "de.gransoftware.yank-0-0ff20302.webp"
+  ]
+ },
+ "derekwisong.airport": {
+  "commit": "7356fd25f187df2845a6311a317330ab7d1f6a81",
+  "icon": "",
+  "needs": [
+   "account or API key",
+   "secret store"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "desmedo.ioc-lookup": {
+  "commit": "fc235944cb7502accdf9fda693282672c9ebcc35",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Did not open from its app entry",
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "desmedo.ioc-lookup-0-1a94977e.webp"
+  ]
+ },
+ "dev.cstav.omarchy.plugin.jump-to": {
+  "commit": "3e78044890645d0911d62a11b0228a940c239c56",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Some labels are cut off"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "dev.cstav.omarchy.plugin.jump-to-0-ca8cd6df.webp"
+  ]
+ },
+ "dev.jotpin": {
+  "commit": "16ba2462967ff1cb9457e1a2216773ee584fe42f",
+  "icon": "dev.jotpin-e8f0d3d4.webp",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture",
+   "Expects the desktop bar",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "dev.jotpin-0-8a46546e.webp",
+   "dev.jotpin-1-27487641.webp",
+   "dev.jotpin-2-9cb9d638.webp"
+  ]
+ },
+ "dev.nur.omasum": {
+  "commit": "abb50b5685ccf7406b62b974f5cbfd690f9e9dcc",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "dev.shantzware.monitor-profiles": {
+  "commit": "e845df49088cf0eaaf6a6bd4abc7369fa13620ab",
+  "icon": "dev.shantzware.monitor-profiles-39a3a531.webp",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "dev.shantzware.monitor-profiles-0-d3a5a052.webp"
+  ]
+ },
+ "djc.life-alert": {
+  "commit": "3ceb00645cf9052bb699ff6253394bba7e055976",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Made for a keyboard: nothing to tap",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "djc.tomb-stone": {
+  "commit": "cc39c2ebec34730c7ff4b72d49dcb62dd15b4089",
+  "icon": "",
+  "needs": [
+   "hardware sensor"
+  ],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Some of it runs off the edge",
+   "Small text",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "djc.tomb-stone-0-46f89b51.webp"
+  ]
+ },
+ "dmaje.omaflappy": {
+  "commit": "31c4d5d90d7faef29976532077906ed47741b9a0",
+  "icon": "",
+  "needs": [],
+  "notes": [],
+  "rating": "desktop only",
+  "shots": [
+   "dmaje.omaflappy-0-e69203f5.webp",
+   "dmaje.omaflappy-1-35361af6.webp"
+  ]
+ },
+ "do1mj.qrz": {
+  "commit": "46736fadfd85fed8dac4480d771a3a1554305782",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Some buttons are small for a finger",
+   "Some of it runs off the edge"
+  ],
+  "rating": "usable",
+  "shots": []
+ },
+ "doctor.omadoku": {
+  "commit": "7e5b86809436579a213455a1a76840706fb4ed84",
+  "icon": "doctor.omadoku-d112a719.webp",
+  "needs": [],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "perfect",
+  "shots": [
+   "doctor.omadoku-0-d3c701ca.webp",
+   "doctor.omadoku-1-5adee7c9.webp",
+   "doctor.omadoku-2-16e71c84.webp"
+  ]
+ },
+ "douper.underpants": {
+  "commit": "49573826b1d46eec7c35a08ac5c14c4c1b64f604",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "drace3000.bottom-dock": {
+  "commit": "f14faf07aae8bb221c78b62a1405a74639792967",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the whole screen instead of opening as an app",
+   "Expects the desktop bar"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "dutchbase.monitor-arrange": {
+  "commit": "645f4ea2599da9289e2a54aeaaadbc31363d2164",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "ecylmz.spaceview": {
+  "commit": "2889bae5a8e12314ef58bd1229ab138b6dc11101",
+  "icon": "ecylmz.spaceview-f314c15d.webp",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have"
+  ],
+  "rating": "retest",
+  "shots": [
+   "ecylmz.spaceview-0-4a631663.webp"
+  ]
+ },
+ "emiifont.github-search": {
+  "commit": "d999d27c9d651a9256c6b4f2d0948a3e56447c75",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Made for a keyboard: nothing to tap",
+   "Some labels are cut off"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "emiifont.github-search-0-cbccc4f1.webp"
+  ]
+ },
+ "expose.window-overview": {
+  "commit": "d5340ae48fc1a86177aaf619deb69ef81527d176",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "farangkao.emojis-nerd": {
+  "commit": "bc7e2c2f4c89c82712859aedb5a643b57ffad70c",
+  "icon": "farangkao.emojis-nerd-4c69f958.webp",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "farangkao.emojis-nerd-0-478274a8.webp",
+   "farangkao.emojis-nerd-1-69f2b610.webp",
+   "farangkao.emojis-nerd-2-06149088.webp"
+  ]
+ },
+ "finna.herdr-hud": {
+  "commit": "abbcb59adfa9a6922aaba832ccd9e0c8dcc94230",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Some buttons are small for a finger",
+   "Some labels are cut off"
+  ],
+  "rating": "retest",
+  "shots": [
+   "finna.herdr-hud-0-b2cd8345.webp"
+  ]
+ },
+ "firstpick.keybindings": {
+  "commit": "6fe86995e5aa13f8cd79f509a558b16fff493477",
+  "icon": "firstpick.keybindings-0c87b898.webp",
+  "needs": [],
+  "notes": [
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "firstpick.keybindings-0-9e401f39.webp",
+   "firstpick.keybindings-1-4b9f2d44.webp"
+  ]
+ },
+ "firstpick.skill-manager": {
+  "commit": "5eb8a66094b27dab9dd754294423462906f0fc81",
+  "icon": "firstpick.skill-manager-2920fd73.webp",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "firstpick.skill-manager-0-7deb0ac8.webp",
+   "firstpick.skill-manager-1-aa0dc322.webp"
+  ]
+ },
+ "flaviozantut.close-confirm": {
+  "commit": "189a8bec6d39b59385ad744bd016cacedf315887",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "flaviozantut.close-confirm-0-bdda0079.webp"
+  ]
+ },
+ "funcoder.app-shortcuts": {
+  "commit": "baaf8619ec8ce6ef0dcb53cea72a7153a29fe0bc",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Did not open when tested"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "gdiab.fullscreen-border": {
+  "commit": "95f13b29bba15037214de6205859bba3540627f3",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Made for a keyboard: nothing to tap",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "gennaro.hwmon": {
+  "commit": "09bfdd66c0674706e3db71e067be9cba770b452a",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture",
+   "Made for a keyboard: nothing to tap",
+   "Drawn for a bigger screen",
+   "Small text"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "godofjoper.translate": {
+  "commit": "5778577c17921eaf65770c615113970993b93b81",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Did not open when tested"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "hector.currency": {
+  "commit": "acd3a48d0f3632f08ff280397452db34dc3888c0",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "ianm.scratchpad": {
+  "commit": "a72cce24819fcda38ab6a5c710fa91093ae47f68",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Made for a keyboard: nothing to tap"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "icyleaf.bitwarden": {
+  "commit": "c94895ec513c0665e810cd2c849a7f0d182ee81c",
+  "icon": "icyleaf.bitwarden-4491229c.webp",
+  "needs": [
+   "account or API key",
+   "secret store"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Scrolls sideways",
+   "Some buttons are small for a finger",
+   "Small text",
+   "Some of it runs off the edge"
+  ],
+  "rating": "retest",
+  "shots": [
+   "icyleaf.bitwarden-0-709fa3f8.webp",
+   "icyleaf.bitwarden-1-6df32244.webp",
+   "icyleaf.bitwarden-2-2e14922f.webp"
+  ]
+ },
+ "ignibyte.kids-clock": {
+  "commit": "ce0a8456b614cf7a8abd0d0e134ef8862d001d6b",
+  "icon": "ignibyte.kids-clock-26fe27b0.webp",
+  "needs": [],
+  "notes": [
+   "Some labels are cut off",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "ignibyte.kids-clock-0-81d5c3be.webp",
+   "ignibyte.kids-clock-1-e6f44113.webp",
+   "ignibyte.kids-clock-2-1bb3f167.webp"
+  ]
+ },
+ "indie.herdr-hud": {
+  "commit": "9b78517140875ebb1f658cff403439498ab22b30",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.aastrand.panorama": {
+  "commit": "d71772790c0420801f39a90dda1a9a215dab498b",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some of it runs off the edge"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.aditya-raj-tiwari.omarchycast": {
+  "commit": "7b66ef6d978e508f725b668625a9867c9f98b745",
+  "icon": "io.github.aditya-raj-tiwari.omarchycast-2ab5f88c.webp",
+  "needs": [],
+  "notes": [],
+  "rating": "retest",
+  "shots": [
+   "io.github.aditya-raj-tiwari.omarchycast-0-35bb6c3e.webp"
+  ]
+ },
+ "io.github.ajanraj.itsy-calendar": {
+  "commit": "6c987584dbdf036b3cad00d1072a481286d6f0d2",
+  "icon": "io.github.ajanraj.itsy-calendar-d6b2c7ad.webp",
+  "needs": [],
+  "notes": [
+   "Expects the desktop bar",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.ajanraj.itsy-calendar-0-65aa57c2.webp",
+   "io.github.ajanraj.itsy-calendar-1-4c16339c.webp",
+   "io.github.ajanraj.itsy-calendar-2-197862d8.webp"
+  ]
+ },
+ "io.github.alront.agent-folder-picker": {
+  "commit": "4f810f052465e5c7a19aead597e5eff96b4d85d3",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.andreivinca.note-note": {
+  "commit": "9f6b8a27ea41a096cfdc238588430b55a4749278",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Scrolls sideways",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.andyweiboan.launchpad": {
+  "commit": "1acbb55887a140c4b03af31f438595eb5cbdc2f5",
+  "icon": "io.github.andyweiboan.launchpad-e08acec4.webp",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "io.github.andyweiboan.launchpad-0-2f17fca5.webp"
+  ]
+ },
+ "io.github.andyweiboan.missioncontrol": {
+  "commit": "dd4a9db3f99ea62bdc1c933f89ca002024daf320",
+  "icon": "io.github.andyweiboan.missioncontrol-cb6b7afa.webp",
+  "needs": [
+   "microphone"
+  ],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Small text",
+   "Some labels are cut off",
+   "Some of it runs off the edge"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "io.github.andyweiboan.missioncontrol-0-c37712b7.webp"
+  ]
+ },
+ "io.github.antoniowav.appsweep": {
+  "commit": "bb91c8f8158e4355dc54c763ceba408a5b57a24a",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.atif-1402.ai-panel": {
+  "commit": "9af428b76a54a88b217334e8b9d03a999f827544",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app"
+  ],
+  "rating": "not usable",
+  "shots": []
+ },
+ "io.github.bhanuprassad.navigator": {
+  "commit": "4d92a7530efe9e61d5ca443ea3b172b09bf69840",
+  "icon": "",
+  "needs": [
+   "container or VM"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.bhanuprassad.try": {
+  "commit": "13c8732e2b369f1e2be21101da4602555f17e0b5",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Made for a keyboard: nothing to tap"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "io.github.bhanuprassad.try-0-1abe8041.webp"
+  ]
+ },
+ "io.github.bit-casper.duck": {
+  "commit": "feb0873eef87026ff169632b2c8da08945c2b9c9",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the home gesture",
+   "Made for a keyboard: nothing to tap",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.brhellman.browser-select": {
+  "commit": "339f73ab3674c96966c0afaaeddb8ad487aa4766",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.bruce-forte.old-theme-switcher": {
+  "commit": "b0042d8e9c2790c4c0c71291e412c1e94786098e",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.bytemirror.kirinuki": {
+  "commit": "534bf98ca5e8255bd74024d54421955ed23679c2",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Opens to an empty window",
+   "Opens to an empty screen"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "io.github.calebhat.themebook": {
+  "commit": "cfc7c24e88b22ed34f0be8de98d35f298ee86c44",
+  "icon": "io.github.calebhat.themebook-c269bac7.webp",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Some of it runs off the edge",
+   "Scrolls sideways",
+   "Some buttons are small for a finger",
+   "Small text"
+  ],
+  "rating": "retest",
+  "shots": [
+   "io.github.calebhat.themebook-0-5fa8954f.webp",
+   "io.github.calebhat.themebook-1-c3a90aee.webp",
+   "io.github.calebhat.themebook-2-8c6cf5cc.webp"
+  ]
+ },
+ "io.github.cbullard.defthis": {
+  "commit": "675639c4e88c8ddd0f902776723adb39832050f5",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.cfaulkingham.omasnapshot": {
+  "commit": "496261923a091b774462e88c886cb04dcdd46d56",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app"
+  ],
+  "rating": "not usable",
+  "shots": []
+ },
+ "io.github.cjgarcia1229.monitor-layout": {
+  "commit": "e3832a6ee5d9234ba973ea56b938f17d309eb48f",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Did not open when tested"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "io.github.claudsondouglas.arcdock": {
+  "commit": "dd919eb6257cc7ae1264d77821f7273ad0cf7050",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": [
+   "io.github.claudsondouglas.arcdock-0-207afa56.webp"
+  ]
+ },
+ "io.github.codesmith28.omalt-tab": {
+  "commit": "4ff9723690e577b89e236b9ea1666a352d812f75",
+  "icon": "io.github.codesmith28.omalt-tab-96d28529.webp",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "The back gesture does nothing",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": [
+   "io.github.codesmith28.omalt-tab-0-ee9d2174.webp"
+  ]
+ },
+ "io.github.cytracon.shortcuts": {
+  "commit": "a7213b3220da521683a623655673039244288836",
+  "icon": "io.github.cytracon.shortcuts-a521920f.webp",
+  "needs": [],
+  "notes": [
+   "Made for a keyboard: nothing to tap"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "io.github.cytracon.shortcuts-0-b98135a4.webp"
+  ]
+ },
+ "io.github.davidkim-sometimes-davekim.capture": {
+  "commit": "bccb0c82bd1eff3cb8b762b7687ffef12d0eac33",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Did not open from its app entry",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.davidojedalopez.todoist": {
+  "commit": "3a6abfd414031bc639729f43e53a65ca1e6ea5ff",
+  "icon": "io.github.davidojedalopez.todoist-8e408af4.webp",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Some labels are cut off"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.davidojedalopez.todoist-0-20dadca2.webp"
+  ]
+ },
+ "io.github.deunnis.lacquer": {
+  "commit": "79237c53e5d554f4640b29d7376e574875b18055",
+  "icon": "io.github.deunnis.lacquer-eb016864.webp",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Expects the desktop bar",
+   "Scrolls sideways",
+   "Some labels are cut off",
+   "Some buttons are small for a finger",
+   "Some of it runs off the edge"
+  ],
+  "rating": "retest",
+  "shots": [
+   "io.github.deunnis.lacquer-0-a39abd51.webp",
+   "io.github.deunnis.lacquer-1-a00e7a08.webp",
+   "io.github.deunnis.lacquer-2-5a95a6f0.webp"
+  ]
+ },
+ "io.github.dkgamer02ai.wallpaper-engine": {
+  "commit": "1902388ad122da6bf5763e426f5534c762a681ea",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Did not open from its app entry"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.doctor.omabird": {
+  "commit": "4d8496906bda1328b728b4cb65ffc8220a3adb06",
+  "icon": "io.github.doctor.omabird-c085cf57.webp",
+  "needs": [],
+  "notes": [
+   "Some of it runs off the edge"
+  ],
+  "rating": "perfect",
+  "shots": [
+   "io.github.doctor.omabird-0-757fa4e4.webp",
+   "io.github.doctor.omabird-1-6c065540.webp"
+  ]
+ },
+ "io.github.ejuro.extended-theme-picker": {
+  "commit": "548e10e78ebbb656bf9aed173e7acccc45238de9",
+  "icon": "io.github.ejuro.extended-theme-picker-a8524460.webp",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Some of it runs off the edge"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "io.github.ejuro.extended-theme-picker-0-e9acfdb3.webp"
+  ]
+ },
+ "io.github.ellion369.omagent": {
+  "commit": "2979e9728b11ada6a29c9b315a2ac8e0a48380c4",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "io.github.elvis-christian.homelab-launcher": {
+  "commit": "d3c3eabff39ca88cbf07be41147c5fc3c2d6349a",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.equa-tory.quicksearch": {
+  "commit": "0a43b4314dcf62c19f3b86f6dbe09280ab919160",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "io.github.equa-tory.quicksearch-0-4e9ab867.webp",
+   "io.github.equa-tory.quicksearch-1-acc72d91.webp"
+  ]
+ },
+ "io.github.erikburdett.rollingshot": {
+  "commit": "dc85da7063a1d5257031a328cdfbcf6578788dfa",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Opens to an empty window",
+   "Opens to an empty screen"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "io.github.falser101.window-preview": {
+  "commit": "7076910fc6e4bb694e03651d19089361265670a4",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture",
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "io.github.falser101.window-preview-0-228395d1.webp"
+  ]
+ },
+ "io.github.fze-fze.shortcut-sheet": {
+  "commit": "b7658d7b81a193d699dc25a73a1328b349823468",
+  "icon": "io.github.fze-fze.shortcut-sheet-059422bd.webp",
+  "needs": [],
+  "notes": [
+   "Scrolls sideways",
+   "Some buttons are small for a finger",
+   "Some labels are cut off"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "io.github.fze-fze.shortcut-sheet-0-2c57d192.webp",
+   "io.github.fze-fze.shortcut-sheet-1-ecf330cd.webp"
+  ]
+ },
+ "io.github.gabrielvincent.switcharoo": {
+  "commit": "0d2581d2bad2197e634715a23480bdb8534ad6c3",
+  "icon": "io.github.gabrielvincent.switcharoo-0536978a.webp",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "The back gesture does nothing",
+   "Covers the home gesture"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "io.github.gabrielvincent.switcharoo-0-8921851b.webp"
+  ]
+ },
+ "io.github.grupertal.biometric-hud": {
+  "commit": "b339f9ffc3833163f95bd691232e7698ff5e9391",
+  "icon": "",
+  "needs": [
+   "hardware sensor"
+  ],
+  "notes": [
+   "Opens to an empty window",
+   "Opens to an empty screen"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "io.github.grzeskobyte.omagrid": {
+  "commit": "bc590a6f50b0df8d509f27d0bc4e838e1a2714d8",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some of it runs off the edge"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.gsirawan.bitmochi": {
+  "commit": "36d0e42f9e8a1cc2de00ac954a8a04f774d5ac92",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.gsirawan.bitmochi-0-98c93b8d.webp",
+   "io.github.gsirawan.bitmochi-1-133e98b6.webp",
+   "io.github.gsirawan.bitmochi-2-f4d84bfc.webp"
+  ]
+ },
+ "io.github.hanssound.bar-hints": {
+  "commit": "2a680fd1566a7474c1d3e824db0bd6ee57fd0c86",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Expects the desktop bar",
+   "Opens to an empty window",
+   "Opens to an empty screen"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "io.github.henksys.ask": {
+  "commit": "11f8d99553cbc67933ac0bb7316d015261916dab",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.henksys.ask-0-2c4521c4.webp",
+   "io.github.henksys.ask-1-14e65d0a.webp",
+   "io.github.henksys.ask-2-fea5805c.webp"
+  ]
+ },
+ "io.github.iainfreestone.control-tower": {
+  "commit": "74b97df31bd5b58d23e34fd125bc68f724d0a4a7",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger",
+   "Some of it runs off the edge"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.iainfreestone.toolroll": {
+  "commit": "876bd40a13e7938f9239e8157a8d0f81bd02f97c",
+  "icon": "io.github.iainfreestone.toolroll-64427390.webp",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Scrolls sideways",
+   "Some buttons are small for a finger",
+   "Some of it runs off the edge"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.iainfreestone.toolroll-0-49c1d284.webp"
+  ]
+ },
+ "io.github.idr4n.clipboard-plus": {
+  "commit": "0ab8647d207d161334321ab6bd05117c7313d0f6",
+  "icon": "io.github.idr4n.clipboard-plus-a0f78b8a.webp",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Scrolls sideways",
+   "Some labels are cut off",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "io.github.idr4n.clipboard-plus-0-183cd3f0.webp",
+   "io.github.idr4n.clipboard-plus-1-70ce353d.webp",
+   "io.github.idr4n.clipboard-plus-2-babba800.webp"
+  ]
+ },
+ "io.github.iryzhkov.omadeck": {
+  "commit": "29b759d5c5d23c6f176345506807f88bf2ea4efc",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Expects the desktop bar"
+  ],
+  "rating": "retest",
+  "shots": [
+   "io.github.iryzhkov.omadeck-0-56b071c2.webp"
+  ]
+ },
+ "io.github.jalv13.roku": {
+  "commit": "eee991425b7a4432d769cf65dde0c711c88f73fb",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.jalv13.roku-0-de830093.webp",
+   "io.github.jalv13.roku-1-f2fc97f5.webp"
+  ]
+ },
+ "io.github.jamesd7788.omatype": {
+  "commit": "1ac5666604162dfcfca1c40622e3236280c9abeb",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.jamesweatherhead.jukebox": {
+  "commit": "5cc12e0bd6c0b5744388dda050286d63ce1f2919",
+  "icon": "",
+  "needs": [
+   "GPU compute",
+   "account or API key",
+   "microphone",
+   "secret store"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Small text",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.jcputney.media-float-plex": {
+  "commit": "a0028382d726e69051875da9dcb79bc188d0c328",
+  "icon": "",
+  "needs": [
+   "account or API key",
+   "container or VM"
+  ],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.jcputney.media-float-twitch": {
+  "commit": "5044c255501f8eb787dccc6a2cf06189e25ee5d9",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.jcputney.media-float-youtube": {
+  "commit": "6e14006a7abf66f0f3b2b3871fbf87d24e496609",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.jesse-chelin.emoji-picker": {
+  "commit": "e73101907c164710e4039e3fd078191e55295563",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.josephbriones.clearread": {
+  "commit": "d703d890202ae0fb7a608efc2716468593beb1a5",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.joshuaswarren.somafm": {
+  "commit": "aafbdf36b0cbc23e0cf4a8f1befb6d9aeead3e83",
+  "icon": "io.github.joshuaswarren.somafm-63e61482.webp",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.joshuaswarren.somafm-0-3db8118a.webp",
+   "io.github.joshuaswarren.somafm-1-6556d37f.webp"
+  ]
+ },
+ "io.github.keegan-sucks.lookup": {
+  "commit": "5776b17e9d8a67871dd838724d6892b97f16fc0f",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.keegan-sucks.lookup-0-5e30d913.webp",
+   "io.github.keegan-sucks.lookup-1-f7d7f54a.webp",
+   "io.github.keegan-sucks.lookup-2-371747d4.webp"
+  ]
+ },
+ "io.github.komagata.omatext": {
+  "commit": "11aee6b606fa469cec8db9c4e5c7353d8cc7dda8",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.krishang-zinzuwadia.omarchy-clipboard": {
+  "commit": "7efa1b3ada68bcde437ba83a9cb01c73cbb056f1",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some labels are cut off"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.layolayo.eternal-moment": {
+  "commit": "9277728118ca2c16a3d30ccf7369339491f9ecf9",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Did not open when tested"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.lennartai.snake": {
+  "commit": "650dae750d464e7630e623b5b8858d6d866a5b33",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Did not open from its app entry",
+   "Some of it runs off the edge"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.lonegeekranger.pop-this-binding": {
+  "commit": "ddb33fd62a7937af3e4ce6f4477b8a3aea30413b",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Made for a keyboard: nothing to tap",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.maajix.spotlight": {
+  "commit": "68ce0f70701661fe52558f74fa26be905c219e3c",
+  "icon": "io.github.maajix.spotlight-baac405f.webp",
+  "needs": [
+   "account or API key",
+   "container or VM"
+  ],
+  "notes": [
+   "Did not open from its app entry"
+  ],
+  "rating": "retest",
+  "shots": [
+   "io.github.maajix.spotlight-0-482d2501.webp"
+  ]
+ },
+ "io.github.manateelazycat.workspace-gallery": {
+  "commit": "6fed7ad0e7eac53d0ce43e90355df186656fcb25",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "The back gesture does nothing",
+   "Covers the home gesture"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.marko-builds.borealis": {
+  "commit": "c0c0b95d74aed0a0b01029f5ab195e472d8761e4",
+  "icon": "io.github.marko-builds.borealis-c9e68a68.webp",
+  "needs": [],
+  "notes": [],
+  "rating": "desktop only",
+  "shots": [
+   "io.github.marko-builds.borealis-0-527a37fc.webp"
+  ]
+ },
+ "io.github.marko-builds.porthole": {
+  "commit": "1b09d6d392a4c289ad9f63fd86d983be42e81ee3",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.matt-aaz.quick-capture": {
+  "commit": "2d22bcc2a6dcc9241ef9330d5a87da925dacfaf5",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "io.github.mtolhuys.theme-manager": {
+  "commit": "6eeb103e0ff243b3fa17b42f68f87112e0f76011",
+  "icon": "io.github.mtolhuys.theme-manager-a8524460.webp",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Some of it runs off the edge"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "io.github.mtolhuys.theme-manager-0-b4edbc3d.webp"
+  ]
+ },
+ "io.github.nick-friedrich.hyprland-dock": {
+  "commit": "9fd835b7e501f635b5b21418fc387379666f4140",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have"
+  ],
+  "rating": "retest",
+  "shots": [
+   "io.github.nick-friedrich.hyprland-dock-0-cfb251f3.webp"
+  ]
+ },
+ "io.github.nventatech.dockplus": {
+  "commit": "599725eebe0157e4f404bdc75b159cedc6766634",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the whole screen instead of opening as an app",
+   "The back gesture does nothing"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.ok.omakoe": {
+  "commit": "87399ec6c5bf0184b8c773f0bceed5bd6822c916",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Opens to an empty window",
+   "Opens to an empty screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.omashuffle": {
+  "commit": "283951b47746a795f9070268b350f930bab98897",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.pablo-merino.altswitch": {
+  "commit": "b99a58ca94e7ffcb6785d009a2e88f9e68599642",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Opens to an empty window",
+   "Opens to an empty screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.pantherdev2024.quartermaster": {
+  "commit": "3ca7f50f9257b7e58813146a513d067b4fc87282",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "io.github.pantherdev2024.quartermaster-0-e429f3e2.webp"
+  ]
+ },
+ "io.github.peterholko.number-grove": {
+  "commit": "4267f58761ba6f8563e36b2689d7e41daa7fe40c",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some of it runs off the edge"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.peterholko.paw-post": {
+  "commit": "c23556a4353ac2acce3288a3c901cfaeeb19a2bd",
+  "icon": "",
+  "needs": [
+   "account or API key",
+   "microphone"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.peterholko.pawberry": {
+  "commit": "79bd4de3e4744208e4bb315f4e0acd70f985d2ea",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some of it runs off the edge"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.phedoreanu.ram-speedtest": {
+  "commit": "d2fa57219756f34c3553ef818eb06f10b1a76a0e",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "not usable",
+  "shots": [
+   "io.github.phedoreanu.ram-speedtest-0-0407c9db.webp"
+  ]
+ },
+ "io.github.prohner.snippets": {
+  "commit": "1371219ee0a8a877374d2676950d311a17c4d0f7",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.r0b0tlab.hermes-usage": {
+  "commit": "e41aae55fc386ee1154b203846775007555d3dcb",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.regionallyfamous.fukan": {
+  "commit": "3aa7238f2d4fe8dab735cf75e50fa56df16e335b",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.regionallyfamous.iromihon": {
+  "commit": "655dbc9d27711b94b13939eb15bc1b0a546ca122",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.rma131.borealis-atlas": {
+  "commit": "d47d2b2497bd098265b2c6dfbf265a7c9a575f90",
+  "icon": "io.github.rma131.borealis-atlas-7caaa3d1.webp",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [],
+  "rating": "usable",
+  "shots": [
+   "io.github.rma131.borealis-atlas-0-db233334.webp",
+   "io.github.rma131.borealis-atlas-1-0c1b3498.webp",
+   "io.github.rma131.borealis-atlas-2-408794dc.webp"
+  ]
+ },
+ "io.github.rodrix2000.chess": {
+  "commit": "063c9a950500bad8f9deb8bd981bafaa70e22ebb",
+  "icon": "io.github.rodrix2000.chess-a4c7a6f8.webp",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Some of it runs off the edge",
+   "Some labels are cut off"
+  ],
+  "rating": "perfect",
+  "shots": [
+   "io.github.rodrix2000.chess-0-06d61edf.webp",
+   "io.github.rodrix2000.chess-1-3223e69a.webp",
+   "io.github.rodrix2000.chess-2-31a13b8e.webp"
+  ]
+ },
+ "io.github.rohan-patnaik.window-switcher": {
+  "commit": "b9115759175be41b71516926037b480f92449e8f",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.romills.omarkeys": {
+  "commit": "2bea4bd2de6793e63e854066f1e29bb38b66f2d9",
+  "icon": "",
+  "needs": [
+   "container or VM"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger",
+   "Small text"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.rookepoole.decision-deck": {
+  "commit": "aa2980f880ee09398f371fbd1498b1f7260761df",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.rookepoole.palette-prism": {
+  "commit": "afcd50552b0673b91b389f4affc195fbf4af70cc",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.rookepoole.zen-breather": {
+  "commit": "2f526fc4c751b11485753745f183ab331f175050",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.sanjyay.zenmode": {
+  "commit": "5db88cdc5d80858f1f934b7fcee863c90f64c9f8",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Expects the desktop bar",
+   "Made for a keyboard: nothing to tap",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.schmunk42.shortkeyz": {
+  "commit": "99ddd35c46efa2c5df4e77a698664987c9a0d413",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Some buttons are small for a finger",
+   "Small text",
+   "Some labels are cut off"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "io.github.schmunk42.shortkeyz-0-2fe8575e.webp"
+  ]
+ },
+ "io.github.shabdar.omask": {
+  "commit": "a9f81ffa651e685b0b2744239a1ac7c9a7d01c77",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.silkvain.dockseid": {
+  "commit": "2a7e0ed7815a6717b383efee448cd8c97c1232e3",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.sirjul1337.lock-explorer": {
+  "commit": "ed8e8f821def4ec228ffaaf2112eda3416555799",
+  "icon": "io.github.sirjul1337.lock-explorer-23af9e32.webp",
+  "needs": [
+   "account or API key",
+   "hardware sensor"
+  ],
+  "notes": [
+   "Expects the desktop bar",
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": [
+   "io.github.sirjul1337.lock-explorer-0-66280d3f.webp",
+   "io.github.sirjul1337.lock-explorer-1-b1a78be9.webp",
+   "io.github.sirjul1337.lock-explorer-2-68918193.webp"
+  ]
+ },
+ "io.github.sirmenef.workspace-overview": {
+  "commit": "a98726ca1feb67f6eb6acc46e63fd016f20aa40f",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Small text"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.sl0wzer.lamha": {
+  "commit": "6b448ad18341a201cccad531fb027479ade422b4",
+  "icon": "",
+  "needs": [
+   "microphone"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.stackingturtles.t480fingerprint": {
+  "commit": "b3bcc637f95a6ab0551bf22bbc5cbc64eba3fbcc",
+  "icon": "",
+  "needs": [
+   "hardware sensor"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.tallsam.navbar-cat": {
+  "commit": "b944d31f051b4d45bbb04fa628738ff1317fa6bd",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Expects the desktop bar",
+   "Some buttons are small for a finger",
+   "Some of it runs off the edge"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.terrifiedbug.omacast": {
+  "commit": "25956fac1bbf2a09ed20382c1a0ee75142fee833",
+  "icon": "",
+  "needs": [
+   "container or VM"
+  ],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "io.github.terrifiedbug.omaspaces": {
+  "commit": "482bdf2ff10fc749b5765a83a7039579df91dbfc",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.thebenwalther.switchboard": {
+  "commit": "0ead290b18e35ab994404b9e9bcffc8f6e5987e5",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Some of it runs off the edge"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "io.github.thebenwalther.switchboard-0-8a0499a9.webp"
+  ]
+ },
+ "io.github.thecdrz.pebble": {
+  "commit": "32c8dc21dbaeff7dd144ab54e6e3f5207cb2c91b",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Expects the desktop bar",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "io.github.tnep4.recast": {
+  "commit": "e6d940770ce0e159f6fcfff6bac0346462c8da41",
+  "icon": "",
+  "needs": [
+   "account or API key",
+   "secret store"
+  ],
+  "notes": [
+   "Did not open when tested"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "io.github.tomfaulkner.tuts-tomb": {
+  "commit": "ebbe3f9716b6cfe17f13ffd74eb6034b88352052",
+  "icon": "io.github.tomfaulkner.tuts-tomb-1bbb1ec7.webp",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Some labels are cut off",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.tomfaulkner.tuts-tomb-0-f4a94ba0.webp",
+   "io.github.tomfaulkner.tuts-tomb-1-ce3c3afd.webp"
+  ]
+ },
+ "io.github.treramey.raindrop-bookmarks": {
+  "commit": "dd02755256bc954799f0d7ea283185a0fa22129a",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.tuxclaw.familiar": {
+  "commit": "dfe2e46af025aab1957b759b57985798d7069d55",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some labels are cut off"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.u64a.project-launcher": {
+  "commit": "04bbe853643466bbbe077835d08e6ca6f1829c24",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "io.github.weedwhitesandwine.omascratch": {
+  "commit": "ed2903ef3855d3283141616c933936f3aec71c0e",
+  "icon": "io.github.weedwhitesandwine.omascratch-9d05b108.webp",
+  "needs": [],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.weedwhitesandwine.omascratch-0-b945479d.webp",
+   "io.github.weedwhitesandwine.omascratch-1-cba2e3c3.webp"
+  ]
+ },
+ "io.github.whiskeytuesday.custom-font": {
+  "commit": "b98b404731cee3da8a20b4f297f8940e80d7d097",
+  "icon": "io.github.whiskeytuesday.custom-font-eca6bf6a.webp",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger",
+   "Some labels are cut off"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "io.github.whiskeytuesday.custom-font-0-8b3f21d1.webp",
+   "io.github.whiskeytuesday.custom-font-1-934b5222.webp"
+  ]
+ },
+ "ipkalid.flatpak-store": {
+  "commit": "4d06522b4aee87c8cad7d2b3309ea1f2e49e4c5e",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "jankeesvw.omasweeper": {
+  "commit": "c6efe0afe50f149a38ce8e6288b6410e486a87a6",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger",
+   "Small text"
+  ],
+  "rating": "retest",
+  "shots": [
+   "jankeesvw.omasweeper-0-3b3d8a90.webp",
+   "jankeesvw.omasweeper-1-182f62ef.webp",
+   "jankeesvw.omasweeper-2-d7205651.webp"
+  ]
+ },
+ "jeffrey.icons": {
+  "commit": "46d475329f7626cfc332269fca14bd0aa9a1c6d5",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "jesperlugner.omaflow": {
+  "commit": "bc20f53c94799a2df645b738bf7c1c7aeb0885cb",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Some of it runs off the edge"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "jesusarchive.dynamic-menu": {
+  "commit": "d8d7f90bf007d23c9c802d579569c3f70053909b",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Made for a keyboard: nothing to tap",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "jgarza.scrolldock": {
+  "commit": "11aa8aeb5f3e3020ecb8a6cad5b0bbb2922593a6",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture",
+   "Made for a keyboard: nothing to tap"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "jkarmel.plugin-search": {
+  "commit": "f80412efa48f62bfdf7f385da408c79559b71fdd",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Expects the desktop bar",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "jkr.omajump": {
+  "commit": "c34c2296cb9e7672d1226859573cb85ced8811d3",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "jmckible.swatch": {
+  "commit": "1d04e67bb9be8e3b54431f1db86233487d6ed53d",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Expects the desktop bar",
+   "Drawn for a bigger screen",
+   "Scrolls sideways",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "jose.launcherplease": {
+  "commit": "942d79c4cbdfd9050cc576fef423617ac401fff3",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "jose.windowsplease": {
+  "commit": "3eed7c1b262489877e46aeef1b8be3ad68f643c9",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Made for a keyboard: nothing to tap",
+   "Drawn for a bigger screen",
+   "Some of it runs off the edge"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "k4ditano.omascreen": {
+  "commit": "efd097dee572205675c6ed44b82b94171e123216",
+  "icon": "",
+  "needs": [
+   "GPU compute",
+   "camera",
+   "microphone"
+  ],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Some buttons are small for a finger",
+   "Small text"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "kairos.theme-forge": {
+  "commit": "ce76200b2da982f18f1cbc881ef1aa476c0b7481",
+  "icon": "kairos.theme-forge-dca967a9.webp",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Expects the desktop bar",
+   "Some buttons are small for a finger",
+   "Small text",
+   "Some of it runs off the edge"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "kairos.theme-forge-0-8b248241.webp",
+   "kairos.theme-forge-1-f97cde2c.webp",
+   "kairos.theme-forge-2-7b5f8430.webp"
+  ]
+ },
+ "keybindings.king": {
+  "commit": "fa379f6ff3c7c381ec9bcf734c48f6dc7c571f12",
+  "icon": "",
+  "needs": [
+   "container or VM"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some labels are cut off"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "kuryrc.mfa": {
+  "commit": "bc79af35e16b159eab510cf4a8a11571c49d7b22",
+  "icon": "kuryrc.mfa-62bb66e6.webp",
+  "needs": [],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "perfect",
+  "shots": [
+   "kuryrc.mfa-0-392b0863.webp",
+   "kuryrc.mfa-1-b60deb0e.webp",
+   "kuryrc.mfa-2-67121cfd.webp"
+  ]
+ },
+ "leonrlr4.days": {
+  "commit": "449f1e783822948a8267db1663c5518c1f75d87f",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": [
+   "leonrlr4.days-0-196217a6.webp"
+  ]
+ },
+ "local.dmenu": {
+  "commit": "b998e87059f813f72c34587c288b3d18884d79e8",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Scrolls sideways"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "lonefox.ferret": {
+  "commit": "9f5a8bbb17bc9731adde083a0de02736b0f3fa01",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "losokos.window-gallery": {
+  "commit": "c297b085c827797ee20970c96ac4d3950d69a981",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "lukedaduke.standby": {
+  "commit": "28a27ad4a362941fe818652be8140cc84a8d32ea",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": []
+ },
+ "luneth90.keycade": {
+  "commit": "80e6b791bc96a5f23d6dedd5fb9d7e7d109921fd",
+  "icon": "luneth90.keycade-e99ad24b.webp",
+  "needs": [
+   "container or VM"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Some of it runs off the edge",
+   "Small text",
+   "Some labels are cut off"
+  ],
+  "rating": "retest",
+  "shots": [
+   "luneth90.keycade-0-1b1757e2.webp",
+   "luneth90.keycade-1-6b813e9c.webp"
+  ]
+ },
+ "luneth90.omamigrate": {
+  "commit": "f66c0f05c61d5e4e4dad9527ebc5bac06dfb7125",
+  "icon": "luneth90.omamigrate-315d2124.webp",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Some of it runs off the edge",
+   "Small text",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "luneth90.omamigrate-0-c4160147.webp"
+  ]
+ },
+ "m4rone.slicetab": {
+  "commit": "f1d481d9f0ea08071dfb1231f00d7109510a28c1",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Some of it runs off the edge"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "macos.dock": {
+  "commit": "6f164010ee65c047d3b08138d8522c51248f6494",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Opens to an empty window",
+   "Opens to an empty screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "marcho78.magnify-dock": {
+  "commit": "ccc934f8a1dbfb42cd1017a3d04603a0de524e85",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "mateuszkowalczyk.obsidian-quick-switcher": {
+  "commit": "6eef23c0a42adec6b0fdaafd9a066646fe52cc3e",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some labels are cut off"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "meviusisback.keybinds": {
+  "commit": "ad8199d0369be2b28869a29b6fbf1f8f0589a5cf",
+  "icon": "meviusisback.keybinds-cf78dea8.webp",
+  "needs": [
+   "container or VM",
+   "hardware sensor"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Some of it runs off the edge",
+   "Small text",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": [
+   "meviusisback.keybinds-0-f4c3ccb0.webp",
+   "meviusisback.keybinds-1-8b7b92e6.webp",
+   "meviusisback.keybinds-2-895e3c77.webp"
+  ]
+ },
+ "min-launcher": {
+  "commit": "f28f23119f46b554321391acf2b2f57eb9207efd",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "ming.keybindings": {
+  "commit": "04d0957bc3ff588e14257be0a184f732b5665b61",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "mirador": {
+  "commit": "e4c0b951c08374d497379ed304721da5cb77ca3e",
+  "icon": "mirador-5a46d50b.webp",
+  "needs": [],
+  "notes": [
+   "Expects the desktop bar",
+   "Some labels are cut off"
+  ],
+  "rating": "retest",
+  "shots": [
+   "mirador-0-64fe819e.webp"
+  ]
+ },
+ "mpb.workspace-overview": {
+  "commit": "8b462d5078a03ad09f14822ae4db939f95ed42a7",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "muellan.omababel": {
+  "commit": "f52016e2a65fa70a0adb5133e97c8961e953f950",
+  "icon": "",
+  "needs": [
+   "account or API key",
+   "secret store"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "muellan.omacppman": {
+  "commit": "154a283e8eb9ed355f0073a5f1a21ea4be713e4f",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some labels are cut off",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "nagualcode.speakercorners": {
+  "commit": "8f6d359af2abf2a181656ea16e50902465d98081",
+  "icon": "",
+  "needs": [
+   "container or VM"
+  ],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the home gesture",
+   "Expects the desktop bar",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "nerosong.battery-alerts": {
+  "commit": "3502b87e04f3b1cdc5a7f59d33a2b7686a67bdb7",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "next-key": {
+  "commit": "e02860f539cdc29eecce6aae6c4de955446bd237",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Opens to an empty window",
+   "Opens to an empty screen"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "ngnk.glass-clock": {
+  "commit": "b7aaa59fe3249b3892db5824083818637011707b",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Made for a keyboard: nothing to tap",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "ngnk.glass-weather": {
+  "commit": "ca48df65fa759972593752f377b13797626d6cff",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture",
+   "Made for a keyboard: nothing to tap"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "nguyenn.clipboard": {
+  "commit": "aa05ae21eea9ce240255065dc1e82cf8bc3fe871",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "nickfoy.flight-board": {
+  "commit": "ace4516e7b59dbb6360d6f48a467a0905a63e6c4",
+  "icon": "",
+  "needs": [
+   "account or API key",
+   "hardware sensor"
+  ],
+  "notes": [
+   "Did not open when tested"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "ninepointlabs.barkeep": {
+  "commit": "c71683e764aee36f3ad32bf14bf14bcc618cdfc2",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Expects the desktop bar",
+   "Drawn for a bigger screen",
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "nkarl.omachords": {
+  "commit": "d786bd760e1c6fa92217f71cd91e9576ed7bd9f1",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "nonmirror.codec": {
+  "commit": "ace8306d43591a84270420da4d171bfb7aee5096",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "nonmirror.dict": {
+  "commit": "1d549e12eee36184310a8547621ed566145b8bf6",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "nonmirror.open-url": {
+  "commit": "329cd7f505c5927d1d3beae1bbc8016a3d2e508f",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "notch": {
+  "commit": "b1fdcdbd26bd8a6db06cfefadcfb77138c4affec",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Made for a keyboard: nothing to tap",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "odock": {
+  "commit": "9298f7c6e13af4079d5a65f068f64fdf5e63ed35",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the whole screen instead of opening as an app"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "odocky": {
+  "commit": "e35ae4b5e39aa2433bf37932c663ca75be4d77ea",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "oliverlukschander.super-plugin-search": {
+  "commit": "d3211db24ff80afb8da9c31fe2c7eae41350b666",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "omadock": {
+  "commit": "0864ef1e0810535b2db93c8976e0386b66418af4",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Opens to an empty window",
+   "Opens to an empty screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "omafocus": {
+  "commit": "5a2a402b910fa5bfe95088de9290688fb803bb61",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "perfect",
+  "shots": [
+   "omafocus-0-8473f5d8.webp"
+  ]
+ },
+ "omakaomoji": {
+  "commit": "449ac37cac099e01a186458b7906f0730a041d36",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Scrolls sideways",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "omamail": {
+  "commit": "3d0d673715cb0fb4f49cb718c2a2dbc002ee8763",
+  "icon": "omamail-df97a39e.webp",
+  "needs": [
+   "account or API key",
+   "secret store"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Did not open from its app entry",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "not usable",
+  "shots": [
+   "omamail-0-7a783a73.webp",
+   "omamail-1-7c1f8748.webp"
+  ]
+ },
+ "omarchy-keycaps": {
+  "commit": "c6fdc9b0d533c1cb81e93b7da02d4af3f29260b0",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Made for a keyboard: nothing to tap",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "omarchy-overview": {
+  "commit": "b09c227ba43182bebf101e5882147029fdddf7f1",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the whole screen instead of opening as an app"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "omarchy-unicode-picker": {
+  "commit": "b7658ba9f0b76643dcbf3274f8ee72fc49c4abdf",
+  "icon": "omarchy-unicode-picker-3e564853.webp",
+  "needs": [],
+  "notes": [],
+  "rating": "desktop only",
+  "shots": [
+   "omarchy-unicode-picker-0-e3615793.webp",
+   "omarchy-unicode-picker-1-b25839ee.webp"
+  ]
+ },
+ "omarchykids.math": {
+  "commit": "f48f98efdfecac19ec580b914203fdc74e21a15f",
+  "icon": "omarchykids.math-8247505a.webp",
+  "needs": [],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "omarchykids.math-0-c2773103.webp",
+   "omarchykids.math-1-ab491468.webp",
+   "omarchykids.math-2-b7cba1b5.webp"
+  ]
+ },
+ "oxhenri.mouse": {
+  "commit": "3662f7bfb3ef5e8acf92cd5556321d8c7c9a6bf2",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "oxhenri.search": {
+  "commit": "85884182c7978f44acb097d979da851b3f57085b",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "ozdadirri.midiviz": {
+  "commit": "484dfae236b99b622bd0acb3709a165087295592",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Scrolls sideways",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "pablopunk.workspace-overview": {
+  "commit": "3b7baad74da7ece848f13d762b91c19bae9cdab8",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Expects the desktop bar",
+   "Opens to an empty window",
+   "Opens to an empty screen"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "panadestein.lexicon": {
+  "commit": "a250a5a883107caa5cbb4e34a149c6aba3783425",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "patrickfanella.monitor-bar": {
+  "commit": "f6df64c3ce5b62cdcea25a2338960e013e6a8102",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture",
+   "Expects the desktop bar",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "payton.glide": {
+  "commit": "0bb3656174942019d78a79ed3fd6fd6a2e046d90",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "payton.patina": {
+  "commit": "a08ddd1df0af95109e154d825a612b06f069c4d4",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "pedro.simple-task": {
+  "commit": "a2ca7e61d6e78662f880f3513ca44633b77dbd24",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "person1873.just-hyprtonation": {
+  "commit": "a8533c2bf7ca16e1450686090c5dc4935aabc47d",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "piyush.omaswitch": {
+  "commit": "1cfc4c2d4ae98914992e815e7b9067ecdf26c0a2",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have"
+  ],
+  "rating": "retest",
+  "shots": [
+   "piyush.omaswitch-0-5114ec39.webp"
+  ]
+ },
+ "primo.dock": {
+  "commit": "270cd863cd323965653b8e832cbe573e3b8f4088",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture",
+   "Expects the desktop bar",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "protoavatar.clipbook": {
+  "commit": "bda5fa046450e5b53ff549dd4fa0f4febf6d1261",
+  "icon": "",
+  "needs": [
+   "container or VM"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "quakattro": {
+  "commit": "45a7192214a56061738c7897af75465916ad08d9",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Made for a keyboard: nothing to tap",
+   "Drawn for a bigger screen",
+   "Some of it runs off the edge"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "quicksticky.notepad": {
+  "commit": "8b5d65336e84cf168ad88ce3ec2991e0f94a0d68",
+  "icon": "quicksticky.notepad-90128bac.webp",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "quicksticky.notepad-0-9ca082fb.webp",
+   "quicksticky.notepad-1-b5bc5aa1.webp",
+   "quicksticky.notepad-2-4c2fa21a.webp"
+  ]
+ },
+ "radres.call-me": {
+  "commit": "bc64880d2db28252e7726cb1375f89a6b8f8286f",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "rainan16.workspace-touch-swipe": {
+  "commit": "d94432bf0301920c2ab5e76dbfbc8e9c7670cba8",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Did not open when tested"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "raulonastool.clickwheel": {
+  "commit": "872d03dea2121b1f5d683c8b897f5d9f62162afd",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "raulonastool.omawild": {
+  "commit": "d8b1a6a68217d804370e2b13de0981525ab0f461",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "rblalock.grid-wallpaper-picker": {
+  "commit": "85602af797bcd3a56b17095921b75c9c40a42ce9",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "rblalock.panel-notes": {
+  "commit": "23dbb7c76bdf6960e89e63c5781d7d2d77d05dae",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Did not open from its app entry",
+   "Opens to an empty screen"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "rdf.dock": {
+  "commit": "750e16533652b3be44a1b41626dacc70148d39fd",
+  "icon": "",
+  "needs": [
+   "container or VM"
+  ],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the whole screen instead of opening as an app"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "reidenxerx.aerial": {
+  "commit": "af5d83a52e6457c04aa5f8ed510109ebf91ba098",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the whole screen instead of opening as an app",
+   "The back gesture does nothing"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "reidenxerx.barber": {
+  "commit": "7752a13208c6562946622dcf8edb4fbc1882a101",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Expects the desktop bar"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "reidenxerx.emoji-picker": {
+  "commit": "fe34d2c55c1a2e422ecd1bb0da6645d04a26031f",
+  "icon": "",
+  "needs": [
+   "account or API key",
+   "secret store"
+  ],
+  "notes": [
+   "Scrolls sideways",
+   "Some buttons are small for a finger",
+   "Some labels are cut off"
+  ],
+  "rating": "desktop only",
+  "shots": []
+ },
+ "reidenxerx.tactile": {
+  "commit": "0bf4bae05af92e7a1fdb370e9d062d17efffa65f",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "reidenxerx.tile-blueprints": {
+  "commit": "a23f39256e237eb7e1f6f51f61a251724e212f14",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "reinier.homing": {
+  "commit": "78954adabb049a7ce28a8b8fa8af0c2066c92388",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Did not open when tested"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "reomarchy.workspace-switcher": {
+  "commit": "0e3a32d191aa8fae201aaa1ab49f29028f213a7a",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the home gesture",
+   "Made for a keyboard: nothing to tap",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "robertlindomar.omarchy-ptbr.disk-speedtest": {
+  "commit": "e92579ddfa53576c5e3a600e29485107c1faa26d",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "ronnie.expose": {
+  "commit": "a2772d7232f67b34945f279e73617df41ad6f50d",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "roubilibo.omarchy-snip-record": {
+  "commit": "cf72d1b419e466f7306f66c13b4d9f7c367f8c38",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "roubilibo.workspace-navigator": {
+  "commit": "5b5e4c6f78ebb37f9bc81ac789285d77d2bfa8dc",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Scrolls sideways",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "ryenski.taildrop": {
+  "commit": "34b2b182cd1152473c9c9aaff45a4c2728fcefd0",
+  "icon": "ryenski.taildrop-b94a126c.webp",
+  "needs": [
+   "account or API key",
+   "network login"
+  ],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "ryenski.taildrop-0-d0b574a1.webp"
+  ]
+ },
+ "scoop.omacopper": {
+  "commit": "28e0d631a9b062da3654b5259dd9e37ed31fea12",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "se.mindfulstack.omascape": {
+  "commit": "2ed103607b586b0f41c956f5c21355a324cb2a6a",
+  "icon": "se.mindfulstack.omascape-1d75affc.webp",
+  "needs": [
+   "microphone"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": [
+   "se.mindfulstack.omascape-0-02e669ff.webp",
+   "se.mindfulstack.omascape-1-749cc96e.webp",
+   "se.mindfulstack.omascape-2-c395c6c3.webp"
+  ]
+ },
+ "se.mindfulstack.omyview": {
+  "commit": "26c6c11e292aff4b3f991370935107587bfca88f",
+  "icon": "",
+  "needs": [
+   "microphone"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Drawn for a bigger screen",
+   "Some of it runs off the edge"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "sgruendel.fzf": {
+  "commit": "48fe0aa3e88619bfe9ae7c167e4bad1e36ad111e",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "The back gesture does nothing",
+   "Made for a keyboard: nothing to tap"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "sgruendel.fzf-0-41a67fed.webp"
+  ]
+ },
+ "shafayet.finder": {
+  "commit": "8ef3b9d261417896d372e23b0f663f6cb519791f",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "shell.settings": {
+  "commit": "39ca89f5e6ac626a8fadda1f098e44b246c40ae3",
+  "icon": "shell.settings-6059eb83.webp",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Expects the desktop bar",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": [
+   "shell.settings-0-03206b0c.webp",
+   "shell.settings-1-848ba2d7.webp",
+   "shell.settings-2-572988c4.webp"
+  ]
+ },
+ "signal-six.kaomarchy": {
+  "commit": "e2fc5bca24c623c12f19a485fc444bd46e305f84",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "silvaio.emoji-access": {
+  "commit": "e270c3c91a525483b9cb6b8c007178fbb0c2af79",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "simple.dock": {
+  "commit": "f1924dd787b6600e76177ae9da6743b6b93cd581",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "sinkeat.clipstack": {
+  "commit": "8cafe9f3321c0ca60182e7285c768e4ea98b11f8",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "skuthus.omanotch": {
+  "commit": "adb8b1e2d417eb4dccc7b2d581dc9f4c3473618d",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Did not open from its app entry",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "sliekens.margin": {
+  "commit": "6a9248cf4fbc8c61796c2af8b9c161d5eb8ce968",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Made for a keyboard: nothing to tap",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "so.agent-notch": {
+  "commit": "646c7fc69801cc025587aa3c527a9d3c54750ded",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "sspaeti.clipboard": {
+  "commit": "b787a81e5be68e350ccfec696eccdf25fad79759",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Made for a keyboard: nothing to tap"
+  ],
+  "rating": "retest",
+  "shots": [
+   "sspaeti.clipboard-0-b4069f5f.webp"
+  ]
+ },
+ "stefanmara.bookmarks": {
+  "commit": "9be2fc9d1a8b2b708d36276d5902876574952cde",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Did not open from its app entry",
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "super-apps": {
+  "commit": "89310eb72e00e39fa413ee61832dfbe340f0df48",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Made for a keyboard: nothing to tap"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "super-apps-0-6212d56d.webp"
+  ]
+ },
+ "svighnesh.portboard": {
+  "commit": "0244db03822fd28e64bea2c0b83e3c8085af34f5",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "taxin.cursor-style": {
+  "commit": "3757ba3e38d2a8e453b005283fd290aa3e518947",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "taxin.cursor-style-0-67910e2d.webp"
+  ]
+ },
+ "tcballard.github": {
+  "commit": "6d84d58a87f64e8bc8a00a406bd22d99aa30dca9",
+  "icon": "tcballard.github-c2f08884.webp",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "tcballard.github-0-ed583a8c.webp",
+   "tcballard.github-1-ef92c90f.webp",
+   "tcballard.github-2-bb9799a3.webp"
+  ]
+ },
+ "thatpikaga.aurabind": {
+  "commit": "f7505336259be6fc397d3e6e575ddd878023860e",
+  "icon": "",
+  "needs": [
+   "container or VM"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger",
+   "Small text"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "tony.omatabs": {
+  "commit": "fe525abf4ad5f64f36fe157fda5dfb9a1ca50e72",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "The back gesture does nothing",
+   "Covers the home gesture"
+  ],
+  "rating": "not usable",
+  "shots": []
+ },
+ "tonybo.touchbar-radio": {
+  "commit": "e2e5201b2a7b99652f43e2720b0cf2dcb868706d",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "ussego.okata": {
+  "commit": "25605e4f964f704327cc9725cf832d415e79f4e3",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "ussego.omiru": {
+  "commit": "b07745e409ec48b86f4f23b59e682719cd6b368c",
+  "icon": "",
+  "needs": [
+   "container or VM"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Scrolls sideways",
+   "Small text",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "vandaimer.text-polish": {
+  "commit": "a34407f468a57e77f718260a94af56732c548ccc",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "vimarchy": {
+  "commit": "d2a0880993ee01ab91195cc7ed162c983bd6a9d0",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "visigrid.scratch": {
+  "commit": "d3422c1a36f996ac2f7d9856c14491409b95272f",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "voiddropper.gifs": {
+  "commit": "1fbdb7c7b36b5ca567acd837ebee4fa0c467e0d4",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "vt.quicknote": {
+  "commit": "86b5ffb7472a7e6eaaab51fc408cb8883e834fab",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture",
+   "Expects the desktop bar",
+   "Drawn for a bigger screen",
+   "Some labels are cut off",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "wdg.dock": {
+  "commit": "fc2ee90ce414eafcbff2f388f0782988dbd860f6",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Covers the whole screen instead of opening as an app",
+   "Covers the home gesture"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "wellatleastitried.copilot-panel-usage": {
+  "commit": "c3dd849aaad5110fd8a38e90d58b6f119d633f07",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "wessel.better-emojis": {
+  "commit": "5db7bad22da5c9f328b5fbc5c9190c143b8cc39f",
+  "icon": "wessel.better-emojis-98b08ada.webp",
+  "needs": [],
+  "notes": [
+   "Scrolls sideways",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "wessel.better-emojis-0-aed6334e.webp",
+   "wessel.better-emojis-1-4097e3e5.webp",
+   "wessel.better-emojis-2-d768a81f.webp"
+  ]
+ },
+ "wkuehler.amateur-exam-quiz": {
+  "commit": "92e0a744a5cad5d0de5a6bfa38303d4a2dad19fc",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the home gesture",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "wkuehler.mouseless": {
+  "commit": "226bb3cbcb8bf0a0402dc2c7b6f30db85be8365a",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "The back gesture does nothing",
+   "Covers the home gesture",
+   "Made for a keyboard: nothing to tap",
+   "Drawn for a bigger screen",
+   "Some of it runs off the edge"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "yordanbuilds.jot": {
+  "commit": "1886b257b405ef55ae6c119297db388bf21e2a52",
+  "icon": "",
+  "needs": [],
+  "notes": [],
+  "rating": "usable",
+  "shots": [
+   "yordanbuilds.jot-0-b5a49509.webp"
+  ]
+ },
+ "yordanbuilds.rig": {
+  "commit": "a6daf681e9d20021898e9ea06f672279ea17f4d3",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
+ "zezenta.vimoji": {
+  "commit": "b10eebf1b527e06a0a150c42a6579c4f191a861c",
+  "icon": "",
+  "needs": [
+   "camera"
+  ],
+  "notes": [
+   "Some of it runs off the edge",
+   "Small text"
+  ],
+  "rating": "desktop only",
+  "shots": [
+   "zezenta.vimoji-0-69736cf5.webp",
+   "zezenta.vimoji-1-fa715ee0.webp",
+   "zezenta.vimoji-2-5dba3199.webp"
+  ]
+ },
+ "zzwong.stage": {
+  "commit": "98f57d5f9c829dd63b88bd86121d0bf77a1349de",
+  "icon": "zzwong.stage-b63be037.webp",
+  "needs": [],
+  "notes": [
+   "Manages desktop windows, which a phone does not have",
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": [
+   "zzwong.stage-0-74dcbbc9.webp",
+   "zzwong.stage-1-e6d88830.webp",
+   "zzwong.stage-2-56b35dce.webp"
+  ]
+ }
+}
