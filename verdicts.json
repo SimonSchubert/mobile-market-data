@@ -90,9 +90,7 @@
    "Some buttons are small for a finger"
   ],
   "rating": "retest",
-  "shots": [
-   "alanfortlink.clipboard-0-89528f9c.webp"
-  ]
+  "shots": []
  },
  "anagrius.resume": {
   "commit": "cf736a59457ab3e17cc7753c4ee22a71a9d54967",
@@ -102,9 +100,7 @@
    "Made for a keyboard: nothing to tap"
   ],
   "rating": "retest",
-  "shots": [
-   "anagrius.resume-0-ccfdb787.webp"
-  ]
+  "shots": []
  },
  "anavarre.obsidian-focused-search": {
   "commit": "6757c8f3f30e86506d713c937fb97ea794981d67",
@@ -242,11 +238,7 @@
    "Small text"
   ],
   "rating": "retest",
-  "shots": [
-   "b.omashot-0-bd115988.webp",
-   "b.omashot-1-0154d738.webp",
-   "b.omashot-2-331c369b.webp"
-  ]
+  "shots": []
  },
  "bbachmann.foot-bookmarks": {
   "commit": "68164242a97b3bd2860ad316ebd24c8ecc3b9d93",
@@ -293,9 +285,7 @@
    "Covers the home gesture"
   ],
   "rating": "retest",
-  "shots": [
-   "bibek.obsidian-search-0-0b56840c.webp"
-  ]
+  "shots": []
  },
  "birdseye.window-overview": {
   "commit": "e8f678cfea514ca9a6cf74324b034c898ea6a2ab",
@@ -345,9 +335,7 @@
    "Manages desktop windows, which a phone does not have"
   ],
   "rating": "retest",
-  "shots": [
-   "bogdart.dock-0-b8389e87.webp"
-  ]
+  "shots": []
  },
  "bottelet.omatidy": {
   "commit": "15126cc708b51e8cb3677476773929be5677d8ef",
@@ -618,7 +606,7 @@
  },
  "de.gransoftware.podmarchy": {
   "commit": "18ad4bf610935163e8fa50e4f9512074f45562e2",
-  "icon": "",
+  "icon": "de.gransoftware.podmarchy-0245d8b1.webp",
   "needs": [
    "account or API key"
   ],
@@ -628,9 +616,8 @@
   ],
   "rating": "usable",
   "shots": [
-   "de.gransoftware.podmarchy-0-10bea881.webp",
-   "de.gransoftware.podmarchy-1-50d9ce50.webp",
-   "de.gransoftware.podmarchy-2-e1ac29f2.webp"
+   "de.gransoftware.podmarchy-0-50d9ce50.webp",
+   "de.gransoftware.podmarchy-1-e1ac29f2.webp"
   ]
  },
  "de.gransoftware.yank": {
@@ -772,8 +759,7 @@
   "notes": [],
   "rating": "desktop only",
   "shots": [
-   "dmaje.omaflappy-0-e69203f5.webp",
-   "dmaje.omaflappy-1-35361af6.webp"
+   "dmaje.omaflappy-0-e69203f5.webp"
   ]
  },
  "do1mj.qrz": {
@@ -800,7 +786,7 @@
   "shots": [
    "doctor.omadoku-0-d3c701ca.webp",
    "doctor.omadoku-1-5adee7c9.webp",
-   "doctor.omadoku-2-16e71c84.webp"
+   "doctor.omadoku-2-4d42f4f3.webp"
   ]
  },
  "dorneles.ambience": {
@@ -1039,16 +1025,15 @@
  },
  "ghpo.quicknote": {
   "commit": "f4dcb1f1860d4210f35d4a9ed1cd048b81c2766a",
-  "icon": "",
+  "icon": "ghpo.quicknote-70f68278.webp",
   "needs": [],
   "notes": [
    "Some buttons are small for a finger"
   ],
   "rating": "perfect",
   "shots": [
-   "ghpo.quicknote-0-92741853.webp",
-   "ghpo.quicknote-1-29d1d25b.webp",
-   "ghpo.quicknote-2-bb6381f9.webp"
+   "ghpo.quicknote-0-29d1d25b.webp",
+   "ghpo.quicknote-1-bb6381f9.webp"
   ]
  },
  "godofjoper.translate": {
@@ -1087,7 +1072,7 @@
  },
  "icyleaf.bitwarden": {
   "commit": "c94895ec513c0665e810cd2c849a7f0d182ee81c",
-  "icon": "icyleaf.bitwarden-4491229c.webp",
+  "icon": "icyleaf.bitwarden-062fe5f4.webp",
   "needs": [
    "account or API key",
    "secret store"
@@ -1099,11 +1084,11 @@
    "Small text",
    "Some of it runs off the edge"
   ],
-  "rating": "retest",
+  "rating": "usable",
   "shots": [
-   "icyleaf.bitwarden-0-709fa3f8.webp",
-   "icyleaf.bitwarden-1-6df32244.webp",
-   "icyleaf.bitwarden-2-2e14922f.webp"
+   "icyleaf.bitwarden-0-178bd6ad.webp",
+   "icyleaf.bitwarden-1-5733b962.webp",
+   "icyleaf.bitwarden-2-215d4c5d.webp"
   ]
  },
  "ignibyte.kids-clock": {
@@ -1118,7 +1103,7 @@
   "shots": [
    "ignibyte.kids-clock-0-81d5c3be.webp",
    "ignibyte.kids-clock-1-e6f44113.webp",
-   "ignibyte.kids-clock-2-1bb3f167.webp"
+   "ignibyte.kids-clock-2-61c2f0a6.webp"
   ]
  },
  "indie.herdr-hud": {
@@ -1148,13 +1133,11 @@
  },
  "io.github.aditya-raj-tiwari.omarchycast": {
   "commit": "7b66ef6d978e508f725b668625a9867c9f98b745",
-  "icon": "io.github.aditya-raj-tiwari.omarchycast-2ab5f88c.webp",
+  "icon": "",
   "needs": [],
   "notes": [],
   "rating": "retest",
-  "shots": [
-   "io.github.aditya-raj-tiwari.omarchycast-0-35bb6c3e.webp"
-  ]
+  "shots": []
  },
  "io.github.ajanraj.itsy-calendar": {
   "commit": "6c987584dbdf036b3cad00d1072a481286d6f0d2",
@@ -1183,6 +1166,21 @@
    "io.github.alexdont.croc-transfer-0-c9d4d412.webp"
   ]
  },
+ "io.github.allstars101-sudo.dyson-air": {
+  "commit": "2dc6ae447a36d328f6310b9b9e222046125800c5",
+  "icon": "",
+  "needs": [
+   "account or API key",
+   "hardware sensor",
+   "secret store"
+  ],
+  "notes": [
+   "Did not open from its app entry",
+   "Expects the desktop bar"
+  ],
+  "rating": "not usable",
+  "shots": []
+ },
  "io.github.alront.agent-folder-picker": {
   "commit": "4f810f052465e5c7a19aead597e5eff96b4d85d3",
   "icon": "",
@@ -1207,9 +1205,7 @@
   ],
   "rating": "usable",
   "shots": [
-   "io.github.andreivinca.note-note-0-2cb3a562.webp",
-   "io.github.andreivinca.note-note-1-8fbea472.webp",
-   "io.github.andreivinca.note-note-2-127608b9.webp"
+   "io.github.andreivinca.note-note-0-2cb3a562.webp"
   ]
  },
  "io.github.andyweiboan.launchpad": {
@@ -1306,7 +1302,7 @@
  },
  "io.github.bitshiftxr.atrium": {
   "commit": "d54e28559e974f8b90cf53a44903b14efe1173e2",
-  "icon": "io.github.bitshiftxr.atrium-064350cc.webp",
+  "icon": "",
   "needs": [
    "secret store"
   ],
@@ -1315,11 +1311,7 @@
    "Some of it runs off the edge"
   ],
   "rating": "usable",
-  "shots": [
-   "io.github.bitshiftxr.atrium-0-23b1bb9b.webp",
-   "io.github.bitshiftxr.atrium-1-6b371de1.webp",
-   "io.github.bitshiftxr.atrium-2-18d907a5.webp"
-  ]
+  "shots": []
  },
  "io.github.brhellman.browser-select": {
   "commit": "339f73ab3674c96966c0afaaeddb8ad487aa4766",
@@ -1331,6 +1323,22 @@
   ],
   "rating": "retest",
   "shots": []
+ },
+ "io.github.brm-src.omawatch": {
+  "commit": "e31d9eb63ead44658af92f10e544594f59417b21",
+  "icon": "io.github.brm-src.omawatch-fdf4a668.webp",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.brm-src.omawatch-0-fb008a9e.webp",
+   "io.github.brm-src.omawatch-1-049b1450.webp",
+   "io.github.brm-src.omawatch-2-f15b8fd5.webp"
+  ]
  },
  "io.github.bruce-forte.old-theme-switcher": {
   "commit": "b0042d8e9c2790c4c0c71291e412c1e94786098e",
@@ -1369,8 +1377,31 @@
   "rating": "retest",
   "shots": [
    "io.github.calebhat.themebook-0-5fa8954f.webp",
-   "io.github.calebhat.themebook-1-c3a90aee.webp",
-   "io.github.calebhat.themebook-2-8c6cf5cc.webp"
+   "io.github.calebhat.themebook-1-6fa0e986.webp",
+   "io.github.calebhat.themebook-2-c07cd2ac.webp"
+  ]
+ },
+ "io.github.camstraps.omatree": {
+  "commit": "1587e6f4e58907ec0752904e815b35a5ec05e649",
+  "icon": "io.github.camstraps.omatree-c6f3ba49.webp",
+  "needs": [],
+  "notes": [
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.camstraps.omatree-0-ff0bcc3e.webp"
+  ]
+ },
+ "io.github.canclini.calculator": {
+  "commit": "0bfb983bcba2eaa04942938a37fb8406ad957050",
+  "icon": "",
+  "needs": [],
+  "notes": [],
+  "rating": "usable",
+  "shots": [
+   "io.github.canclini.calculator-0-c07d3ddf.webp"
   ]
  },
  "io.github.cbullard.defthis": {
@@ -1414,9 +1445,7 @@
    "Some buttons are small for a finger"
   ],
   "rating": "retest",
-  "shots": [
-   "io.github.claudsondouglas.arcdock-0-207afa56.webp"
-  ]
+  "shots": []
  },
  "io.github.codesmith28.omalt-tab": {
   "commit": "4ff9723690e577b89e236b9ea1666a352d812f75",
@@ -1445,6 +1474,17 @@
    "Covers the home gesture"
   ],
   "rating": "not usable",
+  "shots": []
+ },
+ "io.github.cozidian.dnd": {
+  "commit": "32d54d3af94cbf106b17deccb862f68fd8520284",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Made for a keyboard: nothing to tap",
+   "Some labels are cut off"
+  ],
+  "rating": "usable",
   "shots": []
  },
  "io.github.cytracon.shortcuts": {
@@ -1488,7 +1528,7 @@
  },
  "io.github.deunnis.lacquer": {
   "commit": "79237c53e5d554f4640b29d7376e574875b18055",
-  "icon": "io.github.deunnis.lacquer-eb016864.webp",
+  "icon": "io.github.deunnis.lacquer-86ec8b63.webp",
   "needs": [],
   "notes": [
    "Covers the home gesture",
@@ -1500,9 +1540,9 @@
   ],
   "rating": "retest",
   "shots": [
-   "io.github.deunnis.lacquer-0-a39abd51.webp",
-   "io.github.deunnis.lacquer-1-a00e7a08.webp",
-   "io.github.deunnis.lacquer-2-5a95a6f0.webp"
+   "io.github.deunnis.lacquer-0-5a95a6f0.webp",
+   "io.github.deunnis.lacquer-1-251ead8f.webp",
+   "io.github.deunnis.lacquer-2-7cf383b0.webp"
   ]
  },
  "io.github.dkgamer02ai.wallpaper-engine": {
@@ -1516,6 +1556,19 @@
   "rating": "retest",
   "shots": []
  },
+ "io.github.dmreiland.shorten-url": {
+  "commit": "02333101b93a85aa7b6d45087c62f043596d54db",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Did not open from its app entry",
+   "Expects the desktop bar"
+  ],
+  "rating": "not usable",
+  "shots": []
+ },
  "io.github.doctor.omabird": {
   "commit": "4d8496906bda1328b728b4cb65ffc8220a3adb06",
   "icon": "io.github.doctor.omabird-c085cf57.webp",
@@ -1527,6 +1580,43 @@
   "shots": [
    "io.github.doctor.omabird-0-757fa4e4.webp",
    "io.github.doctor.omabird-1-6c065540.webp"
+  ]
+ },
+ "io.github.doctor.omaduck": {
+  "commit": "5e0357de9b4852e858b3a014cba2ee8c98158cfc",
+  "icon": "io.github.doctor.omaduck-1ce09184.webp",
+  "needs": [],
+  "notes": [
+   "Some of it runs off the edge"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.doctor.omaduck-0-6d875b47.webp"
+  ]
+ },
+ "io.github.doctor.omafish": {
+  "commit": "0db09929c4dd92b351272596785d725e8145706c",
+  "icon": "io.github.doctor.omafish-3d80eaf1.webp",
+  "needs": [],
+  "notes": [
+   "Some of it runs off the edge"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.doctor.omafish-0-b999ca48.webp"
+  ]
+ },
+ "io.github.doctor.omaladders": {
+  "commit": "38daeff33557c859c004cc6b300a6a970127e90e",
+  "icon": "io.github.doctor.omaladders-9fe276bb.webp",
+  "needs": [],
+  "notes": [
+   "Made for a keyboard: nothing to tap",
+   "Some of it runs off the edge"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.doctor.omaladders-0-98c881e6.webp"
   ]
  },
  "io.github.dpshde.the-bible": {
@@ -1543,6 +1633,19 @@
    "io.github.dpshde.the-bible-0-2dc0855f.webp",
    "io.github.dpshde.the-bible-1-65fec20b.webp",
    "io.github.dpshde.the-bible-2-2386c8f2.webp"
+  ]
+ },
+ "io.github.dubearte.scratchpad": {
+  "commit": "faeb5e34845a0ba7bcc1d198e29af80dae979302",
+  "icon": "io.github.dubearte.scratchpad-077598e1.webp",
+  "needs": [],
+  "notes": [
+   "Some buttons are small for a finger",
+   "Some of it runs off the edge"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.dubearte.scratchpad-0-2ae1a671.webp"
   ]
  },
  "io.github.ejuro.extended-theme-picker": {
@@ -1595,6 +1698,25 @@
    "io.github.elynch303.kids-math-0-43a0de59.webp",
    "io.github.elynch303.kids-math-1-44bbb116.webp",
    "io.github.elynch303.kids-math-2-e1fd236d.webp"
+  ]
+ },
+ "io.github.endijs.pulse-for-revenuecat": {
+  "commit": "f3f5469afbe1f153d142ee977ef00fa32a69886d",
+  "icon": "io.github.endijs.pulse-for-revenuecat-79d17084.webp",
+  "needs": [
+   "account or API key",
+   "secret store"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Some buttons are small for a finger",
+   "Some labels are cut off"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.endijs.pulse-for-revenuecat-0-102f0289.webp",
+   "io.github.endijs.pulse-for-revenuecat-1-a9b0c6c9.webp",
+   "io.github.endijs.pulse-for-revenuecat-2-37acee75.webp"
   ]
  },
  "io.github.equa-tory.quicksearch": {
@@ -1709,7 +1831,7 @@
  },
  "io.github.gsirawan.bitmochi": {
   "commit": "36d0e42f9e8a1cc2de00ac954a8a04f774d5ac92",
-  "icon": "",
+  "icon": "io.github.gsirawan.bitmochi-1a9b5b71.webp",
   "needs": [
    "account or API key"
   ],
@@ -1718,9 +1840,8 @@
   ],
   "rating": "usable",
   "shots": [
-   "io.github.gsirawan.bitmochi-0-98c93b8d.webp",
-   "io.github.gsirawan.bitmochi-1-133e98b6.webp",
-   "io.github.gsirawan.bitmochi-2-f4d84bfc.webp"
+   "io.github.gsirawan.bitmochi-0-f4d84bfc.webp",
+   "io.github.gsirawan.bitmochi-1-26ccf26f.webp"
   ]
  },
  "io.github.hanssound.bar-hints": {
@@ -1755,7 +1876,7 @@
  },
  "io.github.hominluo.podcast": {
   "commit": "a787f070adfbf8768b20026c8978e4782f78f8c2",
-  "icon": "io.github.hominluo.podcast-88fd6540.webp",
+  "icon": "io.github.hominluo.podcast-81f263af.webp",
   "needs": [
    "account or API key",
    "microphone"
@@ -1768,25 +1889,29 @@
   ],
   "rating": "usable",
   "shots": [
-   "io.github.hominluo.podcast-0-cc81ea16.webp",
-   "io.github.hominluo.podcast-1-5364f402.webp",
-   "io.github.hominluo.podcast-2-66682282.webp"
+   "io.github.hominluo.podcast-0-5364f402.webp",
+   "io.github.hominluo.podcast-1-1d1d1c4e.webp",
+   "io.github.hominluo.podcast-2-1f8aa371.webp"
   ]
  },
  "io.github.iainfreestone.control-tower": {
   "commit": "74b97df31bd5b58d23e34fd125bc68f724d0a4a7",
-  "icon": "",
+  "icon": "io.github.iainfreestone.control-tower-124e01c9.webp",
   "needs": [
    "account or API key"
   ],
   "notes": [
+   "The back gesture does nothing",
    "Covers the home gesture",
-   "Drawn for a bigger screen",
-   "Some buttons are small for a finger",
-   "Some of it runs off the edge"
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
   ],
-  "rating": "retest",
-  "shots": []
+  "rating": "usable",
+  "shots": [
+   "io.github.iainfreestone.control-tower-0-26132ae0.webp",
+   "io.github.iainfreestone.control-tower-1-c5d4840f.webp",
+   "io.github.iainfreestone.control-tower-2-b54457cd.webp"
+  ]
  },
  "io.github.iainfreestone.toolroll": {
   "commit": "876bd40a13e7938f9239e8157a8d0f81bd02f97c",
@@ -1832,9 +1957,7 @@
    "Expects the desktop bar"
   ],
   "rating": "retest",
-  "shots": [
-   "io.github.iryzhkov.omadeck-0-56b071c2.webp"
-  ]
+  "shots": []
  },
  "io.github.jalv13.roku": {
   "commit": "eee991425b7a4432d769cf65dde0c711c88f73fb",
@@ -1846,8 +1969,7 @@
   ],
   "rating": "usable",
   "shots": [
-   "io.github.jalv13.roku-0-de830093.webp",
-   "io.github.jalv13.roku-1-f2fc97f5.webp"
+   "io.github.jalv13.roku-0-f2fc97f5.webp"
   ]
  },
  "io.github.jamesd7788.omatype": {
@@ -1938,6 +2060,20 @@
    "io.github.jeremylanger.omaspotify-0-63cca282.webp"
   ]
  },
+ "io.github.jeremylongshore.omatrail": {
+  "commit": "5a44490a8be7eeea2c79c413aa82be9af5c700da",
+  "icon": "io.github.jeremylongshore.omatrail-007b5511.webp",
+  "needs": [],
+  "notes": [
+   "Some of it runs off the edge",
+   "Small text"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.jeremylongshore.omatrail-0-3b8fa537.webp",
+   "io.github.jeremylongshore.omatrail-1-7e5894e8.webp"
+  ]
+ },
  "io.github.jesse-chelin.emoji-picker": {
   "commit": "e73101907c164710e4039e3fd078191e55295563",
   "icon": "",
@@ -1961,6 +2097,29 @@
   "rating": "retest",
   "shots": []
  },
+ "io.github.joshuaswarren.omaloop": {
+  "commit": "fc5b3f9ce0dd10585df018ab12aaf31298e9b3d2",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": []
+ },
+ "io.github.joshuaswarren.plexmini": {
+  "commit": "3cb192bb9ec688f5168fbfb1fa4d12bfcce7f695",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Some buttons are small for a finger",
+   "Some of it runs off the edge",
+   "Some labels are cut off"
+  ],
+  "rating": "usable",
+  "shots": []
+ },
  "io.github.joshuaswarren.somafm": {
   "commit": "aafbdf36b0cbc23e0cf4a8f1befb6d9aeead3e83",
   "icon": "io.github.joshuaswarren.somafm-63e61482.webp",
@@ -1970,8 +2129,7 @@
   ],
   "rating": "perfect",
   "shots": [
-   "io.github.joshuaswarren.somafm-0-91bb80eb.webp",
-   "io.github.joshuaswarren.somafm-1-04a6dcda.webp"
+   "io.github.joshuaswarren.somafm-0-91bb80eb.webp"
   ]
  },
  "io.github.keegan-sucks.lookup": {
@@ -1993,12 +2151,13 @@
   "icon": "",
   "needs": [],
   "notes": [
-   "Covers the whole screen instead of opening as an app",
-   "Covers the home gesture",
-   "Drawn for a bigger screen"
+   "Some buttons are small for a finger"
   ],
-  "rating": "retest",
-  "shots": []
+  "rating": "usable",
+  "shots": [
+   "io.github.komagata.omatext-0-3523dbca.webp",
+   "io.github.komagata.omatext-1-58e71d6e.webp"
+  ]
  },
  "io.github.krishang-zinzuwadia.omarchy-clipboard": {
   "commit": "7efa1b3ada68bcde437ba83a9cb01c73cbb056f1",
@@ -2012,6 +2171,21 @@
   "rating": "retest",
   "shots": []
  },
+ "io.github.labrat-0.omacircuit": {
+  "commit": "d5fb53cbb01416be28ade669439a939b0c0a9f63",
+  "icon": "io.github.labrat-0.omacircuit-88e76b00.webp",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.labrat-0.omacircuit-0-bfe4bb6f.webp",
+   "io.github.labrat-0.omacircuit-1-98f845bc.webp",
+   "io.github.labrat-0.omacircuit-2-64a717db.webp"
+  ]
+ },
  "io.github.layolayo.eternal-moment": {
   "commit": "9277728118ca2c16a3d30ccf7369339491f9ecf9",
   "icon": "",
@@ -2019,7 +2193,7 @@
   "notes": [
    "Did not open when tested"
   ],
-  "rating": "retest",
+  "rating": "not usable",
   "shots": []
  },
  "io.github.lennartai.snake": {
@@ -2104,6 +2278,18 @@
   "rating": "desktop only",
   "shots": []
  },
+ "io.github.mfilm77.plexmusic": {
+  "commit": "d934e7003952e87573d5fd905e48cd2b9d71c1ab",
+  "icon": "io.github.mfilm77.plexmusic-468aed31.webp",
+  "needs": [],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.mfilm77.plexmusic-0-20696791.webp"
+  ]
+ },
  "io.github.mtolhuys.theme-manager": {
   "commit": "6eeb103e0ff243b3fa17b42f68f87112e0f76011",
   "icon": "io.github.mtolhuys.theme-manager-a8524460.webp",
@@ -2126,9 +2312,7 @@
    "Manages desktop windows, which a phone does not have"
   ],
   "rating": "retest",
-  "shots": [
-   "io.github.nick-friedrich.hyprland-dock-0-cfb251f3.webp"
-  ]
+  "shots": []
  },
  "io.github.nventatech.dockplus": {
   "commit": "599725eebe0157e4f404bdc75b159cedc6766634",
@@ -2152,6 +2336,23 @@
   ],
   "rating": "retest",
   "shots": []
+ },
+ "io.github.olivoil.hurricane-tracker": {
+  "commit": "d6baffa4d8e83978724a48bb96dfe508904e14f5",
+  "icon": "io.github.olivoil.hurricane-tracker-8ed8a5f9.webp",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Did not open from its app entry",
+   "Scrolls sideways",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "not usable",
+  "shots": [
+   "io.github.olivoil.hurricane-tracker-0-1f9dbeff.webp"
+  ]
  },
  "io.github.omashuffle": {
   "commit": "283951b47746a795f9070268b350f930bab98897",
@@ -2226,28 +2427,78 @@
  },
  "io.github.peterholko.pawberry": {
   "commit": "79bd4de3e4744208e4bb315f4e0acd70f985d2ea",
-  "icon": "",
+  "icon": "io.github.peterholko.pawberry-19a9c621.webp",
   "needs": [],
   "notes": [
    "Covers the whole screen instead of opening as an app",
-   "Covers the home gesture",
-   "Drawn for a bigger screen",
    "Some of it runs off the edge"
   ],
-  "rating": "retest",
-  "shots": []
+  "rating": "usable",
+  "shots": [
+   "io.github.peterholko.pawberry-0-6030146f.webp"
+  ]
  },
  "io.github.phedoreanu.ram-speedtest": {
   "commit": "d2fa57219756f34c3553ef818eb06f10b1a76a0e",
   "icon": "",
   "needs": [],
   "notes": [
-   "Some of it runs off the edge",
+   "Some of it runs off the edge"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.phedoreanu.ram-speedtest-0-a91621ca.webp"
+  ]
+ },
+ "io.github.pjgeutjens.seismic-atlas": {
+  "commit": "cbc4faf30a29e1d59f8670ec5c857fe9905076be",
+  "icon": "io.github.pjgeutjens.seismic-atlas-8edc68a2.webp",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "not usable",
+  "rating": "usable",
   "shots": [
-   "io.github.phedoreanu.ram-speedtest-0-0407c9db.webp"
+   "io.github.pjgeutjens.seismic-atlas-0-f73a37cc.webp",
+   "io.github.pjgeutjens.seismic-atlas-1-077f17f0.webp"
+  ]
+ },
+ "io.github.polidog.social-poster": {
+  "commit": "4b99d309065e10affded192d5da2066ed52496a6",
+  "icon": "io.github.polidog.social-poster-bbb981d4.webp",
+  "needs": [
+   "account or API key",
+   "secret store"
+  ],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.polidog.social-poster-0-02be2a4c.webp",
+   "io.github.polidog.social-poster-1-48748318.webp",
+   "io.github.polidog.social-poster-2-a57423c0.webp"
+  ]
+ },
+ "io.github.powerk1977.openhab": {
+  "commit": "6d24e4e171023baadf19ed67be1762354419baca",
+  "icon": "io.github.powerk1977.openhab-9e0037a6.webp",
+  "needs": [
+   "account or API key",
+   "secret store"
+  ],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.powerk1977.openhab-0-c369a31a.webp",
+   "io.github.powerk1977.openhab-1-0e058308.webp",
+   "io.github.powerk1977.openhab-2-caff14da.webp"
   ]
  },
  "io.github.prohner.snippets": {
@@ -2329,7 +2580,7 @@
   "shots": [
    "io.github.rodrix2000.chess-0-06d61edf.webp",
    "io.github.rodrix2000.chess-1-3223e69a.webp",
-   "io.github.rodrix2000.chess-2-31a13b8e.webp"
+   "io.github.rodrix2000.chess-2-6dd641dd.webp"
   ]
  },
  "io.github.rohan-patnaik.window-switcher": {
@@ -2341,6 +2592,21 @@
   ],
   "rating": "retest",
   "shots": []
+ },
+ "io.github.rolfkoenders.keeply": {
+  "commit": "732aa58f0d458ad730bb6d5b0478a036c1bafd91",
+  "icon": "io.github.rolfkoenders.keeply-9010ac73.webp",
+  "needs": [
+   "account or API key",
+   "secret store"
+  ],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.rolfkoenders.keeply-0-df2b2bfc.webp"
+  ]
  },
  "io.github.romills.omarkeys": {
   "commit": "2bea4bd2de6793e63e854066f1e29bb38b66f2d9",
@@ -2381,14 +2647,13 @@
  },
  "io.github.rookepoole.zen-breather": {
   "commit": "2f526fc4c751b11485753745f183ab331f175050",
-  "icon": "",
+  "icon": "io.github.rookepoole.zen-breather-f8bb560d.webp",
   "needs": [],
-  "notes": [
-   "Covers the home gesture",
-   "Drawn for a bigger screen"
-  ],
-  "rating": "retest",
-  "shots": []
+  "notes": [],
+  "rating": "usable",
+  "shots": [
+   "io.github.rookepoole.zen-breather-0-f562261e.webp"
+  ]
  },
  "io.github.sanjyay.zenmode": {
   "commit": "5db88cdc5d80858f1f934b7fcee863c90f64c9f8",
@@ -2420,7 +2685,7 @@
  },
  "io.github.sh1d0w.omatrack": {
   "commit": "c2d797e1d9d96a10a46d429dd0a5fcbc82250ac1",
-  "icon": "io.github.sh1d0w.omatrack-3fa04f1f.webp",
+  "icon": "io.github.sh1d0w.omatrack-4bf6a5c7.webp",
   "needs": [],
   "notes": [
    "Covers the whole screen instead of opening as an app",
@@ -2429,9 +2694,8 @@
   ],
   "rating": "usable",
   "shots": [
-   "io.github.sh1d0w.omatrack-0-2587769b.webp",
-   "io.github.sh1d0w.omatrack-1-06ea9bdc.webp",
-   "io.github.sh1d0w.omatrack-2-c1151044.webp"
+   "io.github.sh1d0w.omatrack-0-06ea9bdc.webp",
+   "io.github.sh1d0w.omatrack-1-485260e2.webp"
   ]
  },
  "io.github.shabdar.omask": {
@@ -2441,10 +2705,23 @@
    "account or API key"
   ],
   "notes": [
-   "Covers the home gesture",
-   "Drawn for a bigger screen"
+   "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "usable",
+  "shots": []
+ },
+ "io.github.shllg.walkingpad": {
+  "commit": "8fc313df8254c4a18f9d34370e387c61f29518b6",
+  "icon": "",
+  "needs": [
+   "bluetooth"
+  ],
+  "notes": [
+   "Expects the desktop bar",
+   "Some buttons are small for a finger",
+   "Some labels are cut off"
+  ],
+  "rating": "usable",
   "shots": []
  },
  "io.github.silkvain.dockseid": {
@@ -2497,11 +2774,8 @@
   "needs": [
    "microphone"
   ],
-  "notes": [
-   "Covers the home gesture",
-   "Drawn for a bigger screen"
-  ],
-  "rating": "retest",
+  "notes": [],
+  "rating": "usable",
   "shots": []
  },
  "io.github.stackingturtles.t480fingerprint": {
@@ -2516,6 +2790,45 @@
    "Some buttons are small for a finger"
   ],
   "rating": "retest",
+  "shots": []
+ },
+ "io.github.studioxvii.fantasy-feed": {
+  "commit": "ca1031efbef1d9d3eab63a196d748093b2778b20",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Some buttons are small for a finger",
+   "Some of it runs off the edge"
+  ],
+  "rating": "usable",
+  "shots": []
+ },
+ "io.github.studioxvii.intake": {
+  "commit": "61006eb1ad974fd1b720c849356e79b55bcf41dc",
+  "icon": "io.github.studioxvii.intake-28fc9cb4.webp",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Some of it runs off the edge",
+   "Small text",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "not usable",
+  "shots": [
+   "io.github.studioxvii.intake-0-31971344.webp",
+   "io.github.studioxvii.intake-1-f5cc3dcf.webp",
+   "io.github.studioxvii.intake-2-67dfe2d2.webp"
+  ]
+ },
+ "io.github.sumdahl.omadecode": {
+  "commit": "ddce3b2ae6466968a39eae5276e5391bcadb6203",
+  "icon": "",
+  "needs": [],
+  "notes": [],
+  "rating": "usable",
   "shots": []
  },
  "io.github.tallsam.navbar-cat": {
@@ -2630,7 +2943,7 @@
  },
  "io.github.treramey.raindrop-bookmarks": {
   "commit": "dd02755256bc954799f0d7ea283185a0fa22129a",
-  "icon": "io.github.treramey.raindrop-bookmarks-240b20db.webp",
+  "icon": "",
   "needs": [
    "account or API key"
   ],
@@ -2638,9 +2951,7 @@
    "Made for a keyboard: nothing to tap"
   ],
   "rating": "desktop only",
-  "shots": [
-   "io.github.treramey.raindrop-bookmarks-0-75ca721a.webp"
-  ]
+  "shots": []
  },
  "io.github.tuxclaw.familiar": {
   "commit": "dfe2e46af025aab1957b759b57985798d7069d55",
@@ -2664,6 +2975,41 @@
   ],
   "rating": "retest",
   "shots": []
+ },
+ "io.github.vichong.tfnsw-departures": {
+  "commit": "93499b6ec40d2b81c5c7ff71e6a72636f479f2bd",
+  "icon": "",
+  "needs": [
+   "account or API key",
+   "secret store"
+  ],
+  "notes": [
+   "Some buttons are small for a finger",
+   "Small text"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.vichong.tfnsw-departures-0-8cbe57b1.webp",
+   "io.github.vichong.tfnsw-departures-1-a2f926d1.webp",
+   "io.github.vichong.tfnsw-departures-2-2e32b30b.webp"
+  ]
+ },
+ "io.github.weedwhitesandwine.gaffer": {
+  "commit": "1e3b878c354d3daf0df0c9920c16dc9318be5edf",
+  "icon": "io.github.weedwhitesandwine.gaffer-4639c3ff.webp",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.weedwhitesandwine.gaffer-0-a2c4cbe5.webp",
+   "io.github.weedwhitesandwine.gaffer-1-ef48b235.webp",
+   "io.github.weedwhitesandwine.gaffer-2-a00e1d4b.webp"
+  ]
  },
  "io.github.weedwhitesandwine.omascratch": {
   "commit": "ed2903ef3855d3283141616c933936f3aec71c0e",
@@ -2695,6 +3041,38 @@
    "io.github.whiskeytuesday.custom-font-1-934b5222.webp"
   ]
  },
+ "io.github.ypmrg.bambu-companion": {
+  "commit": "54597db21f6c2ad4804bfda1e3d7516c0eeaed6c",
+  "icon": "io.github.ypmrg.bambu-companion-7e34c01d.webp",
+  "needs": [
+   "secret store"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.ypmrg.bambu-companion-0-7c4b7842.webp",
+   "io.github.ypmrg.bambu-companion-1-13f0b33c.webp",
+   "io.github.ypmrg.bambu-companion-2-6350fe4b.webp"
+  ]
+ },
+ "io.github.znxr.qfetch": {
+  "commit": "f6cab366b4813440e3c559ba073ca7722fd96727",
+  "icon": "io.github.znxr.qfetch-faa23ba7.webp",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "io.github.znxr.qfetch-0-24ca03c6.webp",
+   "io.github.znxr.qfetch-1-80b87776.webp"
+  ]
+ },
  "ipkalid.flatpak-store": {
   "commit": "4d06522b4aee87c8cad7d2b3309ea1f2e49e4c5e",
   "icon": "",
@@ -2716,11 +3094,11 @@
    "Some buttons are small for a finger",
    "Small text"
   ],
-  "rating": "retest",
+  "rating": "usable",
   "shots": [
-   "jankeesvw.omasweeper-0-3b3d8a90.webp",
-   "jankeesvw.omasweeper-1-182f62ef.webp",
-   "jankeesvw.omasweeper-2-d7205651.webp"
+   "jankeesvw.omasweeper-0-894bd9dd.webp",
+   "jankeesvw.omasweeper-1-41dd0211.webp",
+   "jankeesvw.omasweeper-2-697ec86a.webp"
   ]
  },
  "jeffrey.icons": {
@@ -2771,6 +3149,23 @@
   "rating": "retest",
   "shots": []
  },
+ "jharrison.sysmonitor": {
+  "commit": "be37979c7cc75d13b89ae27674d3dc1a3a187480",
+  "icon": "jharrison.sysmonitor-c592188a.webp",
+  "needs": [
+   "hardware sensor"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "jharrison.sysmonitor-0-30bf15cd.webp",
+   "jharrison.sysmonitor-1-ac283d7b.webp",
+   "jharrison.sysmonitor-2-27f56a22.webp"
+  ]
+ },
  "jkarmel.plugin-search": {
   "commit": "f80412efa48f62bfdf7f385da408c79559b71fdd",
   "icon": "",
@@ -2809,6 +3204,34 @@
   "rating": "retest",
   "shots": []
  },
+ "jmthomas00.vantage": {
+  "commit": "50afe7e073aee10ebfcc08d865bd30c07d0b38c9",
+  "icon": "jmthomas00.vantage-b6e3e285.webp",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "jmthomas00.vantage-0-0fb96b02.webp",
+   "jmthomas00.vantage-1-950e004a.webp",
+   "jmthomas00.vantage-2-412e9d6e.webp"
+  ]
+ },
+ "jobo.lantern": {
+  "commit": "8721734f1c6d9e3e65e071ce253d48010955b7cf",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app"
+  ],
+  "rating": "not usable",
+  "shots": []
+ },
  "jose.launcherplease": {
   "commit": "942d79c4cbdfd9050cc576fef423617ac401fff3",
   "icon": "",
@@ -2832,6 +3255,18 @@
    "Some of it runs off the edge"
   ],
   "rating": "retest",
+  "shots": []
+ },
+ "jot": {
+  "commit": "a64bbffd17312591b405a79842739a0b12cf957e",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Expects the desktop bar",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
   "shots": []
  },
  "k4ditano.omascreen": {
@@ -2894,9 +3329,7 @@
   ],
   "rating": "perfect",
   "shots": [
-   "kuryrc.mfa-0-392b0863.webp",
-   "kuryrc.mfa-1-b60deb0e.webp",
-   "kuryrc.mfa-2-67121cfd.webp"
+   "kuryrc.mfa-0-392b0863.webp"
   ]
  },
  "leonrlr4.days": {
@@ -2908,9 +3341,7 @@
    "Some buttons are small for a finger"
   ],
   "rating": "usable",
-  "shots": [
-   "leonrlr4.days-0-be5156c6.webp"
-  ]
+  "shots": []
  },
  "lobo.on-the-minute": {
   "commit": "2812536c4f907554113286df055ef04813d3eb0d",
@@ -2988,8 +3419,7 @@
   ],
   "rating": "retest",
   "shots": [
-   "luneth90.keycade-0-1b1757e2.webp",
-   "luneth90.keycade-1-6b813e9c.webp"
+   "luneth90.keycade-0-1b1757e2.webp"
   ]
  },
  "luneth90.omamigrate": {
@@ -3022,6 +3452,16 @@
   "rating": "not usable",
   "shots": [
    "luotao.pinball-0-7ce33cc0.webp"
+  ]
+ },
+ "luotao.zen": {
+  "commit": "babe648ac2c3a8043716dd927067195e11d76d4d",
+  "icon": "luotao.zen-6c83235b.webp",
+  "needs": [],
+  "notes": [],
+  "rating": "usable",
+  "shots": [
+   "luotao.zen-0-e194e329.webp"
   ]
  },
  "m4rone.slicetab": {
@@ -3060,6 +3500,23 @@
   ],
   "rating": "desktop only",
   "shots": []
+ },
+ "markschellhas.omasong": {
+  "commit": "ec8a580ac052df31f7a927c0d524a7c89c27ecd4",
+  "icon": "markschellhas.omasong-7493e547.webp",
+  "needs": [],
+  "notes": [
+   "Expects the desktop bar",
+   "Some buttons are small for a finger",
+   "Small text",
+   "Some of it runs off the edge"
+  ],
+  "rating": "usable",
+  "shots": [
+   "markschellhas.omasong-0-8c0bb94a.webp",
+   "markschellhas.omasong-1-52d30c44.webp",
+   "markschellhas.omasong-2-edc02c45.webp"
+  ]
  },
  "mash2rafi.kronos": {
   "commit": "21643569798791a7537072b3845ce3af1ae9b55b",
@@ -3130,6 +3587,20 @@
   "rating": "retest",
   "shots": []
  },
+ "minholi.kindle": {
+  "commit": "4688047372c521d83555e264d47eeed3610e6f3d",
+  "icon": "minholi.kindle-b42a19ef.webp",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "minholi.kindle-0-8d2d0489.webp"
+  ]
+ },
  "mirador": {
   "commit": "e4c0b951c08374d497379ed304721da5cb77ca3e",
   "icon": "mirador-5a46d50b.webp",
@@ -3156,7 +3627,7 @@
  },
  "muellan.omababel": {
   "commit": "f52016e2a65fa70a0adb5133e97c8961e953f950",
-  "icon": "muellan.omababel-0f9e1d84.webp",
+  "icon": "muellan.omababel-e5a4abfe.webp",
   "needs": [
    "account or API key",
    "secret store"
@@ -3167,9 +3638,9 @@
   ],
   "rating": "perfect",
   "shots": [
-   "muellan.omababel-0-f27ba88b.webp",
-   "muellan.omababel-1-1ec1e9fd.webp",
-   "muellan.omababel-2-e537fc27.webp"
+   "muellan.omababel-0-b8a1b21b.webp",
+   "muellan.omababel-1-fee5eefd.webp",
+   "muellan.omababel-2-b35cc426.webp"
   ]
  },
  "muellan.omacppman": {
@@ -3240,17 +3711,17 @@
  },
  "ngnk.glass-weather": {
   "commit": "ca48df65fa759972593752f377b13797626d6cff",
-  "icon": "",
+  "icon": "ngnk.glass-weather-56d9d24c.webp",
   "needs": [
    "account or API key"
   ],
   "notes": [
-   "Covers the whole screen instead of opening as an app",
-   "Covers the home gesture",
-   "Made for a keyboard: nothing to tap"
+   "Covers the whole screen instead of opening as an app"
   ],
-  "rating": "retest",
-  "shots": []
+  "rating": "usable",
+  "shots": [
+   "ngnk.glass-weather-0-429c6de7.webp"
+  ]
  },
  "nguyenn.clipboard": {
   "commit": "aa05ae21eea9ce240255065dc1e82cf8bc3fe871",
@@ -3292,37 +3763,45 @@
  },
  "nkarl.omachords": {
   "commit": "d786bd760e1c6fa92217f71cd91e9576ed7bd9f1",
-  "icon": "",
+  "icon": "nkarl.omachords-4d8fbea2.webp",
   "needs": [],
   "notes": [
-   "Covers the home gesture",
-   "Drawn for a bigger screen",
+   "Some of it runs off the edge",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
-  "shots": []
+  "rating": "usable",
+  "shots": [
+   "nkarl.omachords-0-656c32ee.webp",
+   "nkarl.omachords-1-05d167fb.webp",
+   "nkarl.omachords-2-2ba04521.webp"
+  ]
  },
  "nonmirror.codec": {
   "commit": "ace8306d43591a84270420da4d171bfb7aee5096",
-  "icon": "",
+  "icon": "nonmirror.codec-2aefe44b.webp",
   "needs": [],
   "notes": [
-   "Covers the home gesture",
-   "Drawn for a bigger screen"
+   "Some buttons are small for a finger"
   ],
-  "rating": "retest",
-  "shots": []
+  "rating": "usable",
+  "shots": [
+   "nonmirror.codec-0-e4b44515.webp",
+   "nonmirror.codec-1-cb64ed17.webp",
+   "nonmirror.codec-2-7dcd81a1.webp"
+  ]
  },
  "nonmirror.dict": {
   "commit": "1d549e12eee36184310a8547621ed566145b8bf6",
-  "icon": "",
+  "icon": "nonmirror.dict-1d61e89d.webp",
   "needs": [],
   "notes": [
    "Covers the home gesture",
-   "Drawn for a bigger screen"
+   "Some of it runs off the edge"
   ],
-  "rating": "retest",
-  "shots": []
+  "rating": "usable",
+  "shots": [
+   "nonmirror.dict-0-49de9638.webp"
+  ]
  },
  "nonmirror.open-url": {
   "commit": "329cd7f505c5927d1d3beae1bbc8016a3d2e508f",
@@ -3334,6 +3813,28 @@
   ],
   "rating": "retest",
   "shots": []
+ },
+ "nosignal.network-scan": {
+  "commit": "8f3503c154f708566a83e7a34e3a50053ecebe6b",
+  "icon": "nosignal.network-scan-1108ebbe.webp",
+  "needs": [],
+  "notes": [],
+  "rating": "usable",
+  "shots": [
+   "nosignal.network-scan-0-59fef3e8.webp"
+  ]
+ },
+ "nosignal.quattro-command": {
+  "commit": "25c001606a22537d319341d80be879873d4541a6",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Small text"
+  ],
+  "rating": "usable",
+  "shots": [
+   "nosignal.quattro-command-0-9ba99019.webp"
+  ]
  },
  "nosignal.quattrolitaire": {
   "commit": "e17d21a5c8945b71c5a7606ab84cc7962208f956",
@@ -3395,6 +3896,16 @@
    "Some buttons are small for a finger"
   ],
   "rating": "retest",
+  "shots": []
+ },
+ "ollywarren.sparks": {
+  "commit": "4c89f5c5f0730677d85a67933803de1b99834f79",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Some of it runs off the edge"
+  ],
+  "rating": "usable",
   "shots": []
  },
  "omadock": {
@@ -3498,6 +4009,30 @@
    "omarchykids.math-2-b7cba1b5.webp"
   ]
  },
+ "omazork": {
+  "commit": "4e11e347025f51eb55b1455d86b0f407c9f35985",
+  "icon": "omazork-0c5c727d.webp",
+  "needs": [],
+  "notes": [
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "omazork-0-2fb44549.webp",
+   "omazork-1-96c62f0e.webp"
+  ]
+ },
+ "org.ministryoftaste.arcana": {
+  "commit": "9f97e834092cfbb10056f386b9031a1c224b77ba",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app"
+  ],
+  "rating": "not usable",
+  "shots": []
+ },
  "oxhenri.mouse": {
   "commit": "3662f7bfb3ef5e8acf92cd5556321d8c7c9a6bf2",
   "icon": "",
@@ -3527,13 +4062,13 @@
   "icon": "",
   "needs": [],
   "notes": [
-   "Covers the home gesture",
-   "Drawn for a bigger screen",
    "Scrolls sideways",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
-  "shots": []
+  "rating": "usable",
+  "shots": [
+   "ozdadirri.midiviz-0-0b7552b9.webp"
+  ]
  },
  "pablopunk.workspace-overview": {
   "commit": "3b7baad74da7ece848f13d762b91c19bae9cdab8",
@@ -3604,11 +4139,26 @@
   "icon": "",
   "needs": [],
   "notes": [
-   "Covers the home gesture",
-   "Drawn for a bigger screen"
+   "Made for a keyboard: nothing to tap"
   ],
-  "rating": "retest",
+  "rating": "usable",
   "shots": []
+ },
+ "perfektnacht.glow-studio": {
+  "commit": "b2cbd437f96aa0a572bc21f4493fbcfde529a8ab",
+  "icon": "perfektnacht.glow-studio-b1035e17.webp",
+  "needs": [],
+  "notes": [
+   "Covers the whole screen instead of opening as an app",
+   "Some buttons are small for a finger",
+   "Some of it runs off the edge"
+  ],
+  "rating": "usable",
+  "shots": [
+   "perfektnacht.glow-studio-0-98d6c2c8.webp",
+   "perfektnacht.glow-studio-1-d1921647.webp",
+   "perfektnacht.glow-studio-2-d68b59f8.webp"
+  ]
  },
  "person1873.just-hyprtonation": {
   "commit": "a8533c2bf7ca16e1450686090c5dc4935aabc47d",
@@ -3674,6 +4224,19 @@
   "rating": "retest",
   "shots": []
  },
+ "quickshell.tidal": {
+  "commit": "75fa2045b9e8880529651b2c3e93f4f9c23507c9",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Some buttons are small for a finger",
+   "Some of it runs off the edge"
+  ],
+  "rating": "usable",
+  "shots": []
+ },
  "quicksticky.notepad": {
   "commit": "8b5d65336e84cf168ad88ce3ec2991e0f94a0d68",
   "icon": "quicksticky.notepad-90128bac.webp",
@@ -3712,6 +4275,21 @@
   ],
   "rating": "desktop only",
   "shots": []
+ },
+ "rams.vpn": {
+  "commit": "cd080d0d5a19dfce8e516ea14ac305be11bc946e",
+  "icon": "",
+  "needs": [
+   "account or API key",
+   "secret store"
+  ],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "rams.vpn-0-e263aa3a.webp"
+  ]
  },
  "ranjithraj.news-reader": {
   "commit": "8746241a03df83456902eaf3415342474672e5c6",
@@ -3823,6 +4401,21 @@
   "rating": "desktop only",
   "shots": []
  },
+ "reidenxerx.omagram": {
+  "commit": "8b21a918b262b7eea3def7664d5fa2dc5f9531c7",
+  "icon": "",
+  "needs": [
+   "GPU compute",
+   "account or API key",
+   "secret store"
+  ],
+  "notes": [
+   "Some labels are cut off",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": []
+ },
  "reidenxerx.tactile": {
   "commit": "0bf4bae05af92e7a1fdb370e9d062d17efffa65f",
   "icon": "",
@@ -3867,6 +4460,30 @@
   ],
   "rating": "retest",
   "shots": []
+ },
+ "ribattrw.calm": {
+  "commit": "1780da1ff2306c3ea19ddcb787e7bb9e7541d6d1",
+  "icon": "ribattrw.calm-af322092.webp",
+  "needs": [],
+  "notes": [
+   "Some of it runs off the edge"
+  ],
+  "rating": "usable",
+  "shots": [
+   "ribattrw.calm-0-d7cc7890.webp"
+  ]
+ },
+ "riclib.capacities": {
+  "commit": "77e4066279797e37acb7399872bf153aca059ae6",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [],
+  "rating": "usable",
+  "shots": [
+   "riclib.capacities-0-a176b1cd.webp"
+  ]
  },
  "robertlindomar.omarchy-ptbr.disk-speedtest": {
   "commit": "e92579ddfa53576c5e3a600e29485107c1faa26d",
@@ -3916,6 +4533,34 @@
   "rating": "retest",
   "shots": []
  },
+ "runway.forecast": {
+  "commit": "d53adaa18e3829f8e3ae6afd2d3de4850ecc5622",
+  "icon": "runway.forecast-1475e404.webp",
+  "needs": [],
+  "notes": [
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "runway.forecast-0-32afa102.webp",
+   "runway.forecast-1-2f322c32.webp",
+   "runway.forecast-2-3224defc.webp"
+  ]
+ },
+ "ryanyogan.blast": {
+  "commit": "7149b1071eedf6b23666aa3c6dddeb6e3ca4a91b",
+  "icon": "ryanyogan.blast-8195a174.webp",
+  "needs": [],
+  "notes": [
+   "Made for a keyboard: nothing to tap",
+   "Some of it runs off the edge"
+  ],
+  "rating": "not usable",
+  "shots": [
+   "ryanyogan.blast-0-ab06b1a6.webp"
+  ]
+ },
  "ryanyogan.hydrate": {
   "commit": "f231be73ae5cae4ac19139f1ead4cc2a9c8da173",
   "icon": "",
@@ -3942,6 +4587,18 @@
    "ryenski.taildrop-0-d0b574a1.webp"
   ]
  },
+ "saipraneethpb1.lamp": {
+  "commit": "bd3298a579dee5424513d35f58ae12d7caa2fbeb",
+  "icon": "saipraneethpb1.lamp-7fb80c76.webp",
+  "needs": [],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "saipraneethpb1.lamp-0-be84744d.webp"
+  ]
+ },
  "scoop.omacopper": {
   "commit": "28e0d631a9b062da3654b5259dd9e37ed31fea12",
   "icon": "",
@@ -3952,6 +4609,23 @@
   ],
   "rating": "retest",
   "shots": []
+ },
+ "scoop.uptime-kuma": {
+  "commit": "4711fdc6cf51f0183a61d8eafaa39562d9a4741b",
+  "icon": "scoop.uptime-kuma-5b1ceebd.webp",
+  "needs": [
+   "account or API key",
+   "secret store"
+  ],
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "scoop.uptime-kuma-0-6a51efee.webp",
+   "scoop.uptime-kuma-1-1acb3c55.webp",
+   "scoop.uptime-kuma-2-48f534fe.webp"
+  ]
  },
  "se.mindfulstack.omascape": {
   "commit": "2ed103607b586b0f41c956f5c21355a324cb2a6a",
@@ -3968,8 +4642,8 @@
   "rating": "retest",
   "shots": [
    "se.mindfulstack.omascape-0-02e669ff.webp",
-   "se.mindfulstack.omascape-1-749cc96e.webp",
-   "se.mindfulstack.omascape-2-c395c6c3.webp"
+   "se.mindfulstack.omascape-1-c395c6c3.webp",
+   "se.mindfulstack.omascape-2-3ce22c28.webp"
   ]
  },
  "se.mindfulstack.omyview": {
@@ -4010,6 +4684,19 @@
   ],
   "rating": "retest",
   "shots": []
+ },
+ "shaun.quick-translate": {
+  "commit": "84292a45ea7a319afc060aa6f0e682caabf8b0d0",
+  "icon": "shaun.quick-translate-1eab8ac2.webp",
+  "needs": [],
+  "notes": [
+   "Some of it runs off the edge",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "usable",
+  "shots": [
+   "shaun.quick-translate-0-dc1774bb.webp"
+  ]
  },
  "shell.settings": {
   "commit": "39ca89f5e6ac626a8fadda1f098e44b246c40ae3",
@@ -4129,6 +4816,16 @@
   "rating": "retest",
   "shots": []
  },
+ "sojoodi.memory-lane": {
+  "commit": "f45663e1f9414c8621b871a33c940f86233c7d2c",
+  "icon": "",
+  "needs": [],
+  "notes": [
+   "Made for a keyboard: nothing to tap"
+  ],
+  "rating": "usable",
+  "shots": []
+ },
  "sspaeti.clipboard": {
   "commit": "b787a81e5be68e350ccfec696eccdf25fad79759",
   "icon": "",
@@ -4138,9 +4835,7 @@
    "Made for a keyboard: nothing to tap"
   ],
   "rating": "retest",
-  "shots": [
-   "sspaeti.clipboard-0-b4069f5f.webp"
-  ]
+  "shots": []
  },
  "stefanmara.bookmarks": {
   "commit": "9be2fc9d1a8b2b708d36276d5902876574952cde",
@@ -4478,7 +5173,7 @@
  },
  "wkuehler.amateur-exam-quiz": {
   "commit": "92e0a744a5cad5d0de5a6bfa38303d4a2dad19fc",
-  "icon": "wkuehler.amateur-exam-quiz-1f5445e9.webp",
+  "icon": "wkuehler.amateur-exam-quiz-5e356c60.webp",
   "needs": [],
   "notes": [
    "Some buttons are small for a finger",
@@ -4487,9 +5182,9 @@
   ],
   "rating": "usable",
   "shots": [
-   "wkuehler.amateur-exam-quiz-0-63fb67ac.webp",
-   "wkuehler.amateur-exam-quiz-1-fdd7c33e.webp",
-   "wkuehler.amateur-exam-quiz-2-2214c781.webp"
+   "wkuehler.amateur-exam-quiz-0-fdd7c33e.webp",
+   "wkuehler.amateur-exam-quiz-1-2214c781.webp",
+   "wkuehler.amateur-exam-quiz-2-0d26a5b0.webp"
   ]
  },
  "wkuehler.mouseless": {
