@@ -2738,7 +2738,7 @@
  },
  "io.github.simonschubert.couch": {
   "commit": "1ced9d5f00ddc79a7fc31cb446a3e246b8dec6ed",
-  "icon": "",
+  "icon": "io.github.simonschubert.couch-449c7a06.webp",
   "needs": [
    "account or API key"
   ],
@@ -2748,7 +2748,11 @@
    "Some buttons are small for a finger"
   ],
   "rating": "perfect",
-  "shots": []
+  "shots": [
+   "io.github.simonschubert.couch-0-6a4092e1.webp",
+   "io.github.simonschubert.couch-1-09e5a198.webp",
+   "io.github.simonschubert.couch-2-037a4350.webp"
+  ]
  },
  "io.github.sirjul1337.lock-explorer": {
   "commit": "ed8e8f821def4ec228ffaaf2112eda3416555799",
