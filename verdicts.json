@@ -2736,6 +2736,20 @@
   "rating": "retest",
   "shots": []
  },
+ "io.github.simonschubert.couch": {
+  "commit": "1ced9d5f00ddc79a7fc31cb446a3e246b8dec6ed",
+  "icon": "",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Scrolls sideways",
+   "Some labels are cut off",
+   "Some buttons are small for a finger"
+  ],
+  "rating": "retest",
+  "shots": []
+ },
  "io.github.sirjul1337.lock-explorer": {
   "commit": "ed8e8f821def4ec228ffaaf2112eda3416555799",
   "icon": "io.github.sirjul1337.lock-explorer-23af9e32.webp",
