@@ -7,7 +7,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "920four.devlinkspad": {
@@ -21,7 +21,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "abdul.hotcorners": {
@@ -89,7 +89,7 @@
    "Some of it runs off the edge",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "anagrius.resume": {
@@ -99,7 +99,7 @@
   "notes": [
    "Made for a keyboard: nothing to tap"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "anavarre.obsidian-focused-search": {
@@ -110,7 +110,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "andreconde.quick-look": {
@@ -143,7 +143,7 @@
    "Manages desktop windows, which a phone does not have",
    "Covers the whole screen instead of opening as an app"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "arh.file-picker": {
@@ -155,7 +155,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "asaharan.omackey": {
@@ -177,7 +177,7 @@
   "notes": [
    "Did not open when tested"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "austindixson.ominput": {
@@ -189,7 +189,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "avila.superrun": {
@@ -200,7 +200,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "b.okomart": {
@@ -210,7 +210,7 @@
   "notes": [
    "Did not open when tested"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "b.omahud": {
@@ -237,7 +237,7 @@
    "Some buttons are small for a finger",
    "Small text"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "bbachmann.foot-bookmarks": {
@@ -249,7 +249,7 @@
    "Made for a keyboard: nothing to tap",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "beam": {
@@ -273,7 +273,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "bibek.obsidian-search": {
@@ -284,7 +284,7 @@
    "The back gesture does nothing",
    "Covers the home gesture"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "birdseye.window-overview": {
@@ -320,7 +320,7 @@
   "notes": [
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": [
    "bobbynicholas.omaland-0-2cb6247d.webp",
    "bobbynicholas.omaland-1-b30d6f66.webp",
@@ -334,7 +334,7 @@
   "notes": [
    "Manages desktop windows, which a phone does not have"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "bottelet.omatidy": {
@@ -346,7 +346,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "bottelet.quickdocs": {
@@ -357,7 +357,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "bronder.metronome": {
@@ -410,7 +410,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "chagel.window-tree": {
@@ -452,7 +452,7 @@
    "Covers the whole screen instead of opening as an app",
    "The back gesture does nothing"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "com.arashlab.panorama": {
@@ -465,7 +465,7 @@
    "Covers the whole screen instead of opening as an app",
    "Covers the home gesture"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "com.columbiafoundry.loderunner": {
@@ -477,7 +477,7 @@
    "Drawn for a bigger screen",
    "Small text"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "com.statable.desktop": {
@@ -489,7 +489,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "cordrogue.omatate": {
@@ -500,7 +500,7 @@
    "Covers the whole screen instead of opening as an app",
    "Expects the desktop bar"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "crazybadger.app-dock": {
@@ -512,7 +512,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "crazybadger.workspace-ribbon": {
@@ -525,7 +525,7 @@
    "Drawn for a bigger screen",
    "Some of it runs off the edge"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "cylon58.numpad-shortcuts": {
@@ -575,7 +575,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "darren.randomsaver": {
@@ -588,7 +588,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "davidcbradleyjr.lanes": {
@@ -601,7 +601,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "de.gransoftware.podmarchy": {
@@ -732,7 +732,7 @@
    "Made for a keyboard: nothing to tap",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "djc.tomb-stone": {
@@ -810,7 +810,7 @@
   "notes": [
    "Covers the whole screen instead of opening as an app"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "drace3000.bottom-dock": {
@@ -822,7 +822,7 @@
    "Covers the whole screen instead of opening as an app",
    "Expects the desktop bar"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "dutchbase.monitor-arrange": {
@@ -834,7 +834,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "ecylmz.spaceview": {
@@ -844,7 +844,7 @@
   "notes": [
    "Manages desktop windows, which a phone does not have"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": [
    "ecylmz.spaceview-0-4a631663.webp"
   ]
@@ -884,7 +884,7 @@
    "Covers the whole screen instead of opening as an app",
    "Covers the home gesture"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "farangkao.emojis-nerd": {
@@ -909,7 +909,7 @@
    "Some buttons are small for a finger",
    "Some labels are cut off"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": [
    "finna.herdr-hud-0-b2cd8345.webp"
   ]
@@ -1006,7 +1006,7 @@
    "Made for a keyboard: nothing to tap",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "gennaro.hwmon": {
@@ -1020,7 +1020,7 @@
    "Drawn for a bigger screen",
    "Small text"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "ghpo.quicknote": {
@@ -1045,7 +1045,7 @@
   "notes": [
    "Did not open when tested"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "hector.currency": {
@@ -1115,7 +1115,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.aastrand.panorama": {
@@ -1128,7 +1128,7 @@
    "Drawn for a bigger screen",
    "Some of it runs off the edge"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.aditya-raj-tiwari.omarchycast": {
@@ -1136,7 +1136,7 @@
   "icon": "",
   "needs": [],
   "notes": [],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.ajanraj.itsy-calendar": {
@@ -1189,7 +1189,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.andreivinca.note-note": {
@@ -1246,7 +1246,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.atif-1402.ai-panel": {
@@ -1271,7 +1271,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.bhanuprassad.try": {
@@ -1297,7 +1297,7 @@
    "Made for a keyboard: nothing to tap",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.bitshiftxr.atrium": {
@@ -1321,7 +1321,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.brm-src.omawatch": {
@@ -1349,7 +1349,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.bytemirror.kirinuki": {
@@ -1374,7 +1374,7 @@
    "Some buttons are small for a finger",
    "Small text"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": [
    "io.github.calebhat.themebook-0-5fa8954f.webp",
    "io.github.calebhat.themebook-1-6fa0e986.webp",
@@ -1413,7 +1413,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.cfaulkingham.omasnapshot": {
@@ -1444,7 +1444,7 @@
    "Manages desktop windows, which a phone does not have",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.codesmith28.omalt-tab": {
@@ -1456,7 +1456,7 @@
    "The back gesture does nothing",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": [
    "io.github.codesmith28.omalt-tab-0-ee9d2174.webp"
   ]
@@ -1507,7 +1507,7 @@
    "Did not open from its app entry",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.davidojedalopez.todoist": {
@@ -1538,7 +1538,7 @@
    "Some buttons are small for a finger",
    "Some of it runs off the edge"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": [
    "io.github.deunnis.lacquer-0-5a95a6f0.webp",
    "io.github.deunnis.lacquer-1-251ead8f.webp",
@@ -1553,7 +1553,7 @@
    "Covers the whole screen instead of opening as an app",
    "Did not open from its app entry"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.dmreiland.shorten-url": {
@@ -1681,7 +1681,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.elynch303.kids-math": {
@@ -1826,7 +1826,7 @@
    "Drawn for a bigger screen",
    "Some of it runs off the edge"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.gsirawan.bitmochi": {
@@ -1956,7 +1956,7 @@
   "notes": [
    "Expects the desktop bar"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.jalv13.roku": {
@@ -1980,7 +1980,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.jamesweatherhead.jukebox": {
@@ -1998,7 +1998,7 @@
    "Small text",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.jcputney.media-float-plex": {
@@ -2013,7 +2013,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.jcputney.media-float-twitch": {
@@ -2026,7 +2026,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.jcputney.media-float-youtube": {
@@ -2040,7 +2040,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.jeremylanger.omaspotify": {
@@ -2083,7 +2083,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.josephbriones.clearread": {
@@ -2094,7 +2094,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.joshuaswarren.omaloop": {
@@ -2168,7 +2168,7 @@
    "Drawn for a bigger screen",
    "Some labels are cut off"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.labrat-0.omacircuit": {
@@ -2204,7 +2204,7 @@
    "Did not open from its app entry",
    "Some of it runs off the edge"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.lonegeekranger.pop-this-binding": {
@@ -2216,7 +2216,7 @@
    "Made for a keyboard: nothing to tap",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.maajix.spotlight": {
@@ -2229,7 +2229,7 @@
   "notes": [
    "Did not open from its app entry"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": [
    "io.github.maajix.spotlight-0-482d2501.webp"
   ]
@@ -2243,7 +2243,7 @@
    "The back gesture does nothing",
    "Covers the home gesture"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.marko-builds.borealis": {
@@ -2264,7 +2264,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.matt-aaz.quick-capture": {
@@ -2311,7 +2311,7 @@
   "notes": [
    "Manages desktop windows, which a phone does not have"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.nventatech.dockplus": {
@@ -2323,7 +2323,7 @@
    "Covers the whole screen instead of opening as an app",
    "The back gesture does nothing"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.ok.omakoe": {
@@ -2334,7 +2334,7 @@
    "Opens to an empty window",
    "Opens to an empty screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.olivoil.hurricane-tracker": {
@@ -2364,7 +2364,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.pablo-merino.altswitch": {
@@ -2376,7 +2376,7 @@
    "Opens to an empty window",
    "Opens to an empty screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.pantherdev2024.quartermaster": {
@@ -2405,7 +2405,7 @@
    "Drawn for a bigger screen",
    "Some of it runs off the edge"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.peterholko.paw-post": {
@@ -2422,7 +2422,7 @@
    "Some of it runs off the edge",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.peterholko.pawberry": {
@@ -2510,7 +2510,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.r0b0tlab.hermes-usage": {
@@ -2525,7 +2525,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.regionallyfamous.fukan": {
@@ -2536,7 +2536,7 @@
    "Manages desktop windows, which a phone does not have",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.regionallyfamous.iromihon": {
@@ -2548,7 +2548,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.rma131.borealis-atlas": {
@@ -2590,7 +2590,7 @@
   "notes": [
    "Covers the whole screen instead of opening as an app"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.rolfkoenders.keeply": {
@@ -2621,7 +2621,7 @@
    "Some buttons are small for a finger",
    "Small text"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.rookepoole.decision-deck": {
@@ -2642,7 +2642,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.rookepoole.zen-breather": {
@@ -2665,7 +2665,7 @@
    "Made for a keyboard: nothing to tap",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.schmunk42.shortkeyz": {
@@ -2733,7 +2733,7 @@
    "Covers the whole screen instead of opening as an app",
    "Covers the home gesture"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.simonschubert.couch": {
@@ -2762,7 +2762,7 @@
    "Some of it runs off the edge",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": [
    "io.github.sirjul1337.lock-explorer-0-66280d3f.webp",
    "io.github.sirjul1337.lock-explorer-1-b1a78be9.webp",
@@ -2779,7 +2779,7 @@
    "Drawn for a bigger screen",
    "Small text"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.sl0wzer.lamha": {
@@ -2803,7 +2803,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.studioxvii.fantasy-feed": {
@@ -2854,7 +2854,7 @@
    "Some buttons are small for a finger",
    "Some of it runs off the edge"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.tcballard.rss-feed": {
@@ -2896,7 +2896,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.thebenwalther.switchboard": {
@@ -2976,7 +2976,7 @@
    "Drawn for a bigger screen",
    "Some labels are cut off"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.u64a.project-launcher": {
@@ -2987,7 +2987,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "io.github.vichong.tfnsw-departures": {
@@ -3095,7 +3095,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "jankeesvw.omasweeper": {
@@ -3123,7 +3123,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "jesperlugner.omaflow": {
@@ -3147,7 +3147,7 @@
    "Made for a keyboard: nothing to tap",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "jgarza.scrolldock": {
@@ -3160,7 +3160,7 @@
    "Covers the home gesture",
    "Made for a keyboard: nothing to tap"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "jharrison.sysmonitor": {
@@ -3189,7 +3189,7 @@
    "Expects the desktop bar",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "jkr.omajump": {
@@ -3201,7 +3201,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "jmckible.swatch": {
@@ -3215,7 +3215,7 @@
    "Scrolls sideways",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "jmthomas00.vantage": {
@@ -3255,7 +3255,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "jose.windowsplease": {
@@ -3268,7 +3268,7 @@
    "Drawn for a bigger screen",
    "Some of it runs off the edge"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "jot": {
@@ -3331,7 +3331,7 @@
    "Drawn for a bigger screen",
    "Some labels are cut off"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "kuryrc.mfa": {
@@ -3379,7 +3379,7 @@
    "Drawn for a bigger screen",
    "Scrolls sideways"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "lonefox.ferret": {
@@ -3390,7 +3390,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "losokos.window-gallery": {
@@ -3404,7 +3404,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "lukedaduke.standby": {
@@ -3431,7 +3431,7 @@
    "Small text",
    "Some labels are cut off"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": [
    "luneth90.keycade-0-1b1757e2.webp"
   ]
@@ -3500,7 +3500,7 @@
    "Opens to an empty window",
    "Opens to an empty screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "marcho78.magnify-dock": {
@@ -3556,7 +3556,7 @@
    "Drawn for a bigger screen",
    "Some labels are cut off"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "meviusisback.keybinds": {
@@ -3572,7 +3572,7 @@
    "Small text",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": [
    "meviusisback.keybinds-0-f4c3ccb0.webp",
    "meviusisback.keybinds-1-8b7b92e6.webp",
@@ -3586,7 +3586,7 @@
   "notes": [
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "ming.keybindings": {
@@ -3598,7 +3598,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "minholi.kindle": {
@@ -3623,7 +3623,7 @@
    "Expects the desktop bar",
    "Some labels are cut off"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": [
    "mirador-0-64fe819e.webp"
   ]
@@ -3636,7 +3636,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "muellan.omababel": {
@@ -3667,7 +3667,7 @@
    "Some labels are cut off",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "nagualcode.speakercorners": {
@@ -3683,7 +3683,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "nerosong.battery-alerts": {
@@ -3695,7 +3695,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "next-key": {
@@ -3720,7 +3720,7 @@
    "Made for a keyboard: nothing to tap",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "ngnk.glass-weather": {
@@ -3745,7 +3745,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "nickfoy.flight-board": {
@@ -3758,7 +3758,7 @@
   "notes": [
    "Did not open when tested"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "ninepointlabs.barkeep": {
@@ -3772,7 +3772,7 @@
    "Some of it runs off the edge",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "nkarl.omachords": {
@@ -3825,7 +3825,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "nosignal.network-scan": {
@@ -3873,7 +3873,7 @@
    "Made for a keyboard: nothing to tap",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "odock": {
@@ -3897,7 +3897,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "oliverlukschander.super-plugin-search": {
@@ -3909,7 +3909,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "ollywarren.sparks": {
@@ -3931,7 +3931,7 @@
    "Opens to an empty window",
    "Opens to an empty screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "omafocus": {
@@ -3956,7 +3956,7 @@
    "Scrolls sideways",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "omamail": {
@@ -3984,7 +3984,7 @@
    "Made for a keyboard: nothing to tap",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "omarchy-overview": {
@@ -3995,7 +3995,7 @@
    "Manages desktop windows, which a phone does not have",
    "Covers the whole screen instead of opening as an app"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "omarchy-unicode-picker": {
@@ -4057,7 +4057,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "oxhenri.search": {
@@ -4068,7 +4068,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "ozdadirri.midiviz": {
@@ -4107,7 +4107,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "patrickfanella.monitor-bar": {
@@ -4121,7 +4121,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "payton.glide": {
@@ -4133,7 +4133,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "payton.patina": {
@@ -4145,7 +4145,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "pedro.simple-task": {
@@ -4183,7 +4183,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "piyush.omaswitch": {
@@ -4193,7 +4193,7 @@
   "notes": [
    "Manages desktop windows, which a phone does not have"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": [
    "piyush.omaswitch-0-5114ec39.webp"
   ]
@@ -4209,7 +4209,7 @@
    "Expects the desktop bar",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "protoavatar.clipbook": {
@@ -4222,7 +4222,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "quakattro": {
@@ -4235,7 +4235,7 @@
    "Drawn for a bigger screen",
    "Some of it runs off the edge"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "quickshell.tidal": {
@@ -4277,7 +4277,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "rainan16.workspace-touch-swipe": {
@@ -4326,7 +4326,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "raulonastool.omawild": {
@@ -4337,7 +4337,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "rblalock.grid-wallpaper-picker": {
@@ -4348,7 +4348,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "rblalock.panel-notes": {
@@ -4437,7 +4437,7 @@
   "notes": [
    "Covers the whole screen instead of opening as an app"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "reidenxerx.tile-blueprints": {
@@ -4449,7 +4449,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "reinier.homing": {
@@ -4459,7 +4459,7 @@
   "notes": [
    "Did not open when tested"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "reomarchy.workspace-switcher": {
@@ -4472,7 +4472,7 @@
    "Made for a keyboard: nothing to tap",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "ribattrw.calm": {
@@ -4508,7 +4508,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "ronnie.expose": {
@@ -4520,7 +4520,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "roubilibo.omarchy-snip-record": {
@@ -4531,7 +4531,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "roubilibo.workspace-navigator": {
@@ -4544,7 +4544,7 @@
    "Scrolls sideways",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "runway.forecast": {
@@ -4621,7 +4621,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "scoop.uptime-kuma": {
@@ -4653,7 +4653,7 @@
    "Covers the home gesture",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": [
    "se.mindfulstack.omascape-0-02e669ff.webp",
    "se.mindfulstack.omascape-1-c395c6c3.webp",
@@ -4671,7 +4671,7 @@
    "Drawn for a bigger screen",
    "Some of it runs off the edge"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "sgruendel.fzf": {
@@ -4696,7 +4696,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "shaun.quick-translate": {
@@ -4721,7 +4721,7 @@
    "Expects the desktop bar",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": [
    "shell.settings-0-03206b0c.webp",
    "shell.settings-1-848ba2d7.webp",
@@ -4736,7 +4736,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "silvaio.emoji-access": {
@@ -4748,7 +4748,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "simple.dock": {
@@ -4761,7 +4761,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "sinkeat.clipstack": {
@@ -4773,7 +4773,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "sjfortin.nts-radio": {
@@ -4803,7 +4803,7 @@
    "Did not open from its app entry",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "sliekens.margin": {
@@ -4815,7 +4815,7 @@
    "Made for a keyboard: nothing to tap",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "so.agent-notch": {
@@ -4827,7 +4827,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "sojoodi.memory-lane": {
@@ -4848,7 +4848,7 @@
    "Covers the home gesture",
    "Made for a keyboard: nothing to tap"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "stefanmara.bookmarks": {
@@ -4862,7 +4862,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "super-apps": {
@@ -4885,7 +4885,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "taxin.cursor-style": {
@@ -4962,7 +4962,7 @@
    "Some buttons are small for a finger",
    "Small text"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "tiho.omaglobe": {
@@ -5015,7 +5015,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "user.ethiopian-calendar": {
@@ -5041,7 +5041,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "ussego.omiru": {
@@ -5057,7 +5057,7 @@
    "Small text",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "vandaimer.text-polish": {
@@ -5069,7 +5069,7 @@
    "Drawn for a bigger screen",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "vimarchy": {
@@ -5079,7 +5079,7 @@
   "notes": [
    "Covers the whole screen instead of opening as an app"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "visigrid.scratch": {
@@ -5105,7 +5105,7 @@
    "Covers the home gesture",
    "Drawn for a bigger screen"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "vt.quicknote": {
@@ -5120,7 +5120,7 @@
    "Some labels are cut off",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "wallpicker.grid": {
@@ -5142,7 +5142,7 @@
    "Covers the whole screen instead of opening as an app",
    "Covers the home gesture"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "weblauncher": {
@@ -5167,7 +5167,7 @@
   "notes": [
    "Covers the whole screen instead of opening as an app"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "wessel.better-emojis": {
@@ -5213,7 +5213,7 @@
    "Drawn for a bigger screen",
    "Some of it runs off the edge"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "yamz8.omanki": {
@@ -5253,7 +5253,7 @@
   "notes": [
    "Covers the whole screen instead of opening as an app"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": []
  },
  "zezenta.vimoji": {
@@ -5282,7 +5282,7 @@
    "Some of it runs off the edge",
    "Some buttons are small for a finger"
   ],
-  "rating": "retest",
+  "rating": "desktop only",
   "shots": [
    "zzwong.stage-0-74dcbbc9.webp",
    "zzwong.stage-1-e6d88830.webp",
