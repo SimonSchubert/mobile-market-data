@@ -2738,20 +2738,36 @@
  },
  "io.github.simonschubert.couch": {
   "commit": "1ced9d5f00ddc79a7fc31cb446a3e246b8dec6ed",
-  "icon": "io.github.simonschubert.couch-449c7a06.webp",
+  "icon": "io.github.simonschubert.couch-945177d5.webp",
   "needs": [
    "account or API key"
   ],
   "notes": [
    "Scrolls sideways",
-   "Some labels are cut off",
-   "Some buttons are small for a finger"
+   "Some buttons are small for a finger",
+   "Some labels are cut off"
   ],
   "rating": "perfect",
   "shots": [
-   "io.github.simonschubert.couch-0-6a4092e1.webp",
-   "io.github.simonschubert.couch-1-09e5a198.webp",
-   "io.github.simonschubert.couch-2-037a4350.webp"
+   "io.github.simonschubert.couch-0-07c6c25b.webp",
+   "io.github.simonschubert.couch-1-8c43f980.webp",
+   "io.github.simonschubert.couch-2-fa00e0df.webp"
+  ]
+ },
+ "io.github.simonschubert.crypto-market": {
+  "commit": "2588b08c46a8c274d3c0be4d719060d23123b3db",
+  "icon": "io.github.simonschubert.crypto-market-938c1846.webp",
+  "needs": [
+   "account or API key"
+  ],
+  "notes": [
+   "Covers the whole screen instead of opening as an app"
+  ],
+  "rating": "perfect",
+  "shots": [
+   "io.github.simonschubert.crypto-market-0-61eab99d.webp",
+   "io.github.simonschubert.crypto-market-1-9576c969.webp",
+   "io.github.simonschubert.crypto-market-2-e9e36b0b.webp"
   ]
  },
  "io.github.sirjul1337.lock-explorer": {
