@@ -1,21 +1,5 @@
 [
  {
-  "pkg": "transit",
-  "name": "Transit",
-  "desktop": "transit.desktop",
-  "version": "1.1.0-1",
-  "description": "Public transport journeys and live departures, worldwide, on Transitous",
-  "summary": "Built for this screen: a journey planner and live departure boards with tabs at the bottom, big touch targets and nothing cut off.",
-  "rating": "perfect",
-  "notes": [],
-  "shots": [
-   "transit-0-59712c62.webp",
-   "transit-1-7a31dff7.webp",
-   "transit-2-d666cb8b.webp"
-  ],
-  "icon": "transit-6e9b010c.webp"
- },
- {
   "pkg": "couch-for-trakt",
   "name": "Couch for Trakt",
   "desktop": "couch-for-trakt.desktop",
@@ -78,5 +62,21 @@
    "moarchy-vitals-2-50348a6a.webp"
   ],
   "icon": "moarchy-vitals-801d0b1b.webp"
+ },
+ {
+  "pkg": "transit",
+  "name": "Transit",
+  "desktop": "transit.desktop",
+  "version": "1.1.0-1",
+  "description": "Public transport journeys and live departures, worldwide, on Transitous",
+  "summary": "Built for this screen: a journey planner and live departure boards with tabs at the bottom, big touch targets and nothing cut off.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "transit-0-59712c62.webp",
+   "transit-1-7a31dff7.webp",
+   "transit-2-d666cb8b.webp"
+  ],
+  "icon": "transit-6e9b010c.webp"
  }
 ]
