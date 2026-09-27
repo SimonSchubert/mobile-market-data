@@ -21,3 +21,15 @@ File names carry a hash of their content, so a plugin that is re-tested and
 looks different gets new names.
 
 Generated. Don't edit by hand: changes are overwritten by the next run.
+
+## Recommended AUR apps
+
+`aur/recommended.json` is the one hand-kept file here, and the AUR export never
+touches it or `aur/recommended/`. It lists the apps App Finder puts first:
+ours, built for a phone-sized screen. Each entry has the same fields as an
+`aur/apps.json` entry, in the order App Finder shows them. Their screenshots
+(taken on a Pixel 3a, cropped to the app's window, 540 px wide) and icons
+(from each app's own SVG) are in `aur/recommended/shots/` and
+`aur/recommended/icons/`, named by content hash like the generated ones.
+
+An app listed here replaces the test run's entry for the same package.

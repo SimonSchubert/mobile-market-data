@@ -1,0 +1,82 @@
+[
+ {
+  "pkg": "transit",
+  "name": "Transit",
+  "desktop": "transit.desktop",
+  "version": "1.1.0-1",
+  "description": "Public transport journeys and live departures, worldwide, on Transitous",
+  "summary": "Built for this screen: a journey planner and live departure boards with tabs at the bottom, big touch targets and nothing cut off.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "transit-0-59712c62.webp",
+   "transit-1-7a31dff7.webp",
+   "transit-2-d666cb8b.webp"
+  ],
+  "icon": "transit-6e9b010c.webp"
+ },
+ {
+  "pkg": "couch-for-trakt",
+  "name": "Couch for Trakt",
+  "desktop": "couch-for-trakt.desktop",
+  "version": "1.1.0-1",
+  "description": "A movie and TV tracker for Trakt: discover, up next, calendar, watchlist and history",
+  "summary": "Built for this screen: posters two across, a page per film or show, and the calendar as one scrolling list, with tabs at the bottom.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "couch-for-trakt-0-aace334f.webp",
+   "couch-for-trakt-1-59e57e47.webp",
+   "couch-for-trakt-2-8ef858b2.webp"
+  ],
+  "icon": "couch-for-trakt-f816efcf.webp"
+ },
+ {
+  "pkg": "airwaves",
+  "name": "Airwaves",
+  "desktop": "airwaves.desktop",
+  "version": "1.0.0-1",
+  "description": "Internet radio from radio-browser.info: 50,000 stations by genre, country and language",
+  "summary": "Built for this screen: genres and stations in rows a thumb can scroll, a station list per genre, and tabs at the bottom.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "airwaves-0-e0548b1a.webp",
+   "airwaves-1-3c682caa.webp",
+   "airwaves-2-4a654118.webp"
+  ],
+  "icon": "airwaves-54501c34.webp"
+ },
+ {
+  "pkg": "crypto-market",
+  "name": "Crypto Market",
+  "desktop": "crypto-market.desktop",
+  "version": "1.1.1-1",
+  "description": "CoinGecko prices, coin pages, a watchlist and a portfolio",
+  "summary": "Built for this screen: the market as one list, a coin page with its chart and stats, and a watchlist, with tabs at the bottom.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "crypto-market-0-ccb83197.webp",
+   "crypto-market-1-4bd99717.webp",
+   "crypto-market-2-f2bc5f3f.webp"
+  ],
+  "icon": "crypto-market-4c5be144.webp"
+ },
+ {
+  "pkg": "moarchy-vitals",
+  "name": "Vitals",
+  "desktop": "org.moarchy.Vitals.desktop",
+  "version": "0.2.0-1",
+  "description": "A task manager for a Linux phone: processor, memory, tasks and network",
+  "summary": "Built for this screen: processor, memory, tasks and network as cards with live graphs, one tab each.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-vitals-0-f8240fd6.webp",
+   "moarchy-vitals-1-1d3173b6.webp",
+   "moarchy-vitals-2-50348a6a.webp"
+  ],
+  "icon": "moarchy-vitals-801d0b1b.webp"
+ }
+]
