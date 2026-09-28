@@ -51,7 +51,7 @@
   "pkg": "moarchy-vitals",
   "name": "Vitals",
   "desktop": "org.moarchy.Vitals.desktop",
-  "version": "0.2.0-1",
+  "version": "0.2.1-1",
   "description": "A task manager for a Linux phone: processor, memory, tasks and network",
   "summary": "Built for this screen: processor, memory, tasks and network as cards with live graphs, one tab each.",
   "rating": "perfect",
