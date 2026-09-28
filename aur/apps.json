@@ -1754,6 +1754,28 @@
   "summary": "The window is laid out for a wide desktop screen: its content sits off-centre and runs off the right edge, the header controls are hidden, and the titles and track lists are cut off on every screen.",
   "version": "2.5.4-2"
  },
+ "aur:netman-h": {
+  "adds": 1,
+  "commit": "cfac4127b5b4ffa8f62a3cd52f4b035751204c80",
+  "description": "Modern NetworkManager GUI for Omarchy / Hyprland",
+  "desktop": "netman-h.desktop",
+  "icon": "netman-h-68607a79.webp",
+  "name": "netman-h",
+  "notes": [
+   "Drawn for a bigger screen",
+   "Some of it runs off the edge",
+   "Some labels are cut off"
+  ],
+  "pkg": "netman-h",
+  "rating": "desktop only",
+  "shots": [
+   "netman-h-0-f4cf9261.webp",
+   "netman-h-1-be1517f1.webp",
+   "netman-h-2-cc17120d.webp"
+  ],
+  "summary": "A fixed sidebar takes up half the width, so on every screen the main panel is cut off at the right edge: the Overview values, the WiFi Scan button and the Ethernet details are all partly or fully hidden.",
+  "version": "0.2.1-1"
+ },
  "aur:nicotine-plus-git": {
   "adds": 2,
   "commit": "141a35e0a96210a900d00a59846969d318a2508d",
@@ -1830,6 +1852,159 @@
   ],
   "summary": "The optimizer controls, menu and About dialog all fit the narrow screen and work by touch, but the two-column layout squeezes the SVG preview into a thin strip on the right.",
   "version": "1.5-1"
+ },
+ "aur:okuri": {
+  "adds": 1,
+  "commit": "a1aa87db6ac55b64c193212bd73ea771891f8cb6",
+  "description": "Dead-simple file transfer for Omarchy & Linux",
+  "desktop": "okuri.desktop",
+  "icon": "",
+  "name": "Okuri",
+  "notes": [
+   "Drawn for a bigger screen",
+   "Some of it runs off the edge",
+   "Some labels are cut off"
+  ],
+  "pkg": "okuri",
+  "rating": "desktop only",
+  "shots": [
+   "okuri-0-930375aa.webp",
+   "okuri-1-ea18a13b.webp",
+   "okuri-2-1211002f.webp"
+  ],
+  "summary": "The main screen is pushed off-center, and the New connection dialog runs off the right edge, which hides the Save button and the Kind values, so you can't finish setting up a connection on a phone.",
+  "version": "0.2.0-1"
+ },
+ "aur:omachat": {
+  "adds": 3,
+  "commit": "0228eccb69c1edf4cf0b481fcf29ef3b8ceb66ad",
+  "description": "Native voice, text and screen chat for self-hosted servers",
+  "desktop": "org.omarchy.OmaChat.desktop",
+  "icon": "omachat-a3fa374b.webp",
+  "name": "OmaChat",
+  "notes": [
+   "Some of it runs off the edge"
+  ],
+  "pkg": "omachat",
+  "rating": "usable",
+  "shots": [
+   "omachat-0-24260c51.webp"
+  ],
+  "summary": "The login form fits the phone width once it has loaded, but when the app first opens it is briefly drawn too wide, so the title, port field and Register link are cut off on the right.",
+  "version": "0.2.0-1"
+ },
+ "aur:omarchist-bin": {
+  "adds": 7,
+  "commit": "adea5dd4866ad923d0d3eed566341bd38e58f976",
+  "description": "A GUI app for Omarchy Linux",
+  "desktop": "omarchist.desktop",
+  "icon": "",
+  "name": "Omarchist",
+  "notes": [],
+  "pkg": "omarchist-bin",
+  "rating": "broken",
+  "shots": [],
+  "summary": "Does not start on the phone: timeout: the monitored command dumped core",
+  "version": "1.0.1-2"
+ },
+ "aur:omarchy-flux": {
+  "adds": 1,
+  "commit": "10131038f4ee5fb7a70c27bc0697455878846203",
+  "description": "Share files, clipboard, notifications, and media with your phone",
+  "desktop": "flux.desktop",
+  "icon": "omarchy-flux-c0209af7.webp",
+  "name": "Flux",
+  "notes": [],
+  "pkg": "omarchy-flux",
+  "rating": "perfect",
+  "shots": [
+   "omarchy-flux-0-fb1ed737.webp",
+   "omarchy-flux-1-243597b9.webp",
+   "omarchy-flux-2-8c435dc7.webp"
+  ],
+  "summary": "Every screen, including the slide-out device panel, fits the narrow phone screen, with nothing cut off and buttons big enough to tap easily.",
+  "version": "0.5.0-1"
+ },
+ "aur:omarchy-games-menu": {
+  "adds": 1,
+  "commit": "8e354586b607d8d8a17fe88781e6b33935017f25",
+  "description": "Steam-like launcher grid for distrobox-gaming PC ports, recomps and emulators",
+  "desktop": "omarchy-games-menu.desktop",
+  "icon": "",
+  "name": "Games Menu",
+  "notes": [],
+  "pkg": "omarchy-games-menu",
+  "rating": "broken",
+  "shots": [],
+  "summary": "Does not start on the phone: \u001b[32m  INFO\u001b[0m: Configuration Loaded",
+  "version": "0.1.7-1"
+ },
+ "aur:omarchy-imageview": {
+  "adds": 1,
+  "commit": "bf8bec709f2c57b1f4ce3066c78f225f726b3007",
+  "description": "Omarchy image viewer and browser",
+  "desktop": "omarchy-imageview.desktop",
+  "icon": "",
+  "name": "Omarchy Image Viewer",
+  "notes": [
+   "Small text",
+   "Opens to an empty screen"
+  ],
+  "pkg": "omarchy-imageview",
+  "rating": "usable",
+  "shots": [
+   "omarchy-imageview-0-3355f144.webp",
+   "omarchy-imageview-1-8d973ba7.webp",
+   "omarchy-imageview-2-f576f606.webp"
+  ],
+  "summary": "The header and sort menu fit the narrow screen and are easy to tap, but the app only ever shows an empty '0 images' grid, so its main browsing view was never seen in use.",
+  "version": "0.3.1-1"
+ },
+ "aur:omawrite": {
+  "adds": 1,
+  "commit": "2437bc29a71fc68ca3a742b60737200bb68e548e",
+  "description": "Dead-simple Markdown writing app",
+  "desktop": "omawrite.desktop",
+  "icon": "",
+  "name": "Omawrite",
+  "notes": [
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger",
+   "Some of it runs off the edge",
+   "Opens to an empty screen"
+  ],
+  "pkg": "omawrite",
+  "rating": "desktop only",
+  "shots": [
+   "omawrite-0-a06770af.webp",
+   "omawrite-1-a06770af.webp",
+   "omawrite-2-4cf3770c.webp"
+  ],
+  "summary": "The editor fills a narrow screen well, but the open-file dialog is wider than the phone, so its sidebar is cut off on the left and its file list runs past the right edge.",
+  "version": "0.5.0-1"
+ },
+ "aur:omcalc-git": {
+  "adds": 1,
+  "commit": "66786546261a4b10895196754448c450e7788909",
+  "description": "Omcalc (GTK4)",
+  "desktop": "omcalc.desktop",
+  "icon": "omcalc-git-231537f0.webp",
+  "name": "Calculator (OM)",
+  "notes": [
+   "Drawn for a bigger screen",
+   "Some of it runs off the edge",
+   "Some labels are cut off",
+   "Made for a keyboard: nothing to tap"
+  ],
+  "pkg": "omcalc-git",
+  "rating": "desktop only",
+  "shots": [
+   "omcalc-git-0-4d8350ba.webp",
+   "omcalc-git-1-50ca0c62.webp",
+   "omcalc-git-2-5d2fbff5.webp"
+  ],
+  "summary": "The window is wider than the phone, so the right side of the input, the history panel and the hint line are cut off. There are also no buttons to tap, because the keypad and clearing only work through keyboard shortcuts.",
+  "version": "r10.48f0b27-1"
  },
  "aur:osmin": {
   "adds": 10,
@@ -2714,6 +2889,26 @@
   ],
   "summary": "Whisp fits the narrow screen: the note wraps cleanly, the header icons are big enough to tap and the menu popover stays on screen, but it has no visible button for making a new note or moving between notes, only swipes and keyboard shortcuts.",
   "version": "1.5.0-1"
+ },
+ "aur:winkel": {
+  "adds": 1,
+  "commit": "f4e32348bc030909e5ba01d7e8458ceab5e1bcd9",
+  "description": "A metronome that follows your Omarchy theme",
+  "desktop": "dev.douglasmoura.winkel.desktop",
+  "icon": "winkel-b8562b4a.webp",
+  "name": "Winkel",
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "pkg": "winkel",
+  "rating": "usable",
+  "shots": [
+   "winkel-0-c4065d7f.webp",
+   "winkel-1-458e098a.webp",
+   "winkel-2-ff6c0f4b.webp"
+  ],
+  "summary": "The metronome fits the narrow screen and its pickers show in full and work by touch, but the plus and minus buttons and the bottom row of buttons are a little small for a finger.",
+  "version": "0.1.6-1"
  },
  "aur:wombat": {
   "adds": 1,
