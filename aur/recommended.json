@@ -125,7 +125,11 @@
     "moarchy-video-library-1-9aeb9a56.webp",
     "moarchy-video-library-2-2e64f80a.webp"
    ]
-  }
+  },
+  "categories": [
+   "media",
+   "internet"
+  ]
  },
  {
   "pkg": "couch-for-trakt",
@@ -253,7 +257,10 @@
     "couch-for-trakt-1-412eea37.webp",
     "couch-for-trakt-2-2a335a04.webp"
    ]
-  }
+  },
+  "categories": [
+   "media"
+  ]
  },
  {
   "pkg": "airwaves",
@@ -381,7 +388,10 @@
     "airwaves-1-f1ae6702.webp",
     "airwaves-2-24b0f234.webp"
    ]
-  }
+  },
+  "categories": [
+   "media"
+  ]
  },
  {
   "pkg": "crypto-market",
@@ -509,7 +519,10 @@
     "crypto-market-1-5f5f4e7a.webp",
     "crypto-market-2-574ac218.webp"
    ]
-  }
+  },
+  "categories": [
+   "productivity"
+  ]
  },
  {
   "pkg": "moarchy-vitals",
@@ -637,7 +650,10 @@
     "moarchy-vitals-1-9ce589ef.webp",
     "moarchy-vitals-2-52f2af3f.webp"
    ]
-  }
+  },
+  "categories": [
+   "tools"
+  ]
  },
  {
   "pkg": "transit",
@@ -765,7 +781,10 @@
     "transit-1-76a13abb.webp",
     "transit-2-46a24fbc.webp"
    ]
-  }
+  },
+  "categories": [
+   "tools"
+  ]
  },
  {
   "pkg": "moarchy-tictactoe",
@@ -893,7 +912,10 @@
     "moarchy-tictactoe-1-dd358521.webp",
     "moarchy-tictactoe-2-5e03dcce.webp"
    ]
-  }
+  },
+  "categories": [
+   "games"
+  ]
  },
  {
   "pkg": "moarchy-minesweeper",
@@ -1021,7 +1043,10 @@
     "moarchy-minesweeper-1-358b7d0b.webp",
     "moarchy-minesweeper-2-96b3ed0c.webp"
    ]
-  }
+  },
+  "categories": [
+   "games"
+  ]
  },
  {
   "pkg": "moarchy-reversi",
@@ -1149,7 +1174,10 @@
     "moarchy-reversi-1-a3d0f42d.webp",
     "moarchy-reversi-2-7200a575.webp"
    ]
-  }
+  },
+  "categories": [
+   "games"
+  ]
  },
  {
   "pkg": "moarchy-chess",
@@ -1277,7 +1305,10 @@
     "moarchy-chess-1-188b1271.webp",
     "moarchy-chess-2-77135741.webp"
    ]
-  }
+  },
+  "categories": [
+   "games"
+  ]
  },
  {
   "pkg": "moarchy-mill",
@@ -1405,7 +1436,10 @@
     "moarchy-mill-1-465b700a.webp",
     "moarchy-mill-2-64bff65d.webp"
    ]
-  }
+  },
+  "categories": [
+   "games"
+  ]
  },
  {
   "pkg": "moarchy-solitaire",
@@ -1533,7 +1567,10 @@
     "moarchy-solitaire-1-f1aa8f06.webp",
     "moarchy-solitaire-2-9039cefa.webp"
    ]
-  }
+  },
+  "categories": [
+   "games"
+  ]
  },
  {
   "pkg": "moarchy-pegsolitaire",
@@ -1661,7 +1698,10 @@
     "moarchy-pegsolitaire-1-28c8c8a7.webp",
     "moarchy-pegsolitaire-2-9ce304c0.webp"
    ]
-  }
+  },
+  "categories": [
+   "games"
+  ]
  },
  {
   "pkg": "moarchy-fiveletters",
@@ -1789,7 +1829,10 @@
     "moarchy-fiveletters-1-3bcf0a7e.webp",
     "moarchy-fiveletters-2-1789a606.webp"
    ]
-  }
+  },
+  "categories": [
+   "games"
+  ]
  },
  {
   "pkg": "moarchy-breakout",
@@ -1917,7 +1960,10 @@
     "moarchy-breakout-1-ce8c4fbb.webp",
     "moarchy-breakout-2-e7eef6e6.webp"
    ]
-  }
+  },
+  "categories": [
+   "games"
+  ]
  },
  {
   "pkg": "moarchy-keep",
@@ -2045,7 +2091,10 @@
     "moarchy-keep-1-50fe7b68.webp",
     "moarchy-keep-2-7a97fdd6.webp"
    ]
-  }
+  },
+  "categories": [
+   "productivity"
+  ]
  },
  {
   "pkg": "moarchy-habits",
@@ -2173,7 +2222,10 @@
     "moarchy-habits-1-40ca3935.webp",
     "moarchy-habits-2-b625bee5.webp"
    ]
-  }
+  },
+  "categories": [
+   "productivity"
+  ]
  },
  {
   "pkg": "moarchy-launches",
@@ -2301,7 +2353,10 @@
     "moarchy-launches-1-48859d2d.webp",
     "moarchy-launches-2-b64a3d41.webp"
    ]
-  }
+  },
+  "categories": [
+   "education"
+  ]
  },
  {
   "pkg": "moarchy-food",
@@ -2429,7 +2484,10 @@
     "moarchy-food-1-29917c08.webp",
     "moarchy-food-2-5984bce7.webp"
    ]
-  }
+  },
+  "categories": [
+   "tools"
+  ]
  },
  {
   "pkg": "moarchy-calculator",
@@ -2557,7 +2615,10 @@
     "moarchy-calculator-1-6bef9b93.webp",
     "moarchy-calculator-2-d15cda4b.webp"
    ]
-  }
+  },
+  "categories": [
+   "tools"
+  ]
  },
  {
   "pkg": "moarchy-weather",
@@ -2685,7 +2746,10 @@
     "moarchy-weather-1-952728ed.webp",
     "moarchy-weather-2-1d606cd3.webp"
    ]
-  }
+  },
+  "categories": [
+   "tools"
+  ]
  },
  {
   "pkg": "moarchy-clock",
@@ -2813,7 +2877,10 @@
     "moarchy-clock-1-85a9141c.webp",
     "moarchy-clock-2-5a3b4229.webp"
    ]
-  }
+  },
+  "categories": [
+   "tools"
+  ]
  },
  {
   "pkg": "moarchy-calendar",
@@ -2941,7 +3008,10 @@
     "moarchy-calendar-1-8f33eaf8.webp",
     "moarchy-calendar-2-4e8b8f39.webp"
    ]
-  }
+  },
+  "categories": [
+   "productivity"
+  ]
  },
  {
   "pkg": "moarchy-contacts",
@@ -3069,7 +3139,10 @@
     "moarchy-contacts-1-2fc0c706.webp",
     "moarchy-contacts-2-f6f53522.webp"
    ]
-  }
+  },
+  "categories": [
+   "productivity"
+  ]
  },
  {
   "pkg": "moarchy-files",
@@ -3197,7 +3270,10 @@
     "moarchy-files-1-992dd4cc.webp",
     "moarchy-files-2-e231fed8.webp"
    ]
-  }
+  },
+  "categories": [
+   "tools"
+  ]
  },
  {
   "pkg": "moarchy-editor",
@@ -3325,7 +3401,10 @@
     "moarchy-editor-1-dd47c485.webp",
     "moarchy-editor-2-e3654c98.webp"
    ]
-  }
+  },
+  "categories": [
+   "productivity"
+  ]
  },
  {
   "pkg": "moarchy-mail",
@@ -3453,6 +3532,10 @@
     "moarchy-mail-1-da58f3ad.webp",
     "moarchy-mail-2-56595364.webp"
    ]
-  }
+  },
+  "categories": [
+   "internet",
+   "productivity"
+  ]
  }
 ]

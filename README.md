@@ -37,3 +37,12 @@ Night. Icons are each app's own SVG at 144 px. Both are in
 like the generated ones.
 
 An app listed here replaces the test run's entry for the same package.
+
+## Categories
+
+Every entry in both files has `categories`, one or more of `games`,
+`productivity`, `media`, `internet`, `graphics`, `development`, `education`
+and `tools`, which App Finder offers as filters on Browse. The export takes
+them from the `Categories=` line of the app's own launcher. `Utility` counts
+only when nothing more specific does, and an app with nothing recognised is
+`tools`. In `recommended.json` they are set by hand.

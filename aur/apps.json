@@ -1,6 +1,9 @@
 {
  "aur:abaddon": {
   "adds": 11,
+  "categories": [
+   "internet"
+  ],
   "commit": "0d036d43c414df0039c3c96fb1a5436db4e96d22",
   "description": "Alternative Discord client using GTK instead of Electron",
   "desktop": "abaddon.desktop",
@@ -22,6 +25,10 @@
  },
  "aur:adsb-monitor": {
   "adds": 2,
+  "categories": [
+   "internet",
+   "tools"
+  ],
   "commit": "bf6dfc7f0b83d895be5f4a1657ce9c1c50328019",
   "description": "Monitor your ADS-B feeder",
   "desktop": "adsb-monitor.desktop",
@@ -44,6 +51,9 @@
  },
  "aur:android-tv-remote": {
   "adds": 12,
+  "categories": [
+   "internet"
+  ],
   "commit": "548de5fe0f2c880d96f2046e473a504195b411c3",
   "description": "Control an Android TV over the network via ADB",
   "desktop": "io.github.erenseymen.android-tv-remote.desktop",
@@ -62,6 +72,9 @@
  },
  "aur:ascii-draw": {
   "adds": 5,
+  "categories": [
+   "graphics"
+  ],
   "commit": "14c35e09bf1b75477e1db4ee10bed0179a663288",
   "description": "Draw diagrams and more using ASCII",
   "desktop": "io.github.nokse22.asciidraw.desktop",
@@ -84,6 +97,9 @@
  },
  "aur:ayuz": {
   "adds": 2,
+  "categories": [
+   "tools"
+  ],
   "commit": "7a1cb52cddbea8f40400259359319e0423d581fc",
   "description": "Unofficial Control Center for Asus Laptops",
   "desktop": "de.guido.ayuz.desktop",
@@ -106,6 +122,9 @@
  },
  "aur:azbuka-git": {
   "adds": 1,
+  "categories": [
+   "tools"
+  ],
   "commit": "d7d0c76ca05899259722eb5ceec64e8a374b08dd",
   "description": "Russian Cyrillic transliteration tool",
   "desktop": "com.github.naregderlevonean.Azbuka.desktop",
@@ -126,6 +145,9 @@
  },
  "aur:billtracker": {
   "adds": 2,
+  "categories": [
+   "productivity"
+  ],
   "commit": "3c37d02b6a7d4eb2138a744b1f8b54ca7866cd1c",
   "description": "Track bills and manage budget",
   "desktop": "billtracker.desktop",
@@ -146,6 +168,9 @@
  },
  "aur:blink-markdown": {
   "adds": 2,
+  "categories": [
+   "productivity"
+  ],
   "commit": "288e3c98d3e7fd2799cdc3747e37c696b5b44916",
   "description": "Edit Markdown with a live preview",
   "desktop": "io.github.sachesi.blink.desktop",
@@ -166,6 +191,9 @@
  },
  "aur:blue-recorder-git": {
   "adds": 12,
+  "categories": [
+   "media"
+  ],
   "commit": "c0cab659a79b8c58c005a12b7a86a4b05c0610e2",
   "description": "Record your desktop easily using a simple GUI",
   "desktop": "sa.sy.bluerecorder.desktop",
@@ -188,6 +216,9 @@
  },
  "aur:blueproximity-py3-git": {
   "adds": 13,
+  "categories": [
+   "tools"
+  ],
   "commit": "02f3cb639fac619ec785908df22ee2be7f7a5c28",
   "description": "A proximity detector for your mobile phone via bluetooth. (Python3 version)",
   "desktop": "blueproximity.desktop",
@@ -208,6 +239,9 @@
  },
  "aur:boatswain": {
   "adds": 2,
+  "categories": [
+   "tools"
+  ],
   "commit": "92035ea4d17d7aaad53f5bad4b1f1ec1897aa99f",
   "description": "Control Elgato Stream Deck devices",
   "desktop": "com.feaneron.Boatswain.desktop",
@@ -226,6 +260,9 @@
  },
  "aur:bobby": {
   "adds": 1,
+  "categories": [
+   "tools"
+  ],
   "commit": "5dce4633ae880cc4c6bf3b77fbbdbcce87a76dcf",
   "description": "Browse SQLite database files",
   "desktop": "studio.planetpeanut.Bobby.desktop",
@@ -248,6 +285,9 @@
  },
  "aur:breathing": {
   "adds": 2,
+  "categories": [
+   "tools"
+  ],
   "commit": "472c828fdae5b5e217b9f44396a63ce1bdce7801",
   "description": "Relax and meditate",
   "desktop": "io.github.seadve.Breathing.desktop",
@@ -268,6 +308,9 @@
  },
  "aur:cairn": {
   "adds": 2,
+  "categories": [
+   "tools"
+  ],
   "commit": "06b309320283b53c409fac7d2f62fb0cd37b96d8",
   "description": "A simple GNOME task manager",
   "desktop": "io.github.cairn.desktop",
@@ -289,6 +332,9 @@
  },
  "aur:calligraphy": {
   "adds": 2,
+  "categories": [
+   "tools"
+  ],
   "commit": "809423ea93740b6f8b889e4d61f95f158edb3939",
   "description": "Turn text into ASCII banners",
   "desktop": "dev.geopjr.Calligraphy.desktop",
@@ -303,6 +349,9 @@
  },
  "aur:camper-git": {
   "adds": 41,
+  "categories": [
+   "media"
+  ],
   "commit": "6814923835faa32335d58766b65ba9bbe9632c80",
   "description": "A simple Bandcamp music player client",
   "desktop": "net.knoopx.camper.desktop",
@@ -325,6 +374,10 @@
  },
  "aur:cartero": {
   "adds": 2,
+  "categories": [
+   "internet",
+   "development"
+  ],
   "commit": "dcf4ccee8ad76f37ce34b80f596b9f5173f5c7a0",
   "description": "Make HTTP requests and test APIs",
   "desktop": "es.danirod.Cartero.desktop",
@@ -347,6 +400,9 @@
  },
  "aur:cassette": {
   "adds": 11,
+  "categories": [
+   "media"
+  ],
   "commit": "d31d0bb831d722ef2a54dc7f3d47d1ee0ba97a51",
   "description": "Unofficial Yandex Music client for GNOME",
   "desktop": "space.rirusha.Cassette.desktop",
@@ -369,6 +425,9 @@
  },
  "aur:catgirldownloader": {
   "adds": 7,
+  "categories": [
+   "tools"
+  ],
   "commit": "9b0a364267b5e64f43660d12f16d449865220d0c",
   "description": "Useful application to download catgirl images",
   "desktop": "moe.nyarchlinux.catgirldownloader.desktop",
@@ -386,6 +445,11 @@
  },
  "aur:cavasik": {
   "adds": 5,
+  "categories": [
+   "media",
+   "graphics",
+   "tools"
+  ],
   "commit": "d357a6b32f3010bd0c5bb05fd80cf47fa6e8dfae",
   "description": "Audio Visualizer",
   "desktop": "io.github.TheWisker.Cavasik.desktop",
@@ -406,6 +470,9 @@
  },
  "aur:censor": {
   "adds": 13,
+  "categories": [
+   "productivity"
+  ],
   "commit": "de255e42ee72320be8b2b859478631f5e9aa89d8",
   "description": "PDF document redaction for the GNOME desktop",
   "desktop": "page.codeberg.censor.Censor.desktop",
@@ -428,6 +495,10 @@
  },
  "aur:chroma-app": {
   "adds": 2,
+  "categories": [
+   "graphics",
+   "development"
+  ],
   "commit": "d7cc40ade092aee8b66e73834f645bd63b1fc8f2",
   "description": "A cross-platform color palette and design token manager",
   "desktop": "chroma.desktop",
@@ -451,6 +522,11 @@
  },
  "aur:cobang": {
   "adds": 24,
+  "categories": [
+   "productivity",
+   "media",
+   "graphics"
+  ],
   "commit": "5bc8bada23c149734280ed55301c89dca7695419",
   "description": "Scan and decode QR from camera or static image",
   "desktop": "vn.hoabinh.quan.CoBang.desktop",
@@ -472,6 +548,9 @@
  },
  "aur:codimux": {
   "adds": 2,
+  "categories": [
+   "media"
+  ],
   "commit": "b48ff08a8342fd6936f0ea6f7e4578b5f37d892b",
   "description": "ffmpeg GUI",
   "desktop": "codimux.desktop",
@@ -494,6 +573,9 @@
  },
  "aur:concessio": {
   "adds": 1,
+  "categories": [
+   "tools"
+  ],
   "commit": "3ead7e19545b20e74325da5d3aea18d8109ad9a0",
   "description": "Understand file permissions",
   "desktop": "io.github.ronniedroid.concessio.desktop",
@@ -515,6 +597,9 @@
  },
  "aur:confy": {
   "adds": 5,
+  "categories": [
+   "tools"
+  ],
   "commit": "b5b82662d43afab92c2f0b49a038b28d87137e92",
   "description": "Conferences schedule viewer for GNOME",
   "desktop": "net.kirgroup.confy.desktop",
@@ -533,6 +618,9 @@
  },
  "aur:conjure": {
   "adds": 7,
+  "categories": [
+   "graphics"
+  ],
   "commit": "c7220047356d1edc36f8823ed652fc7693ac9b4d",
   "description": "Magically transform images",
   "desktop": "io.github.nate_xyz.Conjure.desktop",
@@ -556,6 +644,9 @@
  },
  "aur:constrict": {
   "adds": 4,
+  "categories": [
+   "media"
+  ],
   "commit": "09d8b313ffb5c57bcb0e5092de8e8ada5c7ac2ce",
   "description": "Compress videos to target sizes",
   "desktop": "io.github.wartybix.Constrict.desktop",
@@ -578,6 +669,9 @@
  },
  "aur:convey": {
   "adds": 12,
+  "categories": [
+   "internet"
+  ],
   "commit": "182618ba4cf359a30d771fee97f0ac4cc6163861",
   "description": "Send and receive email",
   "desktop": "net.donnybeelo.Convey.desktop",
@@ -595,6 +689,9 @@
  },
  "aur:coulr": {
   "adds": 2,
+  "categories": [
+   "graphics"
+  ],
   "commit": "59ad82c2bac97e60bb28acbce393269236085720",
   "description": "Color box to help developers and designers",
   "desktop": "com.github.huluti.Coulr.desktop",
@@ -616,6 +713,9 @@
  },
  "aur:crosspipe": {
   "adds": 1,
+  "categories": [
+   "media"
+  ],
   "commit": "750953260b23527969af4be74b577ac5a15a4bfd",
   "description": "PipeWire Graph Manager",
   "desktop": "io.github.dp0sk.Crosspipe.desktop",
@@ -640,6 +740,9 @@
  },
  "aur:delineate": {
   "adds": 2,
+  "categories": [
+   "development"
+  ],
   "commit": "db88580959b7b5f5be671325b25674a077aa0ab7",
   "description": "View and edit graphs",
   "desktop": "io.github.seadve.Delineate.desktop",
@@ -661,6 +764,9 @@
  },
  "aur:dippi": {
   "adds": 1,
+  "categories": [
+   "tools"
+  ],
   "commit": "127b633911d1e82a1eab3db4400c819cd3185acb",
   "description": "Calculate display info like DPI",
   "desktop": "com.cassidyjames.dippi.desktop",
@@ -679,6 +785,9 @@
  },
  "aur:dissent": {
   "adds": 17,
+  "categories": [
+   "internet"
+  ],
   "commit": "c7ad9b069ac46db5c9b254d55e404e644ee49d5b",
   "description": "A Discord client in Go and GTK4",
   "desktop": "so.libdb.dissent.desktop",
@@ -695,6 +804,9 @@
  },
  "aur:dosage-tracker": {
   "adds": 1,
+  "categories": [
+   "productivity"
+  ],
   "commit": "66852593836584985dc4c9eed536f0854ce0970a",
   "description": "Medication tracker for Linux",
   "desktop": "io.github.diegopvlk.Dosage.desktop",
@@ -713,6 +825,9 @@
  },
  "aur:drew": {
   "adds": 6,
+  "categories": [
+   "graphics"
+  ],
   "commit": "111f223dbc1b7800c89a2c3610b45e4bcf23ba8c",
   "description": "Image annotation for Wayland. Bells and whistles included",
   "desktop": "de.singular.drew.desktop",
@@ -735,6 +850,9 @@
  },
  "aur:drum-machine": {
   "adds": 18,
+  "categories": [
+   "media"
+  ],
   "commit": "28922a4e493ab7046ee1d9498b977437aad5a99a",
   "description": "A drum machine application, built with Python, GTK4, libadwaita, and Pygame.",
   "desktop": "io.github.revisto.drum-machine.desktop",
@@ -757,6 +875,9 @@
  },
  "aur:eam-git": {
   "adds": 1,
+  "categories": [
+   "development"
+  ],
   "commit": "f1d5667e6d34ef0fb249b8cbf24aa4f6d67a7302",
   "description": "Epic Asset Manager used to manage assets from Epic Games Store",
   "desktop": "io.github.achetagames.epic_asset_manager.desktop",
@@ -779,6 +900,9 @@
  },
  "aur:echo": {
   "adds": 3,
+  "categories": [
+   "tools"
+  ],
   "commit": "559392e6f936bbdbe8791ebff3d07449c844f52a",
   "description": "Ping websites",
   "desktop": "io.github.lo2dev.Echo.desktop",
@@ -793,6 +917,11 @@
  },
  "aur:edith": {
   "adds": 21,
+  "categories": [
+   "productivity",
+   "internet",
+   "development"
+  ],
   "commit": "465bda919c0f08d16f4a757540c11c6992cff9db",
   "description": "A code editor that talks (S)FTP",
   "desktop": "de.singular.edith.desktop",
@@ -815,6 +944,9 @@
  },
  "aur:emendo": {
   "adds": 48,
+  "categories": [
+   "media"
+  ],
   "commit": "42e585b6509f8083f3fa22c151dc5e810c890317",
   "description": "Media Exporter",
   "desktop": "io.github.Gabriel2Silva.Emendo.desktop",
@@ -836,6 +968,9 @@
  },
  "aur:emergency-alerts": {
   "adds": 2,
+  "categories": [
+   "internet"
+  ],
   "commit": "ae4babaec02d7f04472a2950471dc9fbe5157de1",
   "description": "Receive emergency alerts",
   "desktop": "io.github.leolost2605.emergency-alerts.desktop",
@@ -856,6 +991,9 @@
  },
  "aur:eovpn": {
   "adds": 8,
+  "categories": [
+   "internet"
+  ],
   "commit": "b1d88c1e36ea854c052ab4a14d403cf8ff07342c",
   "description": "OpenVPN Configuration Manager",
   "desktop": "com.github.jkotra.eovpn.desktop",
@@ -870,6 +1008,9 @@
  },
  "aur:euphonica": {
   "adds": 24,
+  "categories": [
+   "media"
+  ],
   "commit": "67a57c11db07202aef01a8e2cc511beac69f99fe",
   "description": "GTK4 libadwaita MPD client",
   "desktop": "io.github.htkhiem.Euphonica.desktop",
@@ -890,6 +1031,9 @@
  },
  "aur:feedthemonkey": {
   "adds": 1,
+  "categories": [
+   "internet"
+  ],
   "commit": "f91ceda2ab66d899b7b3616ff01f4bb98e8a2edf",
   "description": "Desktop client for FreshRSS, Miniflux and other Greader API servers",
   "desktop": "net.jeena.FeedTheMonkey.desktop",
@@ -910,6 +1054,9 @@
  },
  "aur:fetch-gtk": {
   "adds": 2,
+  "categories": [
+   "tools"
+  ],
   "commit": "2e48d8bbb5b26d5b1762bb3e18a5091294cf0a0e",
   "description": "A modern, polished GTK4/Libadwaita system fetch display (similar to fastfetch)",
   "desktop": "com.marley.fetch-gtk.desktop",
@@ -932,6 +1079,9 @@
  },
  "aur:ffmpeg-converter-gtk": {
   "adds": 1,
+  "categories": [
+   "media"
+  ],
   "commit": "4324decf0016e31213a26c595fe7bb869908f865",
   "description": "Modern GTK frontend for high-quality FFmpeg encoding (SVT-AV1 & x265)",
   "desktop": "ffmpeg-converter-gtk.desktop",
@@ -954,6 +1104,9 @@
  },
  "aur:file-roller-linuxmint": {
   "adds": 4,
+  "categories": [
+   "tools"
+  ],
   "commit": "062db3d9e7aa8095e4591df64a057c044ce3a6af",
   "description": "Create and modify an archive",
   "desktop": "org.gnome.FileRoller.desktop",
@@ -977,6 +1130,9 @@
  },
  "aur:flare": {
   "adds": 2,
+  "categories": [
+   "internet"
+  ],
   "commit": "159739e8cb62df064cfd6eeabf14b698628d9fba",
   "description": "Chat with your friends on Signal",
   "desktop": "de.schmidhuberj.Flare.desktop",
@@ -997,6 +1153,9 @@
  },
  "aur:flowtime": {
   "adds": 2,
+  "categories": [
+   "productivity"
+  ],
   "commit": "996b117a38428d9c719a31a1accac7b451470713",
   "description": "Get what motivates you done, without losing concentration",
   "desktop": "io.github.diegoivanme.flowtime.desktop",
@@ -1017,6 +1176,9 @@
  },
  "aur:forgesmith": {
   "adds": 12,
+  "categories": [
+   "media"
+  ],
   "commit": "818f6ecbfce9379bfcfb4552967e925593f2388c",
   "description": "Identify, tag, and embed synced lyrics into your FLAC library",
   "desktop": "dev.forgesmith.Forgesmith.desktop",
@@ -1039,6 +1201,9 @@
  },
  "aur:formiko": {
   "adds": 6,
+  "categories": [
+   "productivity"
+  ],
   "commit": "9e0ae9fdfbceca2207df29b5d5a925169a51b224",
   "description": "reStructuredText and MarkDown editor and live html previewer",
   "desktop": "formiko.desktop",
@@ -1061,6 +1226,9 @@
  },
  "aur:gabtag": {
   "adds": 8,
+  "categories": [
+   "media"
+  ],
   "commit": "9b2f91844abd795c9db0b264ace5a526964ef6e4",
   "description": "Modify audio tags",
   "desktop": "com.github.lachhebo.Gabtag.desktop",
@@ -1083,6 +1251,9 @@
  },
  "aur:gapless": {
   "adds": 0,
+  "categories": [
+   "media"
+  ],
   "commit": "0b6b25a422427998b602f4b2293a1a8888b38cb5",
   "description": "Play your music elegantly",
   "desktop": "com.github.neithern.g4music.desktop",
@@ -1101,6 +1272,9 @@
  },
  "aur:gelly": {
   "adds": 10,
+  "categories": [
+   "media"
+  ],
   "commit": "9c8aee8f89634998a6cb4436df0900ca0acc36a7",
   "description": "Jellyfin and Subsonic music player",
   "desktop": "io.m51.Gelly.desktop",
@@ -1121,6 +1295,10 @@
  },
  "aur:geobug-git": {
   "adds": 5,
+  "categories": [
+   "education",
+   "tools"
+  ],
   "commit": "bc23a56d6443ffc3bbd4abb34b74ad7589f14f4d",
   "description": "Display location data and save GPX tracks",
   "desktop": "geobug.desktop",
@@ -1139,6 +1317,9 @@
  },
  "aur:geopard": {
   "adds": 0,
+  "categories": [
+   "internet"
+  ],
   "commit": "61478fab8990f2e0c796c983a5a812f19a17853a",
   "description": "A GTK 4 Gemini browser written in Rust",
   "desktop": "com.ranfdev.Geopard.desktop",
@@ -1160,6 +1341,9 @@
  },
  "aur:geteduroam": {
   "adds": 1,
+  "categories": [
+   "internet"
+  ],
   "commit": "03b2c0b3c3eba858ff7ec713f70576b957882d72",
   "description": "A geteduroam client for Linux. Geteduroam simplifies the process of connecting to eduroam.",
   "desktop": "app.eduroam.geteduroam.desktop",
@@ -1182,6 +1366,9 @@
  },
  "aur:gitilante": {
   "adds": 2,
+  "categories": [
+   "development"
+  ],
   "commit": "feb81d6dfe25f0b1f49c27b462d243268ba0d380",
   "description": "Lightweight Git GUI focused on reviewing changes and manipulating single hunks",
   "desktop": "dev.gitilante.Gitilante.desktop",
@@ -1196,6 +1383,9 @@
  },
  "aur:gitte": {
   "adds": 1,
+  "categories": [
+   "development"
+  ],
   "commit": "a3f451ec75baecf094094737081da445565a31f5",
   "description": "Manage your code history",
   "desktop": "de.wwwtech.gitte.desktop",
@@ -1218,6 +1408,9 @@
  },
  "aur:gleem-crossfade": {
   "adds": 1,
+  "categories": [
+   "media"
+  ],
   "commit": "a160257973e2b6b26550b9de66de90cf22adb31c",
   "description": "Dual-mix virtual audio mixer for streaming",
   "desktop": "gg.gleem.Crossfade.desktop",
@@ -1240,6 +1433,9 @@
  },
  "aur:gmelons": {
   "adds": 12,
+  "categories": [
+   "media"
+  ],
   "commit": "cf96153f46de72b2df868b350a781ed5033b3134",
   "description": "ari melondy",
   "desktop": "jetzt.mia.GMelons.desktop",
@@ -1258,6 +1454,9 @@
  },
  "aur:gnome-quick-share": {
   "adds": 4,
+  "categories": [
+   "internet"
+  ],
   "commit": "80e4ea6990d8d03efb3a9602ea5c3ce001ca8191",
   "description": "Share files with nearby devices",
   "desktop": "io.github.weversonl.GnomeQuickShare.desktop",
@@ -1279,6 +1478,9 @@
  },
  "aur:gnome-tuner": {
   "adds": 2,
+  "categories": [
+   "tools"
+  ],
   "commit": "af71aa1a90e5f6a1ac09845d5932671efb9bb571",
   "description": "Extensible control center",
   "desktop": "org.altlinux.Tuner.desktop",
@@ -1299,6 +1501,9 @@
  },
  "aur:goalin": {
   "adds": 5,
+  "categories": [
+   "productivity"
+  ],
   "commit": "f12a837e1d32742d6209ac616b4935fc90143035",
   "description": "Productivity tracking and analysis",
   "desktop": "goalin.desktop",
@@ -1313,6 +1518,9 @@
  },
  "aur:headsetkontrol": {
   "adds": 53,
+  "categories": [
+   "tools"
+  ],
   "commit": "8336f68441ff7d13ae8521ee7781462893b40eb9",
   "description": "Interface for HeadsetControl (by Sapd) written with Kirigami and KDE Framework",
   "desktop": "headsetkontrol.desktop",
@@ -1327,6 +1535,9 @@
  },
  "aur:high-tide": {
   "adds": 26,
+  "categories": [
+   "media"
+  ],
   "commit": "50c0ff20ccba82641d2910d00cd9575232d6cda7",
   "description": "Libadwaita TIDAL client for Linux",
   "desktop": "io.github.nokse22.high-tide.desktop",
@@ -1341,6 +1552,9 @@
  },
  "aur:hiresti": {
   "adds": 59,
+  "categories": [
+   "media"
+  ],
   "commit": "b9125892e7453364d7e82f14f983f91a94cc5432",
   "description": "High-Res TIDAL player for Linux",
   "desktop": "com.hiresti.player.desktop",
@@ -1361,6 +1575,9 @@
  },
  "aur:hyprshell-slim": {
   "adds": 2,
+  "categories": [
+   "tools"
+  ],
   "commit": "410a85b4611b6b8f13eabd0ae66c8c7d8354194f",
   "description": "Edit Hyprshell settings",
   "desktop": "hyprshell-settings.desktop",
@@ -1384,6 +1601,9 @@
  },
  "aur:hyprwrc-git": {
   "adds": 3,
+  "categories": [
+   "tools"
+  ],
   "commit": "7d53af76353b51050e97977e556504b84cf5bb65",
   "description": "Build Hyprland window rules by clicking the window",
   "desktop": "hyprwrc.desktop",
@@ -1398,6 +1618,10 @@
  },
  "aur:inlinea": {
   "adds": 16,
+  "categories": [
+   "productivity",
+   "graphics"
+  ],
   "commit": "ad210d3efa71baef31e9a7b92524d2073cd6f52d",
   "description": "Professional PDF viewer and annotation editor",
   "desktop": "com.inlinea.app.desktop",
@@ -1421,6 +1645,9 @@
  },
  "aur:inspector": {
   "adds": 2,
+  "categories": [
+   "tools"
+  ],
   "commit": "106a46de06795e2f3e916eae0019cb259378a3ca",
   "description": "View information about your system",
   "desktop": "io.github.nokse22.inspector.desktop",
@@ -1435,6 +1662,9 @@
  },
  "aur:jot-git": {
   "adds": 1,
+  "categories": [
+   "productivity"
+  ],
   "commit": "09e74b21289ac6c2793f179a8f1b98f49ba2f89c",
   "description": "Jot, a single-purpose tool for capturing a thought before it disappears.",
   "desktop": "jot.desktop",
@@ -1456,6 +1686,9 @@
  },
  "aur:jotite": {
   "adds": 1,
+  "categories": [
+   "productivity"
+  ],
   "commit": "cdc867d55defcb49346b4e316f30757feef56cb1",
   "description": "Jotite - A lightweight markdown note-taking app with live rendering",
   "desktop": "jotite.desktop",
@@ -1477,6 +1710,9 @@
  },
  "aur:keymasq": {
   "adds": 10,
+  "categories": [
+   "tools"
+  ],
   "commit": "15ea76978c6a54dadfa9d6c6de51a81be18dfc66",
   "description": "Customize keyboard, mouse, and gamepad input",
   "desktop": "tools.keymasq.keymasq.desktop",
@@ -1498,6 +1734,9 @@
  },
  "aur:keypunch-git": {
   "adds": 1,
+  "categories": [
+   "education"
+  ],
   "commit": "4e83bdff48572f51ed2ff78e09291f5df0f002dd",
   "description": "Practice your typing skills",
   "desktop": "no.bragefuglseth.Keypunch.Devel.desktop",
@@ -1516,6 +1755,9 @@
  },
  "aur:khushu": {
   "adds": 1,
+  "categories": [
+   "tools"
+  ],
   "commit": "005166a3000e40b98c48969c108fdfaf6ea6d69e",
   "description": "An all-in-one Muslim app for Linux",
   "desktop": "io.github.sniper1720.khushu.desktop",
@@ -1534,6 +1776,9 @@
  },
  "aur:kitsune": {
   "adds": 53,
+  "categories": [
+   "media"
+  ],
   "commit": "95d71fb5a21d8698bd79dfaa312925a1f45af4c5",
   "description": "Watch anime from AniLiberty",
   "desktop": "net.armatik.Kitsune.desktop",
@@ -1552,6 +1797,9 @@
  },
  "aur:konbucase": {
   "adds": 5,
+  "categories": [
+   "tools"
+  ],
   "commit": "dbae8fa4c03f77f673582b5ab2f7edf1c982fe7e",
   "description": "Convert case in your text",
   "desktop": "com.github.ryonakano.konbucase.desktop",
@@ -1570,6 +1818,9 @@
  },
  "aur:kontainer": {
   "adds": 52,
+  "categories": [
+   "tools"
+  ],
   "commit": "bb662bf229f4bd3c6764efc3e89a59b8eab1609b",
   "description": "Manage Distrobox containers",
   "desktop": "io.github.DenysMb.Kontainer.desktop",
@@ -1590,6 +1841,9 @@
  },
  "aur:kretro": {
   "adds": 20,
+  "categories": [
+   "games"
+  ],
   "commit": "b3b85aad58ea57773eb0faba3d629c6f2e9b9ebf",
   "description": "Libretro frontend for Plasma",
   "desktop": "org.kde.kretro.desktop",
@@ -1610,6 +1864,9 @@
  },
  "aur:kyanite-git": {
   "adds": 7,
+  "categories": [
+   "productivity"
+  ],
   "commit": "eaa943bd6a988767641a3da344d02af7afd39e82",
   "description": "A lightweight, graphical text editor.",
   "desktop": "ca.potatoe.Kyanite.desktop",
@@ -1630,6 +1887,9 @@
  },
  "aur:leggio": {
   "adds": 6,
+  "categories": [
+   "media"
+  ],
   "commit": "56635e8e5a1fdee6b4a83909a691340a2afb1b24",
   "description": "Read and perform from sheet music",
   "desktop": "io.github.MrGilfy.Leggio.desktop",
@@ -1653,6 +1913,9 @@
  },
  "aur:lfy": {
   "adds": 7,
+  "categories": [
+   "tools"
+  ],
   "commit": "9531375c1fb9da400772c7e529e80e2b05b4a885",
   "description": "翻译软件，使用adwaita和python原生开发，免费支持谷歌、必应、百度、腾讯翻译。A translation app by gtk4 and adwaita. Support Google, Bing, Baidu, Tencent Translate for free.",
   "desktop": "cool.ldr.lfy.desktop",
@@ -1672,6 +1935,9 @@
  },
  "aur:luminance": {
   "adds": 3,
+  "categories": [
+   "tools"
+  ],
   "commit": "04d3d56458afd850144750da31cbb8eb569b0ea3",
   "description": "A simple GTK application to control brightness of displays including external displays supporting DDC/CI",
   "desktop": "com.sidevesh.Luminance.desktop",
@@ -1694,6 +1960,9 @@
  },
  "aur:mousam": {
   "adds": 8,
+  "categories": [
+   "tools"
+  ],
   "commit": "230dbe146d0c6c2b771c58695a5b03b7ce95de7e",
   "description": "Weather at a glance",
   "desktop": "io.github.amit9838.mousam.desktop",
@@ -1716,6 +1985,9 @@
  },
  "aur:muzika-git": {
   "adds": 39,
+  "categories": [
+   "media"
+  ],
   "commit": "03d0f9d3601398904fdd4e3581e4b01dfad2dd02",
   "description": "Stream music online",
   "desktop": "muzika.desktop",
@@ -1734,6 +2006,9 @@
  },
  "aur:netease-cloud-music-gtk4": {
   "adds": 40,
+  "categories": [
+   "media"
+  ],
   "commit": "433b439d2f57a8c11162c812bb7ca9dde0f7f68c",
   "description": "use NetEase Cloud Music API Gtk4 player",
   "desktop": "com.gitee.gmg137.NeteaseCloudMusicGtk4.desktop",
@@ -1756,6 +2031,10 @@
  },
  "aur:netman-h": {
   "adds": 1,
+  "categories": [
+   "internet",
+   "tools"
+  ],
   "commit": "cfac4127b5b4ffa8f62a3cd52f4b035751204c80",
   "description": "Modern NetworkManager GUI for Omarchy / Hyprland",
   "desktop": "netman-h.desktop",
@@ -1778,6 +2057,9 @@
  },
  "aur:nicotine-plus-git": {
   "adds": 2,
+  "categories": [
+   "internet"
+  ],
   "commit": "141a35e0a96210a900d00a59846969d318a2508d",
   "description": "Graphical client for the Soulseek peer-to-peer network",
   "desktop": "org.nicotine_plus.Nicotine.desktop",
@@ -1800,6 +2082,9 @@
  },
  "aur:noisetorch": {
   "adds": 1,
+  "categories": [
+   "media"
+  ],
   "commit": "64895d7ccd6637aec3fdba970ce7cca93b105e4d",
   "description": "Create a virtual microphone that suppresses noise, in any application.",
   "desktop": "noisetorch.desktop",
@@ -1814,6 +2099,9 @@
  },
  "aur:nucleus-gtk4-git": {
   "adds": 2,
+  "categories": [
+   "education"
+  ],
   "commit": "30ff7086e584936e72ec8b2f81be2eb3b4781fd5",
   "description": "Chemistry educational software written in Python",
   "desktop": "page.codeberg.lo_vely.Nucleus.desktop",
@@ -1835,6 +2123,9 @@
  },
  "aur:ohmysvg": {
   "adds": 1,
+  "categories": [
+   "graphics"
+  ],
   "commit": "3280dedbedb1f79ac7d4ccecc45182fe70bf1c44",
   "description": "Optimize SVG",
   "desktop": "re.sonny.OhMySVG.desktop",
@@ -1855,6 +2146,9 @@
  },
  "aur:okuri": {
   "adds": 1,
+  "categories": [
+   "internet"
+  ],
   "commit": "a1aa87db6ac55b64c193212bd73ea771891f8cb6",
   "description": "Dead-simple file transfer for Omarchy & Linux",
   "desktop": "okuri.desktop",
@@ -1877,6 +2171,9 @@
  },
  "aur:omachat": {
   "adds": 3,
+  "categories": [
+   "internet"
+  ],
   "commit": "0228eccb69c1edf4cf0b481fcf29ef3b8ceb66ad",
   "description": "Native voice, text and screen chat for self-hosted servers",
   "desktop": "org.omarchy.OmaChat.desktop",
@@ -1895,6 +2192,9 @@
  },
  "aur:omarchist-bin": {
   "adds": 7,
+  "categories": [
+   "tools"
+  ],
   "commit": "adea5dd4866ad923d0d3eed566341bd38e58f976",
   "description": "A GUI app for Omarchy Linux",
   "desktop": "omarchist.desktop",
@@ -1909,6 +2209,9 @@
  },
  "aur:omarchy-flux": {
   "adds": 1,
+  "categories": [
+   "internet"
+  ],
   "commit": "10131038f4ee5fb7a70c27bc0697455878846203",
   "description": "Share files, clipboard, notifications, and media with your phone",
   "desktop": "flux.desktop",
@@ -1927,6 +2230,9 @@
  },
  "aur:omarchy-games-menu": {
   "adds": 1,
+  "categories": [
+   "games"
+  ],
   "commit": "8e354586b607d8d8a17fe88781e6b33935017f25",
   "description": "Steam-like launcher grid for distrobox-gaming PC ports, recomps and emulators",
   "desktop": "omarchy-games-menu.desktop",
@@ -1941,6 +2247,9 @@
  },
  "aur:omarchy-imageview": {
   "adds": 1,
+  "categories": [
+   "graphics"
+  ],
   "commit": "bf8bec709f2c57b1f4ce3066c78f225f726b3007",
   "description": "Omarchy image viewer and browser",
   "desktop": "omarchy-imageview.desktop",
@@ -1962,6 +2271,9 @@
  },
  "aur:omawrite": {
   "adds": 1,
+  "categories": [
+   "productivity"
+  ],
   "commit": "2437bc29a71fc68ca3a742b60737200bb68e548e",
   "description": "Dead-simple Markdown writing app",
   "desktop": "omawrite.desktop",
@@ -1985,6 +2297,9 @@
  },
  "aur:omcalc-git": {
   "adds": 1,
+  "categories": [
+   "tools"
+  ],
   "commit": "66786546261a4b10895196754448c450e7788909",
   "description": "Omcalc (GTK4)",
   "desktop": "omcalc.desktop",
@@ -2008,6 +2323,9 @@
  },
  "aur:osmin": {
   "adds": 10,
+  "categories": [
+   "tools"
+  ],
   "commit": "c751ca3357e9ab638ac47fb9bf7821eeb341d6e8",
   "description": "Satellite Navigator & Tracker On-Road/Off-Road for Mobile",
   "desktop": "osmin.desktop",
@@ -2026,6 +2344,9 @@
  },
  "aur:overskride": {
   "adds": 1,
+  "categories": [
+   "tools"
+  ],
   "commit": "444af45020ac9e18d67e48a6983a443e8eee09a1",
   "description": "A simple yet powerful bluetooth app!",
   "desktop": "io.github.kaii_lb.Overskride.desktop",
@@ -2048,6 +2369,9 @@
  },
  "aur:pachub": {
   "adds": 2,
+  "categories": [
+   "tools"
+  ],
   "commit": "ed327f9fe4a6c465ae4b9c05c8c4c75afe4adf92",
   "description": "A powerful Pacman/AUR front end",
   "desktop": "io.github.mrks1469.pachub.desktop",
@@ -2070,6 +2394,9 @@
  },
  "aur:packet": {
   "adds": 1,
+  "categories": [
+   "internet"
+  ],
   "commit": "58c886cccf721efcd9df01ad89a9bebfb54ba161",
   "description": "Share files easily",
   "desktop": "io.github.nozwock.Packet.desktop",
@@ -2091,6 +2418,9 @@
  },
  "aur:parlatype": {
   "adds": 1,
+  "categories": [
+   "media"
+  ],
   "commit": "81ac5d114bcbba6f5b7044d15517e7a4b83df739",
   "description": "Transcription utility",
   "desktop": "xyz.parlatype.Parlatype.desktop",
@@ -2113,6 +2443,9 @@
  },
  "aur:passes": {
   "adds": 3,
+  "categories": [
+   "tools"
+  ],
   "commit": "d8466ea349bd2afae770f559742dc7017ef59c24",
   "description": "A digital pass manager",
   "desktop": "me.sanchezrodriguez.passes.desktop",
@@ -2136,6 +2469,9 @@
  },
  "aur:picplanner": {
   "adds": 1,
+  "categories": [
+   "graphics"
+  ],
   "commit": "9bd82cdab5495fc4c9245d39c5a42f8429b28d7e",
   "description": "Plan your next photo locations",
   "desktop": "de.zwarf.picplanner.desktop",
@@ -2157,6 +2493,9 @@
  },
  "aur:pigment": {
   "adds": 7,
+  "categories": [
+   "tools"
+  ],
   "commit": "8d1675acd03f6425ad0c5be4a80fde2567621c10",
   "description": "Extract color palettes from your images",
   "desktop": "com.jeffser.Pigment.desktop",
@@ -2178,6 +2517,9 @@
  },
  "aur:pinit": {
   "adds": 1,
+  "categories": [
+   "tools"
+  ],
   "commit": "d5986c9190bee4eaf58cbb695f232bd9f66c51e6",
   "description": "Pin portable apps to the launcher",
   "desktop": "com.github.ryonakano.pinit.desktop",
@@ -2200,6 +2542,9 @@
  },
  "aur:pins-git": {
   "adds": 1,
+  "categories": [
+   "tools"
+  ],
   "commit": "25ebd52b11f7b71bc95789b7e7d6eccddd2f947b",
   "description": "Create and edit app shortcuts",
   "desktop": "io.github.fabrialberio.pinapp.desktop",
@@ -2220,6 +2565,9 @@
  },
  "aur:pipecontrol": {
   "adds": 4,
+  "categories": [
+   "media"
+  ],
   "commit": "0464854a6ef2f8e553e51f5134e04c5ea474c511",
   "description": "Pipewire control GUI program in Qt (Kirigami2)",
   "desktop": "PipeControl.desktop",
@@ -2234,6 +2582,9 @@
  },
  "aur:pipeline-gtk": {
   "adds": 24,
+  "categories": [
+   "media"
+  ],
   "commit": "9ce1fd2d94954eb89810c726f6e1e053dfb08802",
   "description": "Follow video creators",
   "desktop": "de.schmidhuberj.tubefeeder.desktop",
@@ -2254,6 +2605,9 @@
  },
  "aur:plattenalbum": {
   "adds": 2,
+  "categories": [
+   "media"
+  ],
   "commit": "8a99c8bc9342c1fbec6bcac854d579fba872fea4",
   "description": "Connect to your music",
   "desktop": "de.wagnermartin.Plattenalbum.desktop",
@@ -2272,6 +2626,9 @@
  },
  "aur:powersupply": {
   "adds": 1,
+  "categories": [
+   "tools"
+  ],
   "commit": "15ee65d398833290ee4490a3bded246ec60cffae",
   "description": "Graphical power_supply status tool for Linux mobile platforms",
   "desktop": "org.postmarketos.Powersupply.desktop",
@@ -2286,6 +2643,9 @@
  },
  "aur:quick-lookup": {
   "adds": 1,
+  "categories": [
+   "productivity"
+  ],
   "commit": "2a9b5b0e2577730883a1eb603c27dc09b2e74250",
   "description": "Lookup words in dictionary",
   "desktop": "com.github.johnfactotum.QuickLookup.desktop",
@@ -2302,6 +2662,9 @@
  },
  "aur:rclone-shuttle": {
   "adds": 2,
+  "categories": [
+   "internet"
+  ],
   "commit": "211edad0dac11c7bb03f31d94ba3edb7c6c2e581",
   "description": "Browse your Rclone remotes",
   "desktop": "io.github.pieterdd.RcloneShuttle.desktop",
@@ -2322,6 +2685,9 @@
  },
  "aur:recorder": {
   "adds": 1,
+  "categories": [
+   "media"
+  ],
   "commit": "d268c47dc195c4ba45f59d385fab0ce326191c62",
   "description": "Simple audio recorder",
   "desktop": "com.github.alexkdeveloper.recorder.desktop",
@@ -2343,6 +2709,9 @@
  },
  "aur:riff-client": {
   "adds": 1,
+  "categories": [
+   "media"
+  ],
   "commit": "01f4dccc17f932efae5580858396454a0db1f0df",
   "description": "Native Spotify client for the GNOME desktop",
   "desktop": "dev.diegovsky.Riff.desktop",
@@ -2361,6 +2730,9 @@
  },
  "aur:rustconn": {
   "adds": 4,
+  "categories": [
+   "internet"
+  ],
   "commit": "1cb1c0c017c0313aed5b7c3219868b3a1c7ac469",
   "description": "Manage remote connections easily",
   "desktop": "io.github.totoshko88.RustConn.desktop",
@@ -2383,6 +2755,9 @@
  },
  "aur:sidemark": {
   "adds": 18,
+  "categories": [
+   "productivity"
+  ],
   "commit": "c26577d01edcc3dd508ec75fc14d21c419685770",
   "description": "View and annotate PDF files with markdown notes",
   "desktop": "de.hspitz.sidemark.desktop",
@@ -2405,6 +2780,9 @@
  },
  "aur:simple-scan-linuxmint": {
   "adds": 13,
+  "categories": [
+   "graphics"
+  ],
   "commit": "2b2e0ea6ecdeb40aad2597aa9cd0a373d3251cca",
   "description": "Make a digital copy of your photos and documents",
   "desktop": "simple-scan.desktop",
@@ -2427,6 +2805,9 @@
  },
  "aur:smile": {
   "adds": 3,
+  "categories": [
+   "tools"
+  ],
   "commit": "09c15b46d86688399b5d8a1d3b0e9a5642ce98b7",
   "description": "An emoji picker with custom tags support",
   "desktop": "it.mijorus.smile.desktop",
@@ -2449,6 +2830,9 @@
  },
  "aur:solitaire": {
   "adds": 1,
+  "categories": [
+   "games"
+  ],
   "commit": "a52d69b1caaf6d7cadef74e1b7a78bf80688ef6f",
   "description": "Play patience games",
   "desktop": "org.gnome.gitlab.wwarner.Solitaire.desktop",
@@ -2467,6 +2851,9 @@
  },
  "aur:spedread": {
   "adds": 1,
+  "categories": [
+   "tools"
+  ],
   "commit": "4c77dee82bac4b13f1f5053225dce2f9b0b2f184",
   "description": "Read like a speedrunner!",
   "desktop": "com.github.Darazaki.Spedread.desktop",
@@ -2488,6 +2875,9 @@
  },
  "aur:speedofsound": {
   "adds": 6,
+  "categories": [
+   "tools"
+  ],
   "commit": "b75008e5085f548439694cec7c697b90e75fd66b",
   "description": "Voice typing for the Linux desktop",
   "desktop": "io.speedofsound.SpeedOfSound.desktop",
@@ -2502,6 +2892,9 @@
  },
  "aur:sticky-notes": {
   "adds": 1,
+  "categories": [
+   "tools"
+  ],
   "commit": "0e027cee14e85e9a0762f8da7326ce6153de9d31",
   "description": "Pin notes to your desktop",
   "desktop": "com.vixalien.sticky.desktop",
@@ -2522,6 +2915,9 @@
  },
  "aur:swash": {
   "adds": 1,
+  "categories": [
+   "graphics"
+  ],
   "commit": "477f325473f96c3448dc554fb2357456aeeac68e",
   "description": "Screenshot annotator and lightweight image editor",
   "desktop": "dev.lemmy.swash.desktop",
@@ -2545,6 +2941,10 @@
  },
  "aur:sysex-controls": {
   "adds": 1,
+  "categories": [
+   "media",
+   "tools"
+  ],
   "commit": "2dc180c3a7314ad6836d878fa93b726cfe2d5a76",
   "description": "Linux alternative to the MIDI Control Center software",
   "desktop": "hu.irl.sysex-controls.desktop",
@@ -2563,6 +2963,9 @@
  },
  "aur:tangara-companion": {
   "adds": 1,
+  "categories": [
+   "tools"
+  ],
   "commit": "7844ee2f6851eee268ebdd02428fc5e395bd1073",
   "description": "Companion app for Cool Tech Zone Tangara",
   "desktop": "zone.cooltech.tangara.Companion.desktop",
@@ -2585,6 +2988,9 @@
  },
  "aur:textsnatcher": {
   "adds": 8,
+  "categories": [
+   "graphics"
+  ],
   "commit": "68e22389bcee8bef02451f891629362d1e9c8310",
   "description": "Snatch Text with just a Drag",
   "desktop": "com.github.rajsolai.textsnatcher.desktop",
@@ -2606,6 +3012,9 @@
  },
  "aur:thiefmd": {
   "adds": 7,
+  "categories": [
+   "productivity"
+  ],
   "commit": "1afa8fb84e93331a4c780a8794fd43b3154f309f",
   "description": "The Markdown Editor worth Stealing",
   "desktop": "com.github.kmwallio.thiefmd.desktop",
@@ -2628,6 +3037,9 @@
  },
  "aur:timetable": {
   "adds": 8,
+  "categories": [
+   "education"
+  ],
   "commit": "c45a71bf9a7b817af424873ad20324d2e8efe176",
   "description": "GTK4 + LibAdwaita client for WebUntis",
   "desktop": "page.codeberg.ostfriese4.Untis.desktop",
@@ -2642,6 +3054,9 @@
  },
  "aur:tomatillo": {
   "adds": 1,
+  "categories": [
+   "productivity"
+  ],
   "commit": "25a3f5f0b6c313440136f04fe246a318a022005d",
   "description": "Focus better, work smarter",
   "desktop": "io.github.diegopvlk.Tomatillo.desktop",
@@ -2656,6 +3071,9 @@
  },
  "aur:tonearm": {
   "adds": 40,
+  "categories": [
+   "media"
+  ],
   "commit": "a812854b6daacd3f777b19a4bd7a8cea57ff1522",
   "description": "Tonearm is a GTK client for TIDAL written in GoLang.",
   "desktop": "dev.dergs.Tonearm.desktop",
@@ -2678,6 +3096,9 @@
  },
  "aur:touche": {
   "adds": 2,
+  "categories": [
+   "tools"
+  ],
   "commit": "07e58f36d3ae72c4e638b7b13525d0015940a81b",
   "description": "Configure Touchégg multi-touch gestures",
   "desktop": "com.github.joseexposito.touche.desktop",
@@ -2700,6 +3121,9 @@
  },
  "aur:transistor-git": {
   "adds": 13,
+  "categories": [
+   "media"
+  ],
   "commit": "0ef17e9ab94e2a3563651ebe018fd9f4efb0cdc8",
   "description": "Internet radio player",
   "desktop": "ru.transistor_radio.transistor.desktop",
@@ -2714,6 +3138,9 @@
  },
  "aur:tributary": {
   "adds": 42,
+  "categories": [
+   "media"
+  ],
   "commit": "f9888acd8d8896820f067bb7532f03424a906d7a",
   "description": "A high-performance, multi-source music manager",
   "desktop": "io.github.tributary.Tributary.desktop",
@@ -2736,6 +3163,9 @@
  },
  "aur:tundra": {
   "adds": 1,
+  "categories": [
+   "tools"
+  ],
   "commit": "63c69ea910374c1ccea672a86a141bf8ce5ca930",
   "description": "MyAnimeList scrobbler",
   "desktop": "moe.tundra.Tundra.desktop",
@@ -2752,6 +3182,9 @@
  },
  "aur:ultimate-tic-tac-toe-git": {
   "adds": 2,
+  "categories": [
+   "games"
+  ],
   "commit": "676aec05f846de14cf6c6818a9b2d96871a84023",
   "description": "Ultimate Tic Tac Toe - GTK4/libadwaita Python game",
   "desktop": "io.github.nokse22.ultimate-tic-tac-toe.desktop",
@@ -2772,6 +3205,9 @@
  },
  "aur:vermouth": {
   "adds": 13,
+  "categories": [
+   "games"
+  ],
   "commit": "dbcb20d89ad0017a43d2ffb1586e1be5045f6177",
   "description": "Native, Windows, and retro game launcher for Linux",
   "desktop": "com.dekomote.vermouth.desktop",
@@ -2795,6 +3231,9 @@
  },
  "aur:watchmate": {
   "adds": 0,
+  "categories": [
+   "tools"
+  ],
   "commit": "8636547fe83b0a0c2cd2e23c3c754712b6e553c6",
   "description": "Sync and integrate with PineTime smart watch",
   "desktop": "io.gitlab.azymohliad.WatchMate.desktop",
@@ -2815,6 +3254,9 @@
  },
  "aur:wattage": {
   "adds": 1,
+  "categories": [
+   "tools"
+  ],
   "commit": "b779b7c6290693fe19cab5583fcf259939ae1a90",
   "description": "Monitor power devices",
   "desktop": "io.github.v81d.Wattage.desktop",
@@ -2833,6 +3275,9 @@
  },
  "aur:waytator": {
   "adds": 1,
+  "categories": [
+   "graphics"
+  ],
   "commit": "40a5a0af60b2e38e1ec58a5b05a5cbf8719bf3b6",
   "description": "Screenshot annotator and lightweight image editor",
   "desktop": "dev.faetalize.waytator.desktop",
@@ -2855,6 +3300,9 @@
  },
  "aur:whatip": {
   "adds": 8,
+  "categories": [
+   "internet"
+  ],
   "commit": "bf557395f12073905a684c99fb85fb81b48a183b",
   "description": "Info on your IP",
   "desktop": "org.gabmus.whatip.desktop",
@@ -2875,6 +3323,9 @@
  },
  "aur:whisp": {
   "adds": 2,
+  "categories": [
+   "productivity"
+  ],
   "commit": "b5449e617526ce3c41e2578c2ad8d67f554eb709",
   "description": "A minimalist note taking widget application",
   "desktop": "io.github.tanaybhomia.Whisp.desktop",
@@ -2892,6 +3343,9 @@
  },
  "aur:winkel": {
   "adds": 1,
+  "categories": [
+   "media"
+  ],
   "commit": "f4e32348bc030909e5ba01d7e8458ceab5e1bcd9",
   "description": "A metronome that follows your Omarchy theme",
   "desktop": "dev.douglasmoura.winkel.desktop",
@@ -2912,6 +3366,9 @@
  },
  "aur:wombat": {
   "adds": 1,
+  "categories": [
+   "education"
+  ],
   "commit": "5c38b6b787b8e529f02cfbe9ba755c9fbec01d01",
   "description": "High-precision scientific calculator with full unit support, powered by Numbat",
   "desktop": "io.github.archisman_panigrahi.wombat.desktop",
@@ -2932,6 +3389,9 @@
  },
  "aur:word-sys-pdf-editor": {
   "adds": 17,
+  "categories": [
+   "productivity"
+  ],
   "commit": "9e856f2bca69c046cd593a4524d651e1c6ba3568",
   "description": "A simple and user-friendly PDF Editor",
   "desktop": "word-sys-pdf-editor.desktop",
