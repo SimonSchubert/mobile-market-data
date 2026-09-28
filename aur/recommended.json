@@ -9,11 +9,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-video-library-0-16e9421a.webp",
-   "moarchy-video-library-1-6876baba.webp",
-   "moarchy-video-library-2-6e266826.webp"
+   "moarchy-video-library-0-9c27ec9d.webp",
+   "moarchy-video-library-1-d238378c.webp",
+   "moarchy-video-library-2-3acb9a91.webp"
   ],
-  "icon": "moarchy-video-library-47e500e1.webp"
+  "icon": "moarchy-video-library-47e500e1.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-video-library-0-d942fed4.webp",
+    "moarchy-video-library-1-e35e43db.webp",
+    "moarchy-video-library-2-35db32ae.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-video-library-0-9e30a60c.webp",
+    "moarchy-video-library-1-8b0f0216.webp",
+    "moarchy-video-library-2-5db9e47a.webp"
+   ],
+   "ethereal": [
+    "moarchy-video-library-0-dfa52581.webp",
+    "moarchy-video-library-1-79184746.webp",
+    "moarchy-video-library-2-53bf21cf.webp"
+   ],
+   "everforest": [
+    "moarchy-video-library-0-b23c9fbe.webp",
+    "moarchy-video-library-1-486bda84.webp",
+    "moarchy-video-library-2-fa343eed.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-video-library-0-3697c587.webp",
+    "moarchy-video-library-1-67401a30.webp",
+    "moarchy-video-library-2-cbceca6a.webp"
+   ],
+   "gruvbox": [
+    "moarchy-video-library-0-7ea9b0f7.webp",
+    "moarchy-video-library-1-d5b4c9dd.webp",
+    "moarchy-video-library-2-29ef1914.webp"
+   ],
+   "hackerman": [
+    "moarchy-video-library-0-e67ea6dc.webp",
+    "moarchy-video-library-1-26eb442a.webp",
+    "moarchy-video-library-2-6a6b1784.webp"
+   ],
+   "kanagawa": [
+    "moarchy-video-library-0-4626d889.webp",
+    "moarchy-video-library-1-8291c826.webp",
+    "moarchy-video-library-2-e1d416d8.webp"
+   ],
+   "last-horizon": [
+    "moarchy-video-library-0-d72af3c3.webp",
+    "moarchy-video-library-1-b69d0537.webp",
+    "moarchy-video-library-2-9b1b966b.webp"
+   ],
+   "lumon": [
+    "moarchy-video-library-0-b01dcc7e.webp",
+    "moarchy-video-library-1-2d886472.webp",
+    "moarchy-video-library-2-0a483017.webp"
+   ],
+   "lupine": [
+    "moarchy-video-library-0-0974bed3.webp",
+    "moarchy-video-library-1-aa361e6a.webp",
+    "moarchy-video-library-2-dbf96a89.webp"
+   ],
+   "matte-black": [
+    "moarchy-video-library-0-edcc8ef5.webp",
+    "moarchy-video-library-1-198a9079.webp",
+    "moarchy-video-library-2-acc1b308.webp"
+   ],
+   "miasma": [
+    "moarchy-video-library-0-3f3b4533.webp",
+    "moarchy-video-library-1-809de8f9.webp",
+    "moarchy-video-library-2-4b60ca54.webp"
+   ],
+   "nord": [
+    "moarchy-video-library-0-1f35762f.webp",
+    "moarchy-video-library-1-d1bf2d27.webp",
+    "moarchy-video-library-2-1d4e8ede.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-video-library-0-e50297b0.webp",
+    "moarchy-video-library-1-23789d6f.webp",
+    "moarchy-video-library-2-d45ee3dc.webp"
+   ],
+   "retro-82": [
+    "moarchy-video-library-0-d8de59d1.webp",
+    "moarchy-video-library-1-15ab32b6.webp",
+    "moarchy-video-library-2-56725463.webp"
+   ],
+   "ristretto": [
+    "moarchy-video-library-0-8ab96c9c.webp",
+    "moarchy-video-library-1-5483dee2.webp",
+    "moarchy-video-library-2-0c4a0030.webp"
+   ],
+   "rose-pine": [
+    "moarchy-video-library-0-c30a8c3b.webp",
+    "moarchy-video-library-1-8f59c054.webp",
+    "moarchy-video-library-2-76e7567e.webp"
+   ],
+   "solitude": [
+    "moarchy-video-library-0-1e6d160e.webp",
+    "moarchy-video-library-1-9c985ebe.webp",
+    "moarchy-video-library-2-c43bdaef.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-video-library-0-9c27ec9d.webp",
+    "moarchy-video-library-1-d238378c.webp",
+    "moarchy-video-library-2-3acb9a91.webp"
+   ],
+   "vantablack": [
+    "moarchy-video-library-0-243fac95.webp",
+    "moarchy-video-library-1-af023192.webp",
+    "moarchy-video-library-2-8b13afe7.webp"
+   ],
+   "white": [
+    "moarchy-video-library-0-c690f840.webp",
+    "moarchy-video-library-1-9aeb9a56.webp",
+    "moarchy-video-library-2-2e64f80a.webp"
+   ]
+  }
  },
  {
   "pkg": "couch-for-trakt",
@@ -25,11 +137,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "couch-for-trakt-0-aace334f.webp",
-   "couch-for-trakt-1-59e57e47.webp",
-   "couch-for-trakt-2-8ef858b2.webp"
+   "couch-for-trakt-0-dcfc94e2.webp",
+   "couch-for-trakt-1-f636d9f0.webp",
+   "couch-for-trakt-2-c9b600b3.webp"
   ],
-  "icon": "couch-for-trakt-f816efcf.webp"
+  "icon": "couch-for-trakt-f816efcf.webp",
+  "themed": {
+   "catppuccin": [
+    "couch-for-trakt-0-d8840028.webp",
+    "couch-for-trakt-1-26b85ff8.webp",
+    "couch-for-trakt-2-528b6321.webp"
+   ],
+   "catppuccin-latte": [
+    "couch-for-trakt-0-c5496458.webp",
+    "couch-for-trakt-1-79545602.webp",
+    "couch-for-trakt-2-99d0bafa.webp"
+   ],
+   "ethereal": [
+    "couch-for-trakt-0-958a0d6c.webp",
+    "couch-for-trakt-1-419c0dad.webp",
+    "couch-for-trakt-2-8bcb8a90.webp"
+   ],
+   "everforest": [
+    "couch-for-trakt-0-1ba576be.webp",
+    "couch-for-trakt-1-b2145a8a.webp",
+    "couch-for-trakt-2-a0658247.webp"
+   ],
+   "flexoki-light": [
+    "couch-for-trakt-0-92b02c43.webp",
+    "couch-for-trakt-1-6421d10b.webp",
+    "couch-for-trakt-2-d510460d.webp"
+   ],
+   "gruvbox": [
+    "couch-for-trakt-0-bfa0a525.webp",
+    "couch-for-trakt-1-c7be9c27.webp",
+    "couch-for-trakt-2-8c8517e9.webp"
+   ],
+   "hackerman": [
+    "couch-for-trakt-0-d7e01188.webp",
+    "couch-for-trakt-1-822b3517.webp",
+    "couch-for-trakt-2-21d1c952.webp"
+   ],
+   "kanagawa": [
+    "couch-for-trakt-0-9c954927.webp",
+    "couch-for-trakt-1-d8a12f92.webp",
+    "couch-for-trakt-2-6971f359.webp"
+   ],
+   "last-horizon": [
+    "couch-for-trakt-0-33ba4834.webp",
+    "couch-for-trakt-1-4ce03509.webp",
+    "couch-for-trakt-2-2340adf2.webp"
+   ],
+   "lumon": [
+    "couch-for-trakt-0-f519a388.webp",
+    "couch-for-trakt-1-94ec54a0.webp",
+    "couch-for-trakt-2-aebd1e4b.webp"
+   ],
+   "lupine": [
+    "couch-for-trakt-0-ab442ee4.webp",
+    "couch-for-trakt-1-2a0c029f.webp",
+    "couch-for-trakt-2-af718188.webp"
+   ],
+   "matte-black": [
+    "couch-for-trakt-0-08accba0.webp",
+    "couch-for-trakt-1-791e8c8b.webp",
+    "couch-for-trakt-2-e59b828b.webp"
+   ],
+   "miasma": [
+    "couch-for-trakt-0-7c82c404.webp",
+    "couch-for-trakt-1-38977862.webp",
+    "couch-for-trakt-2-eed7eb1e.webp"
+   ],
+   "nord": [
+    "couch-for-trakt-0-f873c54c.webp",
+    "couch-for-trakt-1-fc8169bf.webp",
+    "couch-for-trakt-2-d7776c60.webp"
+   ],
+   "osaka-jade": [
+    "couch-for-trakt-0-ca1eed93.webp",
+    "couch-for-trakt-1-34555b30.webp",
+    "couch-for-trakt-2-9eba68ef.webp"
+   ],
+   "retro-82": [
+    "couch-for-trakt-0-8ccfc700.webp",
+    "couch-for-trakt-1-da52182d.webp",
+    "couch-for-trakt-2-a1d06d83.webp"
+   ],
+   "ristretto": [
+    "couch-for-trakt-0-a9455242.webp",
+    "couch-for-trakt-1-9a22cb78.webp",
+    "couch-for-trakt-2-863b4975.webp"
+   ],
+   "rose-pine": [
+    "couch-for-trakt-0-23eae4c0.webp",
+    "couch-for-trakt-1-63842104.webp",
+    "couch-for-trakt-2-467483d2.webp"
+   ],
+   "solitude": [
+    "couch-for-trakt-0-ba5bf51f.webp",
+    "couch-for-trakt-1-f7953045.webp",
+    "couch-for-trakt-2-033b6d6b.webp"
+   ],
+   "tokyo-night": [
+    "couch-for-trakt-0-dcfc94e2.webp",
+    "couch-for-trakt-1-f636d9f0.webp",
+    "couch-for-trakt-2-c9b600b3.webp"
+   ],
+   "vantablack": [
+    "couch-for-trakt-0-58edbbc0.webp",
+    "couch-for-trakt-1-2f670a96.webp",
+    "couch-for-trakt-2-d8a39774.webp"
+   ],
+   "white": [
+    "couch-for-trakt-0-bd59a7c7.webp",
+    "couch-for-trakt-1-412eea37.webp",
+    "couch-for-trakt-2-2a335a04.webp"
+   ]
+  }
  },
  {
   "pkg": "airwaves",
@@ -41,11 +265,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "airwaves-0-e0548b1a.webp",
-   "airwaves-1-3c682caa.webp",
-   "airwaves-2-4a654118.webp"
+   "airwaves-0-fb8f1149.webp",
+   "airwaves-1-582563b9.webp",
+   "airwaves-2-91ddb1cb.webp"
   ],
-  "icon": "airwaves-54501c34.webp"
+  "icon": "airwaves-54501c34.webp",
+  "themed": {
+   "catppuccin": [
+    "airwaves-0-438f117d.webp",
+    "airwaves-1-fcbddc9c.webp",
+    "airwaves-2-bfc100b1.webp"
+   ],
+   "catppuccin-latte": [
+    "airwaves-0-2ed16a46.webp",
+    "airwaves-1-6e99380b.webp",
+    "airwaves-2-21d46de1.webp"
+   ],
+   "ethereal": [
+    "airwaves-0-0899a1c4.webp",
+    "airwaves-1-842b5a09.webp",
+    "airwaves-2-23228781.webp"
+   ],
+   "everforest": [
+    "airwaves-0-bd5c1c39.webp",
+    "airwaves-1-f2e1939b.webp",
+    "airwaves-2-8cfa0b4f.webp"
+   ],
+   "flexoki-light": [
+    "airwaves-0-b42c7de6.webp",
+    "airwaves-1-56655686.webp",
+    "airwaves-2-540c568a.webp"
+   ],
+   "gruvbox": [
+    "airwaves-0-2d831db9.webp",
+    "airwaves-1-29619ffb.webp",
+    "airwaves-2-cb59fb82.webp"
+   ],
+   "hackerman": [
+    "airwaves-0-a18c9c22.webp",
+    "airwaves-1-391a24fc.webp",
+    "airwaves-2-6b63660f.webp"
+   ],
+   "kanagawa": [
+    "airwaves-0-7870c97e.webp",
+    "airwaves-1-5124d415.webp",
+    "airwaves-2-866e0c8c.webp"
+   ],
+   "last-horizon": [
+    "airwaves-0-78a6a503.webp",
+    "airwaves-1-9cfc3088.webp",
+    "airwaves-2-0d71bf89.webp"
+   ],
+   "lumon": [
+    "airwaves-0-40843bca.webp",
+    "airwaves-1-70e924d8.webp",
+    "airwaves-2-1bf05b91.webp"
+   ],
+   "lupine": [
+    "airwaves-0-d9d1c337.webp",
+    "airwaves-1-8be1eca8.webp",
+    "airwaves-2-b1c3e8f1.webp"
+   ],
+   "matte-black": [
+    "airwaves-0-3d0dc3db.webp",
+    "airwaves-1-5108a545.webp",
+    "airwaves-2-fe8de4d6.webp"
+   ],
+   "miasma": [
+    "airwaves-0-a468789a.webp",
+    "airwaves-1-521285c8.webp",
+    "airwaves-2-52501919.webp"
+   ],
+   "nord": [
+    "airwaves-0-4968982c.webp",
+    "airwaves-1-0e915134.webp",
+    "airwaves-2-3f33384c.webp"
+   ],
+   "osaka-jade": [
+    "airwaves-0-0ee26f26.webp",
+    "airwaves-1-591459fa.webp",
+    "airwaves-2-e60f9c27.webp"
+   ],
+   "retro-82": [
+    "airwaves-0-4cd6ac3d.webp",
+    "airwaves-1-bfb8b0ef.webp",
+    "airwaves-2-fd55a1cb.webp"
+   ],
+   "ristretto": [
+    "airwaves-0-17d6d83e.webp",
+    "airwaves-1-a6e93604.webp",
+    "airwaves-2-d6e09f4d.webp"
+   ],
+   "rose-pine": [
+    "airwaves-0-6a893270.webp",
+    "airwaves-1-9bb07534.webp",
+    "airwaves-2-c6fe6666.webp"
+   ],
+   "solitude": [
+    "airwaves-0-da724755.webp",
+    "airwaves-1-30e765e4.webp",
+    "airwaves-2-9cbe2539.webp"
+   ],
+   "tokyo-night": [
+    "airwaves-0-fb8f1149.webp",
+    "airwaves-1-582563b9.webp",
+    "airwaves-2-91ddb1cb.webp"
+   ],
+   "vantablack": [
+    "airwaves-0-2136e820.webp",
+    "airwaves-1-6ce9a854.webp",
+    "airwaves-2-49f2f58e.webp"
+   ],
+   "white": [
+    "airwaves-0-4ee459e3.webp",
+    "airwaves-1-f1ae6702.webp",
+    "airwaves-2-24b0f234.webp"
+   ]
+  }
  },
  {
   "pkg": "crypto-market",
@@ -57,11 +393,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "crypto-market-0-ccb83197.webp",
-   "crypto-market-1-4bd99717.webp",
-   "crypto-market-2-f2bc5f3f.webp"
+   "crypto-market-0-01e2a1b2.webp",
+   "crypto-market-1-1fbe58b2.webp",
+   "crypto-market-2-e8d54712.webp"
   ],
-  "icon": "crypto-market-4c5be144.webp"
+  "icon": "crypto-market-4c5be144.webp",
+  "themed": {
+   "catppuccin": [
+    "crypto-market-0-90f45284.webp",
+    "crypto-market-1-62ccde52.webp",
+    "crypto-market-2-fb4163c0.webp"
+   ],
+   "catppuccin-latte": [
+    "crypto-market-0-fa6b6940.webp",
+    "crypto-market-1-8f437222.webp",
+    "crypto-market-2-c7eee7bb.webp"
+   ],
+   "ethereal": [
+    "crypto-market-0-0d417ecb.webp",
+    "crypto-market-1-0881316e.webp",
+    "crypto-market-2-2a30bba2.webp"
+   ],
+   "everforest": [
+    "crypto-market-0-368db62c.webp",
+    "crypto-market-1-a6e9ed61.webp",
+    "crypto-market-2-091bfb51.webp"
+   ],
+   "flexoki-light": [
+    "crypto-market-0-27035db0.webp",
+    "crypto-market-1-e64613d3.webp",
+    "crypto-market-2-fcc35d6f.webp"
+   ],
+   "gruvbox": [
+    "crypto-market-0-1bbf5443.webp",
+    "crypto-market-1-434dc57c.webp",
+    "crypto-market-2-fb5f7ece.webp"
+   ],
+   "hackerman": [
+    "crypto-market-0-0e08af2d.webp",
+    "crypto-market-1-f2189d5c.webp",
+    "crypto-market-2-ddf59f42.webp"
+   ],
+   "kanagawa": [
+    "crypto-market-0-5c051e19.webp",
+    "crypto-market-1-170fa14e.webp",
+    "crypto-market-2-6511f505.webp"
+   ],
+   "last-horizon": [
+    "crypto-market-0-ffea7be5.webp",
+    "crypto-market-1-7e2851ea.webp",
+    "crypto-market-2-02a09771.webp"
+   ],
+   "lumon": [
+    "crypto-market-0-257c04b6.webp",
+    "crypto-market-1-9bdc146b.webp",
+    "crypto-market-2-44ff0193.webp"
+   ],
+   "lupine": [
+    "crypto-market-0-fe7f3243.webp",
+    "crypto-market-1-a6bd4097.webp",
+    "crypto-market-2-885b3b62.webp"
+   ],
+   "matte-black": [
+    "crypto-market-0-77ca6d65.webp",
+    "crypto-market-1-f800364c.webp",
+    "crypto-market-2-50c19110.webp"
+   ],
+   "miasma": [
+    "crypto-market-0-1f76792b.webp",
+    "crypto-market-1-357df237.webp",
+    "crypto-market-2-8a2655a4.webp"
+   ],
+   "nord": [
+    "crypto-market-0-f778be86.webp",
+    "crypto-market-1-550841ca.webp",
+    "crypto-market-2-7db13a78.webp"
+   ],
+   "osaka-jade": [
+    "crypto-market-0-3ac18566.webp",
+    "crypto-market-1-10262493.webp",
+    "crypto-market-2-08e564ba.webp"
+   ],
+   "retro-82": [
+    "crypto-market-0-c492fc8f.webp",
+    "crypto-market-1-e39e3680.webp",
+    "crypto-market-2-928a0d7c.webp"
+   ],
+   "ristretto": [
+    "crypto-market-0-273b3fe3.webp",
+    "crypto-market-1-f64903b4.webp",
+    "crypto-market-2-472bb4b7.webp"
+   ],
+   "rose-pine": [
+    "crypto-market-0-cf5b2242.webp",
+    "crypto-market-1-0ecba97c.webp",
+    "crypto-market-2-f0b9ab3a.webp"
+   ],
+   "solitude": [
+    "crypto-market-0-d7adfc65.webp",
+    "crypto-market-1-f0e5cfa6.webp",
+    "crypto-market-2-763719a1.webp"
+   ],
+   "tokyo-night": [
+    "crypto-market-0-01e2a1b2.webp",
+    "crypto-market-1-1fbe58b2.webp",
+    "crypto-market-2-e8d54712.webp"
+   ],
+   "vantablack": [
+    "crypto-market-0-343fb574.webp",
+    "crypto-market-1-9695be6e.webp",
+    "crypto-market-2-526c25a6.webp"
+   ],
+   "white": [
+    "crypto-market-0-708edb9e.webp",
+    "crypto-market-1-5f5f4e7a.webp",
+    "crypto-market-2-574ac218.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-vitals",
@@ -73,11 +521,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-vitals-0-0bfb7fff.webp",
-   "moarchy-vitals-1-5c4d3310.webp",
-   "moarchy-vitals-2-28ee67d6.webp"
+   "moarchy-vitals-0-43007974.webp",
+   "moarchy-vitals-1-a713c77b.webp",
+   "moarchy-vitals-2-67726e43.webp"
   ],
-  "icon": "moarchy-vitals-871cf304.webp"
+  "icon": "moarchy-vitals-871cf304.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-vitals-0-379709a1.webp",
+    "moarchy-vitals-1-30c0d17d.webp",
+    "moarchy-vitals-2-bf2973fb.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-vitals-0-ea479fb4.webp",
+    "moarchy-vitals-1-0de3d009.webp",
+    "moarchy-vitals-2-7ebc7ba6.webp"
+   ],
+   "ethereal": [
+    "moarchy-vitals-0-8387bbd4.webp",
+    "moarchy-vitals-1-6071bdbf.webp",
+    "moarchy-vitals-2-f085b46b.webp"
+   ],
+   "everforest": [
+    "moarchy-vitals-0-fc852f1f.webp",
+    "moarchy-vitals-1-de276951.webp",
+    "moarchy-vitals-2-f8527fc7.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-vitals-0-36c1b239.webp",
+    "moarchy-vitals-1-7fc836fd.webp",
+    "moarchy-vitals-2-2e925d34.webp"
+   ],
+   "gruvbox": [
+    "moarchy-vitals-0-517aa196.webp",
+    "moarchy-vitals-1-b384f7a8.webp",
+    "moarchy-vitals-2-bfdaf43d.webp"
+   ],
+   "hackerman": [
+    "moarchy-vitals-0-63c93639.webp",
+    "moarchy-vitals-1-42363f72.webp",
+    "moarchy-vitals-2-10176de1.webp"
+   ],
+   "kanagawa": [
+    "moarchy-vitals-0-3ed7e9ab.webp",
+    "moarchy-vitals-1-0598ed80.webp",
+    "moarchy-vitals-2-d67ecaa9.webp"
+   ],
+   "last-horizon": [
+    "moarchy-vitals-0-12226fe8.webp",
+    "moarchy-vitals-1-ef8d51a3.webp",
+    "moarchy-vitals-2-99d0a07a.webp"
+   ],
+   "lumon": [
+    "moarchy-vitals-0-3aaa1acc.webp",
+    "moarchy-vitals-1-125d42ad.webp",
+    "moarchy-vitals-2-edc9d534.webp"
+   ],
+   "lupine": [
+    "moarchy-vitals-0-43b4da7f.webp",
+    "moarchy-vitals-1-266320f3.webp",
+    "moarchy-vitals-2-3398a688.webp"
+   ],
+   "matte-black": [
+    "moarchy-vitals-0-b1cd1084.webp",
+    "moarchy-vitals-1-c3f2c828.webp",
+    "moarchy-vitals-2-ae7a969f.webp"
+   ],
+   "miasma": [
+    "moarchy-vitals-0-3a640a01.webp",
+    "moarchy-vitals-1-7f3d8245.webp",
+    "moarchy-vitals-2-8fdef974.webp"
+   ],
+   "nord": [
+    "moarchy-vitals-0-2af82619.webp",
+    "moarchy-vitals-1-5c13ccc6.webp",
+    "moarchy-vitals-2-cde03fe6.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-vitals-0-c50b6ffc.webp",
+    "moarchy-vitals-1-8ccaae99.webp",
+    "moarchy-vitals-2-0c169a21.webp"
+   ],
+   "retro-82": [
+    "moarchy-vitals-0-de863ae4.webp",
+    "moarchy-vitals-1-4cbb859f.webp",
+    "moarchy-vitals-2-f4934b6a.webp"
+   ],
+   "ristretto": [
+    "moarchy-vitals-0-5b887306.webp",
+    "moarchy-vitals-1-d3deb044.webp",
+    "moarchy-vitals-2-578b5af3.webp"
+   ],
+   "rose-pine": [
+    "moarchy-vitals-0-9e7beb17.webp",
+    "moarchy-vitals-1-83e94c11.webp",
+    "moarchy-vitals-2-0215d98e.webp"
+   ],
+   "solitude": [
+    "moarchy-vitals-0-ff302027.webp",
+    "moarchy-vitals-1-bfffee00.webp",
+    "moarchy-vitals-2-d9c043d3.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-vitals-0-43007974.webp",
+    "moarchy-vitals-1-a713c77b.webp",
+    "moarchy-vitals-2-67726e43.webp"
+   ],
+   "vantablack": [
+    "moarchy-vitals-0-45ff36ba.webp",
+    "moarchy-vitals-1-ac69096d.webp",
+    "moarchy-vitals-2-fcc1cc6f.webp"
+   ],
+   "white": [
+    "moarchy-vitals-0-3d70a67f.webp",
+    "moarchy-vitals-1-9ce589ef.webp",
+    "moarchy-vitals-2-52f2af3f.webp"
+   ]
+  }
  },
  {
   "pkg": "transit",
@@ -89,11 +649,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "transit-0-59712c62.webp",
-   "transit-1-7a31dff7.webp",
-   "transit-2-d666cb8b.webp"
+   "transit-0-46e8eb3a.webp",
+   "transit-1-f924d057.webp",
+   "transit-2-899c1d0d.webp"
   ],
-  "icon": "transit-6e9b010c.webp"
+  "icon": "transit-6e9b010c.webp",
+  "themed": {
+   "catppuccin": [
+    "transit-0-9b37b2bd.webp",
+    "transit-1-e2e83681.webp",
+    "transit-2-904fa9c3.webp"
+   ],
+   "catppuccin-latte": [
+    "transit-0-c8044bda.webp",
+    "transit-1-bbf84034.webp",
+    "transit-2-2160c31f.webp"
+   ],
+   "ethereal": [
+    "transit-0-a05979b1.webp",
+    "transit-1-b67d6a18.webp",
+    "transit-2-072f735a.webp"
+   ],
+   "everforest": [
+    "transit-0-2345b92b.webp",
+    "transit-1-426824b6.webp",
+    "transit-2-20265438.webp"
+   ],
+   "flexoki-light": [
+    "transit-0-d17096cf.webp",
+    "transit-1-91bf27fd.webp",
+    "transit-2-60c3a873.webp"
+   ],
+   "gruvbox": [
+    "transit-0-b0590b89.webp",
+    "transit-1-8eca480b.webp",
+    "transit-2-f80c9dbe.webp"
+   ],
+   "hackerman": [
+    "transit-0-0197ed97.webp",
+    "transit-1-f13a201f.webp",
+    "transit-2-bb309332.webp"
+   ],
+   "kanagawa": [
+    "transit-0-f63be3f3.webp",
+    "transit-1-0a927f1f.webp",
+    "transit-2-abcdf91b.webp"
+   ],
+   "last-horizon": [
+    "transit-0-3a86f752.webp",
+    "transit-1-94e758ce.webp",
+    "transit-2-c4bb4667.webp"
+   ],
+   "lumon": [
+    "transit-0-133a6937.webp",
+    "transit-1-475088a0.webp",
+    "transit-2-a5bb7707.webp"
+   ],
+   "lupine": [
+    "transit-0-c4394004.webp",
+    "transit-1-147d72be.webp",
+    "transit-2-1df47ab7.webp"
+   ],
+   "matte-black": [
+    "transit-0-b0a1bbd5.webp",
+    "transit-1-fc68e791.webp",
+    "transit-2-c95a9939.webp"
+   ],
+   "miasma": [
+    "transit-0-032a8b7d.webp",
+    "transit-1-fcf6f3e0.webp",
+    "transit-2-45cd6f45.webp"
+   ],
+   "nord": [
+    "transit-0-e46bd3db.webp",
+    "transit-1-f672fc18.webp",
+    "transit-2-31a5c0af.webp"
+   ],
+   "osaka-jade": [
+    "transit-0-5723773e.webp",
+    "transit-1-318be923.webp",
+    "transit-2-cd65b92e.webp"
+   ],
+   "retro-82": [
+    "transit-0-0c00cdae.webp",
+    "transit-1-b2a37a45.webp",
+    "transit-2-cf579ae8.webp"
+   ],
+   "ristretto": [
+    "transit-0-223b84f3.webp",
+    "transit-1-e1a2c171.webp",
+    "transit-2-f0cdc1f7.webp"
+   ],
+   "rose-pine": [
+    "transit-0-4e87254a.webp",
+    "transit-1-d1c96b08.webp",
+    "transit-2-d0787b8e.webp"
+   ],
+   "solitude": [
+    "transit-0-699b0092.webp",
+    "transit-1-8495c8d2.webp",
+    "transit-2-8a4d8234.webp"
+   ],
+   "tokyo-night": [
+    "transit-0-46e8eb3a.webp",
+    "transit-1-f924d057.webp",
+    "transit-2-899c1d0d.webp"
+   ],
+   "vantablack": [
+    "transit-0-8e70e06c.webp",
+    "transit-1-79ff68fc.webp",
+    "transit-2-420e6fa9.webp"
+   ],
+   "white": [
+    "transit-0-1ff9b426.webp",
+    "transit-1-76a13abb.webp",
+    "transit-2-46a24fbc.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-tictactoe",
@@ -105,11 +777,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-tictactoe-0-f15d2beb.webp",
-   "moarchy-tictactoe-1-481efae2.webp",
-   "moarchy-tictactoe-2-4eddd30a.webp"
+   "moarchy-tictactoe-0-379fca12.webp",
+   "moarchy-tictactoe-1-2ca391fd.webp",
+   "moarchy-tictactoe-2-ccefa1ed.webp"
   ],
-  "icon": "moarchy-tictactoe-2a42e297.webp"
+  "icon": "moarchy-tictactoe-2a42e297.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-tictactoe-0-c151c40c.webp",
+    "moarchy-tictactoe-1-48778604.webp",
+    "moarchy-tictactoe-2-e4a8c384.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-tictactoe-0-65646bf9.webp",
+    "moarchy-tictactoe-1-17fbad16.webp",
+    "moarchy-tictactoe-2-f0196010.webp"
+   ],
+   "ethereal": [
+    "moarchy-tictactoe-0-629b057c.webp",
+    "moarchy-tictactoe-1-8c660674.webp",
+    "moarchy-tictactoe-2-687de1c2.webp"
+   ],
+   "everforest": [
+    "moarchy-tictactoe-0-3b31462d.webp",
+    "moarchy-tictactoe-1-d440763d.webp",
+    "moarchy-tictactoe-2-1870ea48.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-tictactoe-0-99296cd1.webp",
+    "moarchy-tictactoe-1-b4a6b023.webp",
+    "moarchy-tictactoe-2-93db5070.webp"
+   ],
+   "gruvbox": [
+    "moarchy-tictactoe-0-e4845596.webp",
+    "moarchy-tictactoe-1-7c267ff5.webp",
+    "moarchy-tictactoe-2-9541b0d8.webp"
+   ],
+   "hackerman": [
+    "moarchy-tictactoe-0-5463d15a.webp",
+    "moarchy-tictactoe-1-6d66def7.webp",
+    "moarchy-tictactoe-2-b2120e63.webp"
+   ],
+   "kanagawa": [
+    "moarchy-tictactoe-0-f7d5fe5c.webp",
+    "moarchy-tictactoe-1-d3649114.webp",
+    "moarchy-tictactoe-2-54b37220.webp"
+   ],
+   "last-horizon": [
+    "moarchy-tictactoe-0-56ac3532.webp",
+    "moarchy-tictactoe-1-cd77a076.webp",
+    "moarchy-tictactoe-2-83931664.webp"
+   ],
+   "lumon": [
+    "moarchy-tictactoe-0-406c0125.webp",
+    "moarchy-tictactoe-1-a18a6bbc.webp",
+    "moarchy-tictactoe-2-f3ccb7a8.webp"
+   ],
+   "lupine": [
+    "moarchy-tictactoe-0-6783d520.webp",
+    "moarchy-tictactoe-1-5d8022d2.webp",
+    "moarchy-tictactoe-2-c86d4f8c.webp"
+   ],
+   "matte-black": [
+    "moarchy-tictactoe-0-de1777a3.webp",
+    "moarchy-tictactoe-1-dcccc701.webp",
+    "moarchy-tictactoe-2-f46f3d9b.webp"
+   ],
+   "miasma": [
+    "moarchy-tictactoe-0-fd1282d1.webp",
+    "moarchy-tictactoe-1-e5b95deb.webp",
+    "moarchy-tictactoe-2-9963af86.webp"
+   ],
+   "nord": [
+    "moarchy-tictactoe-0-bae60855.webp",
+    "moarchy-tictactoe-1-9ae91579.webp",
+    "moarchy-tictactoe-2-d2cbb23c.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-tictactoe-0-827a9d18.webp",
+    "moarchy-tictactoe-1-59f53e91.webp",
+    "moarchy-tictactoe-2-f13b475b.webp"
+   ],
+   "retro-82": [
+    "moarchy-tictactoe-0-23c5f673.webp",
+    "moarchy-tictactoe-1-01b33731.webp",
+    "moarchy-tictactoe-2-30dd6a4c.webp"
+   ],
+   "ristretto": [
+    "moarchy-tictactoe-0-1054ae2b.webp",
+    "moarchy-tictactoe-1-e5314a29.webp",
+    "moarchy-tictactoe-2-8c8950ac.webp"
+   ],
+   "rose-pine": [
+    "moarchy-tictactoe-0-448b38c5.webp",
+    "moarchy-tictactoe-1-fbc389b5.webp",
+    "moarchy-tictactoe-2-3a2515b0.webp"
+   ],
+   "solitude": [
+    "moarchy-tictactoe-0-365307d5.webp",
+    "moarchy-tictactoe-1-584c91a4.webp",
+    "moarchy-tictactoe-2-38b3991b.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-tictactoe-0-379fca12.webp",
+    "moarchy-tictactoe-1-2ca391fd.webp",
+    "moarchy-tictactoe-2-ccefa1ed.webp"
+   ],
+   "vantablack": [
+    "moarchy-tictactoe-0-aafa19d7.webp",
+    "moarchy-tictactoe-1-deeb1619.webp",
+    "moarchy-tictactoe-2-67414392.webp"
+   ],
+   "white": [
+    "moarchy-tictactoe-0-64053c16.webp",
+    "moarchy-tictactoe-1-dd358521.webp",
+    "moarchy-tictactoe-2-5e03dcce.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-minesweeper",
@@ -121,11 +905,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-minesweeper-0-cbcefffa.webp",
-   "moarchy-minesweeper-1-122ae2d2.webp",
-   "moarchy-minesweeper-2-81ab2b4c.webp"
+   "moarchy-minesweeper-0-97196e4b.webp",
+   "moarchy-minesweeper-1-7d76ff02.webp",
+   "moarchy-minesweeper-2-70160cf3.webp"
   ],
-  "icon": "moarchy-minesweeper-3b7e4908.webp"
+  "icon": "moarchy-minesweeper-3b7e4908.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-minesweeper-0-263f6f86.webp",
+    "moarchy-minesweeper-1-25d1d15e.webp",
+    "moarchy-minesweeper-2-c60d23d0.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-minesweeper-0-2e32024c.webp",
+    "moarchy-minesweeper-1-5c3f6a0d.webp",
+    "moarchy-minesweeper-2-c2ae8c1c.webp"
+   ],
+   "ethereal": [
+    "moarchy-minesweeper-0-edf48b18.webp",
+    "moarchy-minesweeper-1-82260d8c.webp",
+    "moarchy-minesweeper-2-ad2d558b.webp"
+   ],
+   "everforest": [
+    "moarchy-minesweeper-0-6dd736ad.webp",
+    "moarchy-minesweeper-1-e1922cce.webp",
+    "moarchy-minesweeper-2-3e34591a.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-minesweeper-0-9576d124.webp",
+    "moarchy-minesweeper-1-ee4bde94.webp",
+    "moarchy-minesweeper-2-f7ac744d.webp"
+   ],
+   "gruvbox": [
+    "moarchy-minesweeper-0-d38448e9.webp",
+    "moarchy-minesweeper-1-9af64783.webp",
+    "moarchy-minesweeper-2-e393bf85.webp"
+   ],
+   "hackerman": [
+    "moarchy-minesweeper-0-9627cdf7.webp",
+    "moarchy-minesweeper-1-e44df5b5.webp",
+    "moarchy-minesweeper-2-382a7e58.webp"
+   ],
+   "kanagawa": [
+    "moarchy-minesweeper-0-4ceb101c.webp",
+    "moarchy-minesweeper-1-ab9b5586.webp",
+    "moarchy-minesweeper-2-df003858.webp"
+   ],
+   "last-horizon": [
+    "moarchy-minesweeper-0-9176516c.webp",
+    "moarchy-minesweeper-1-39e03e35.webp",
+    "moarchy-minesweeper-2-5438c1f3.webp"
+   ],
+   "lumon": [
+    "moarchy-minesweeper-0-350faa36.webp",
+    "moarchy-minesweeper-1-b5f994f4.webp",
+    "moarchy-minesweeper-2-07231a50.webp"
+   ],
+   "lupine": [
+    "moarchy-minesweeper-0-487c0965.webp",
+    "moarchy-minesweeper-1-35b50682.webp",
+    "moarchy-minesweeper-2-9e46671b.webp"
+   ],
+   "matte-black": [
+    "moarchy-minesweeper-0-6baaa86f.webp",
+    "moarchy-minesweeper-1-61aba740.webp",
+    "moarchy-minesweeper-2-5dd0396d.webp"
+   ],
+   "miasma": [
+    "moarchy-minesweeper-0-7cc1453d.webp",
+    "moarchy-minesweeper-1-dab28c50.webp",
+    "moarchy-minesweeper-2-79ff3cde.webp"
+   ],
+   "nord": [
+    "moarchy-minesweeper-0-4fd4d194.webp",
+    "moarchy-minesweeper-1-51cc6b45.webp",
+    "moarchy-minesweeper-2-cc7e032e.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-minesweeper-0-6fff6271.webp",
+    "moarchy-minesweeper-1-18e35c9e.webp",
+    "moarchy-minesweeper-2-c9da4bb3.webp"
+   ],
+   "retro-82": [
+    "moarchy-minesweeper-0-0fcfdf91.webp",
+    "moarchy-minesweeper-1-f0f6c780.webp",
+    "moarchy-minesweeper-2-06b41bd2.webp"
+   ],
+   "ristretto": [
+    "moarchy-minesweeper-0-8f84d508.webp",
+    "moarchy-minesweeper-1-828105d9.webp",
+    "moarchy-minesweeper-2-6ef3286c.webp"
+   ],
+   "rose-pine": [
+    "moarchy-minesweeper-0-bd0b36b6.webp",
+    "moarchy-minesweeper-1-c4a158c6.webp",
+    "moarchy-minesweeper-2-5d6163b2.webp"
+   ],
+   "solitude": [
+    "moarchy-minesweeper-0-ce9e4cac.webp",
+    "moarchy-minesweeper-1-d3499f08.webp",
+    "moarchy-minesweeper-2-f82cd9eb.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-minesweeper-0-97196e4b.webp",
+    "moarchy-minesweeper-1-7d76ff02.webp",
+    "moarchy-minesweeper-2-70160cf3.webp"
+   ],
+   "vantablack": [
+    "moarchy-minesweeper-0-9a2e67a8.webp",
+    "moarchy-minesweeper-1-0b6b467e.webp",
+    "moarchy-minesweeper-2-d79a058b.webp"
+   ],
+   "white": [
+    "moarchy-minesweeper-0-3d52a5c4.webp",
+    "moarchy-minesweeper-1-358b7d0b.webp",
+    "moarchy-minesweeper-2-96b3ed0c.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-reversi",
@@ -137,11 +1033,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-reversi-0-60d660b0.webp",
-   "moarchy-reversi-1-15416393.webp",
-   "moarchy-reversi-2-81f789a1.webp"
+   "moarchy-reversi-0-45f1c7d7.webp",
+   "moarchy-reversi-1-99a7e77b.webp",
+   "moarchy-reversi-2-51678674.webp"
   ],
-  "icon": "moarchy-reversi-d6e1d12c.webp"
+  "icon": "moarchy-reversi-d6e1d12c.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-reversi-0-2fe2db28.webp",
+    "moarchy-reversi-1-fabd8b5a.webp",
+    "moarchy-reversi-2-a5a0a5ea.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-reversi-0-6ae18fd8.webp",
+    "moarchy-reversi-1-73f29b94.webp",
+    "moarchy-reversi-2-4f521ae6.webp"
+   ],
+   "ethereal": [
+    "moarchy-reversi-0-f8efac20.webp",
+    "moarchy-reversi-1-a967b6b7.webp",
+    "moarchy-reversi-2-be866f0f.webp"
+   ],
+   "everforest": [
+    "moarchy-reversi-0-0bd344b6.webp",
+    "moarchy-reversi-1-cdcc5309.webp",
+    "moarchy-reversi-2-5993d4e9.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-reversi-0-0455558b.webp",
+    "moarchy-reversi-1-1d089891.webp",
+    "moarchy-reversi-2-53d0a2cf.webp"
+   ],
+   "gruvbox": [
+    "moarchy-reversi-0-a440005f.webp",
+    "moarchy-reversi-1-6a72d644.webp",
+    "moarchy-reversi-2-924adbd3.webp"
+   ],
+   "hackerman": [
+    "moarchy-reversi-0-a3365e8f.webp",
+    "moarchy-reversi-1-5b519596.webp",
+    "moarchy-reversi-2-a8cac733.webp"
+   ],
+   "kanagawa": [
+    "moarchy-reversi-0-0ef057af.webp",
+    "moarchy-reversi-1-5d8b5fa6.webp",
+    "moarchy-reversi-2-52ca532b.webp"
+   ],
+   "last-horizon": [
+    "moarchy-reversi-0-1c356cb5.webp",
+    "moarchy-reversi-1-d977ffce.webp",
+    "moarchy-reversi-2-0de36b2e.webp"
+   ],
+   "lumon": [
+    "moarchy-reversi-0-dc734913.webp",
+    "moarchy-reversi-1-a7bc198b.webp",
+    "moarchy-reversi-2-7f38d4de.webp"
+   ],
+   "lupine": [
+    "moarchy-reversi-0-4119233c.webp",
+    "moarchy-reversi-1-d19a53c9.webp",
+    "moarchy-reversi-2-b9a659b5.webp"
+   ],
+   "matte-black": [
+    "moarchy-reversi-0-55c11cb3.webp",
+    "moarchy-reversi-1-c2cac674.webp",
+    "moarchy-reversi-2-db50aab8.webp"
+   ],
+   "miasma": [
+    "moarchy-reversi-0-5c9c6bc5.webp",
+    "moarchy-reversi-1-1c6bbc0a.webp",
+    "moarchy-reversi-2-0ad210bf.webp"
+   ],
+   "nord": [
+    "moarchy-reversi-0-545fc62b.webp",
+    "moarchy-reversi-1-907ac6a0.webp",
+    "moarchy-reversi-2-134f9e56.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-reversi-0-23bd7762.webp",
+    "moarchy-reversi-1-c92c71d2.webp",
+    "moarchy-reversi-2-1a54d9c8.webp"
+   ],
+   "retro-82": [
+    "moarchy-reversi-0-143b6ea7.webp",
+    "moarchy-reversi-1-88b6eaf2.webp",
+    "moarchy-reversi-2-4a130b12.webp"
+   ],
+   "ristretto": [
+    "moarchy-reversi-0-cd856889.webp",
+    "moarchy-reversi-1-ea3fc1be.webp",
+    "moarchy-reversi-2-2c80786f.webp"
+   ],
+   "rose-pine": [
+    "moarchy-reversi-0-8e049436.webp",
+    "moarchy-reversi-1-3bb69b94.webp",
+    "moarchy-reversi-2-7298d2cf.webp"
+   ],
+   "solitude": [
+    "moarchy-reversi-0-45a0c7fe.webp",
+    "moarchy-reversi-1-c1e5a755.webp",
+    "moarchy-reversi-2-dbcc1261.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-reversi-0-45f1c7d7.webp",
+    "moarchy-reversi-1-99a7e77b.webp",
+    "moarchy-reversi-2-51678674.webp"
+   ],
+   "vantablack": [
+    "moarchy-reversi-0-885567c3.webp",
+    "moarchy-reversi-1-e7154b8f.webp",
+    "moarchy-reversi-2-a0358455.webp"
+   ],
+   "white": [
+    "moarchy-reversi-0-1a85da0b.webp",
+    "moarchy-reversi-1-a3d0f42d.webp",
+    "moarchy-reversi-2-7200a575.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-chess",
@@ -153,11 +1161,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-chess-0-0a758ea1.webp",
-   "moarchy-chess-1-48a4855c.webp",
-   "moarchy-chess-2-13cd73f2.webp"
+   "moarchy-chess-0-67d51444.webp",
+   "moarchy-chess-1-c18b4c81.webp",
+   "moarchy-chess-2-4020c5fe.webp"
   ],
-  "icon": "moarchy-chess-6e859434.webp"
+  "icon": "moarchy-chess-6e859434.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-chess-0-5685483b.webp",
+    "moarchy-chess-1-05b80f38.webp",
+    "moarchy-chess-2-1ef5f23a.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-chess-0-4e4ee814.webp",
+    "moarchy-chess-1-e38b8269.webp",
+    "moarchy-chess-2-f8f9810a.webp"
+   ],
+   "ethereal": [
+    "moarchy-chess-0-92526823.webp",
+    "moarchy-chess-1-d4529af7.webp",
+    "moarchy-chess-2-d94c5cab.webp"
+   ],
+   "everforest": [
+    "moarchy-chess-0-362a7c8d.webp",
+    "moarchy-chess-1-1074c92d.webp",
+    "moarchy-chess-2-a4f08e55.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-chess-0-3f8f16a0.webp",
+    "moarchy-chess-1-e465da37.webp",
+    "moarchy-chess-2-5c2380df.webp"
+   ],
+   "gruvbox": [
+    "moarchy-chess-0-8af7850a.webp",
+    "moarchy-chess-1-555f7745.webp",
+    "moarchy-chess-2-7bfe7f5f.webp"
+   ],
+   "hackerman": [
+    "moarchy-chess-0-4f504305.webp",
+    "moarchy-chess-1-cc189834.webp",
+    "moarchy-chess-2-4aa5e0bd.webp"
+   ],
+   "kanagawa": [
+    "moarchy-chess-0-5fc8c616.webp",
+    "moarchy-chess-1-7d163059.webp",
+    "moarchy-chess-2-6d025329.webp"
+   ],
+   "last-horizon": [
+    "moarchy-chess-0-45955fd9.webp",
+    "moarchy-chess-1-11ab4fd8.webp",
+    "moarchy-chess-2-4f6cb343.webp"
+   ],
+   "lumon": [
+    "moarchy-chess-0-23993a66.webp",
+    "moarchy-chess-1-c77227a0.webp",
+    "moarchy-chess-2-67e398b5.webp"
+   ],
+   "lupine": [
+    "moarchy-chess-0-1267721e.webp",
+    "moarchy-chess-1-6d14426b.webp",
+    "moarchy-chess-2-e183ebd6.webp"
+   ],
+   "matte-black": [
+    "moarchy-chess-0-d2cc9780.webp",
+    "moarchy-chess-1-6c478fb6.webp",
+    "moarchy-chess-2-f0408db8.webp"
+   ],
+   "miasma": [
+    "moarchy-chess-0-13fae5dc.webp",
+    "moarchy-chess-1-a72907fc.webp",
+    "moarchy-chess-2-34b6f218.webp"
+   ],
+   "nord": [
+    "moarchy-chess-0-45ffc5e9.webp",
+    "moarchy-chess-1-a39efd9e.webp",
+    "moarchy-chess-2-ed34ae27.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-chess-0-0ba37d84.webp",
+    "moarchy-chess-1-15b36732.webp",
+    "moarchy-chess-2-a1884bda.webp"
+   ],
+   "retro-82": [
+    "moarchy-chess-0-1dad9de6.webp",
+    "moarchy-chess-1-89f690b2.webp",
+    "moarchy-chess-2-0a9cadb4.webp"
+   ],
+   "ristretto": [
+    "moarchy-chess-0-6fafb8cf.webp",
+    "moarchy-chess-1-f19a5910.webp",
+    "moarchy-chess-2-1c7e26db.webp"
+   ],
+   "rose-pine": [
+    "moarchy-chess-0-86fa2cdf.webp",
+    "moarchy-chess-1-697381e3.webp",
+    "moarchy-chess-2-35132c80.webp"
+   ],
+   "solitude": [
+    "moarchy-chess-0-0a65e14c.webp",
+    "moarchy-chess-1-741dbd09.webp",
+    "moarchy-chess-2-6888cb72.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-chess-0-67d51444.webp",
+    "moarchy-chess-1-c18b4c81.webp",
+    "moarchy-chess-2-4020c5fe.webp"
+   ],
+   "vantablack": [
+    "moarchy-chess-0-34b9ae77.webp",
+    "moarchy-chess-1-3d1c2945.webp",
+    "moarchy-chess-2-e3c66d1a.webp"
+   ],
+   "white": [
+    "moarchy-chess-0-e67df7aa.webp",
+    "moarchy-chess-1-188b1271.webp",
+    "moarchy-chess-2-77135741.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-mill",
@@ -169,11 +1289,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-mill-0-7df174a4.webp",
-   "moarchy-mill-1-6ed73b81.webp",
-   "moarchy-mill-2-c700c3a3.webp"
+   "moarchy-mill-0-d5fc7ac1.webp",
+   "moarchy-mill-1-adfc55d1.webp",
+   "moarchy-mill-2-04deeaf2.webp"
   ],
-  "icon": "moarchy-mill-903ce071.webp"
+  "icon": "moarchy-mill-903ce071.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-mill-0-ae96fd75.webp",
+    "moarchy-mill-1-244e3b15.webp",
+    "moarchy-mill-2-b3d5ad01.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-mill-0-76d64a48.webp",
+    "moarchy-mill-1-c8bfff04.webp",
+    "moarchy-mill-2-8c8b113b.webp"
+   ],
+   "ethereal": [
+    "moarchy-mill-0-d0b5352a.webp",
+    "moarchy-mill-1-c148d554.webp",
+    "moarchy-mill-2-b1fee29c.webp"
+   ],
+   "everforest": [
+    "moarchy-mill-0-24c07948.webp",
+    "moarchy-mill-1-dc1d665f.webp",
+    "moarchy-mill-2-d347540d.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-mill-0-7e9ec071.webp",
+    "moarchy-mill-1-c9a6265a.webp",
+    "moarchy-mill-2-6f5a7927.webp"
+   ],
+   "gruvbox": [
+    "moarchy-mill-0-6f6db11c.webp",
+    "moarchy-mill-1-bbca36a6.webp",
+    "moarchy-mill-2-142ec5f0.webp"
+   ],
+   "hackerman": [
+    "moarchy-mill-0-91b29f2e.webp",
+    "moarchy-mill-1-6285ccbc.webp",
+    "moarchy-mill-2-529d9349.webp"
+   ],
+   "kanagawa": [
+    "moarchy-mill-0-2fa64854.webp",
+    "moarchy-mill-1-f37ffd25.webp",
+    "moarchy-mill-2-b1669a11.webp"
+   ],
+   "last-horizon": [
+    "moarchy-mill-0-27b19779.webp",
+    "moarchy-mill-1-974fdf4d.webp",
+    "moarchy-mill-2-d9ae8832.webp"
+   ],
+   "lumon": [
+    "moarchy-mill-0-25c98991.webp",
+    "moarchy-mill-1-b0ea3b4a.webp",
+    "moarchy-mill-2-04573c40.webp"
+   ],
+   "lupine": [
+    "moarchy-mill-0-2b9f1f4d.webp",
+    "moarchy-mill-1-8609eea4.webp",
+    "moarchy-mill-2-3e0b4f5f.webp"
+   ],
+   "matte-black": [
+    "moarchy-mill-0-e69a3a91.webp",
+    "moarchy-mill-1-b26c00b2.webp",
+    "moarchy-mill-2-3aebe03f.webp"
+   ],
+   "miasma": [
+    "moarchy-mill-0-ed7f91b6.webp",
+    "moarchy-mill-1-57f22911.webp",
+    "moarchy-mill-2-e5e15939.webp"
+   ],
+   "nord": [
+    "moarchy-mill-0-bb3ce7c2.webp",
+    "moarchy-mill-1-95155a5f.webp",
+    "moarchy-mill-2-94f35e57.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-mill-0-815853aa.webp",
+    "moarchy-mill-1-236469fc.webp",
+    "moarchy-mill-2-4771dec9.webp"
+   ],
+   "retro-82": [
+    "moarchy-mill-0-9da6d822.webp",
+    "moarchy-mill-1-c8fbeb39.webp",
+    "moarchy-mill-2-1f5868bf.webp"
+   ],
+   "ristretto": [
+    "moarchy-mill-0-0e0e51b7.webp",
+    "moarchy-mill-1-fec582f4.webp",
+    "moarchy-mill-2-444efe10.webp"
+   ],
+   "rose-pine": [
+    "moarchy-mill-0-71f39f1e.webp",
+    "moarchy-mill-1-d3c6c97a.webp",
+    "moarchy-mill-2-549bc82a.webp"
+   ],
+   "solitude": [
+    "moarchy-mill-0-8dab0deb.webp",
+    "moarchy-mill-1-03fbee56.webp",
+    "moarchy-mill-2-19c1bfca.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-mill-0-d5fc7ac1.webp",
+    "moarchy-mill-1-adfc55d1.webp",
+    "moarchy-mill-2-04deeaf2.webp"
+   ],
+   "vantablack": [
+    "moarchy-mill-0-4f0c17e0.webp",
+    "moarchy-mill-1-6c2e57b3.webp",
+    "moarchy-mill-2-307e74cc.webp"
+   ],
+   "white": [
+    "moarchy-mill-0-3288cf11.webp",
+    "moarchy-mill-1-465b700a.webp",
+    "moarchy-mill-2-64bff65d.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-solitaire",
@@ -185,11 +1417,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-solitaire-0-f536b59f.webp",
-   "moarchy-solitaire-1-71aa9030.webp",
-   "moarchy-solitaire-2-19234788.webp"
+   "moarchy-solitaire-0-e58b4db5.webp",
+   "moarchy-solitaire-1-f00a89ac.webp",
+   "moarchy-solitaire-2-c1e69094.webp"
   ],
-  "icon": "moarchy-solitaire-415834b2.webp"
+  "icon": "moarchy-solitaire-415834b2.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-solitaire-0-7f65159b.webp",
+    "moarchy-solitaire-1-3b079501.webp",
+    "moarchy-solitaire-2-b66ee77b.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-solitaire-0-96574b96.webp",
+    "moarchy-solitaire-1-a6b2782c.webp",
+    "moarchy-solitaire-2-f2faef2c.webp"
+   ],
+   "ethereal": [
+    "moarchy-solitaire-0-e4c8756c.webp",
+    "moarchy-solitaire-1-0bd2aafb.webp",
+    "moarchy-solitaire-2-ce8aabde.webp"
+   ],
+   "everforest": [
+    "moarchy-solitaire-0-d82ffe87.webp",
+    "moarchy-solitaire-1-921cf6ae.webp",
+    "moarchy-solitaire-2-88cbc05e.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-solitaire-0-39d1086a.webp",
+    "moarchy-solitaire-1-18e4a541.webp",
+    "moarchy-solitaire-2-4f6e213f.webp"
+   ],
+   "gruvbox": [
+    "moarchy-solitaire-0-07ca191d.webp",
+    "moarchy-solitaire-1-2def0c4a.webp",
+    "moarchy-solitaire-2-56344b7e.webp"
+   ],
+   "hackerman": [
+    "moarchy-solitaire-0-265d8571.webp",
+    "moarchy-solitaire-1-9ea10123.webp",
+    "moarchy-solitaire-2-f7c2e64b.webp"
+   ],
+   "kanagawa": [
+    "moarchy-solitaire-0-82c99f88.webp",
+    "moarchy-solitaire-1-7710507b.webp",
+    "moarchy-solitaire-2-500f56cf.webp"
+   ],
+   "last-horizon": [
+    "moarchy-solitaire-0-0b0b9933.webp",
+    "moarchy-solitaire-1-917d7ce6.webp",
+    "moarchy-solitaire-2-155dc708.webp"
+   ],
+   "lumon": [
+    "moarchy-solitaire-0-ff76866d.webp",
+    "moarchy-solitaire-1-6001aa60.webp",
+    "moarchy-solitaire-2-ef4e2925.webp"
+   ],
+   "lupine": [
+    "moarchy-solitaire-0-3284c277.webp",
+    "moarchy-solitaire-1-37f8954b.webp",
+    "moarchy-solitaire-2-402adbb1.webp"
+   ],
+   "matte-black": [
+    "moarchy-solitaire-0-f25de11f.webp",
+    "moarchy-solitaire-1-448143d1.webp",
+    "moarchy-solitaire-2-bf13be08.webp"
+   ],
+   "miasma": [
+    "moarchy-solitaire-0-0f3b106d.webp",
+    "moarchy-solitaire-1-f4a71e69.webp",
+    "moarchy-solitaire-2-08e00a55.webp"
+   ],
+   "nord": [
+    "moarchy-solitaire-0-8f5de946.webp",
+    "moarchy-solitaire-1-f38b25e9.webp",
+    "moarchy-solitaire-2-65453de7.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-solitaire-0-57a22e4a.webp",
+    "moarchy-solitaire-1-84183b73.webp",
+    "moarchy-solitaire-2-582fc465.webp"
+   ],
+   "retro-82": [
+    "moarchy-solitaire-0-c1561a19.webp",
+    "moarchy-solitaire-1-2418fbbb.webp",
+    "moarchy-solitaire-2-82a9184c.webp"
+   ],
+   "ristretto": [
+    "moarchy-solitaire-0-a420433e.webp",
+    "moarchy-solitaire-1-28ee551d.webp",
+    "moarchy-solitaire-2-64f1d71b.webp"
+   ],
+   "rose-pine": [
+    "moarchy-solitaire-0-80d8bc81.webp",
+    "moarchy-solitaire-1-19af84c7.webp",
+    "moarchy-solitaire-2-9af805d9.webp"
+   ],
+   "solitude": [
+    "moarchy-solitaire-0-1d3c55c3.webp",
+    "moarchy-solitaire-1-c995bb82.webp",
+    "moarchy-solitaire-2-4d2c18c7.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-solitaire-0-e58b4db5.webp",
+    "moarchy-solitaire-1-f00a89ac.webp",
+    "moarchy-solitaire-2-c1e69094.webp"
+   ],
+   "vantablack": [
+    "moarchy-solitaire-0-9ceb795e.webp",
+    "moarchy-solitaire-1-6831a07c.webp",
+    "moarchy-solitaire-2-12781873.webp"
+   ],
+   "white": [
+    "moarchy-solitaire-0-1172ef06.webp",
+    "moarchy-solitaire-1-f1aa8f06.webp",
+    "moarchy-solitaire-2-9039cefa.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-pegsolitaire",
@@ -201,11 +1545,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-pegsolitaire-0-e7d23b86.webp",
-   "moarchy-pegsolitaire-1-4100e308.webp",
-   "moarchy-pegsolitaire-2-79cbe879.webp"
+   "moarchy-pegsolitaire-0-9016dc2c.webp",
+   "moarchy-pegsolitaire-1-3d0346cf.webp",
+   "moarchy-pegsolitaire-2-75dabf1d.webp"
   ],
-  "icon": "moarchy-pegsolitaire-6b98c167.webp"
+  "icon": "moarchy-pegsolitaire-6b98c167.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-pegsolitaire-0-ea5296d8.webp",
+    "moarchy-pegsolitaire-1-18949e64.webp",
+    "moarchy-pegsolitaire-2-11331df4.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-pegsolitaire-0-4ad5435a.webp",
+    "moarchy-pegsolitaire-1-9e99f825.webp",
+    "moarchy-pegsolitaire-2-67475749.webp"
+   ],
+   "ethereal": [
+    "moarchy-pegsolitaire-0-a174d163.webp",
+    "moarchy-pegsolitaire-1-59cef0ff.webp",
+    "moarchy-pegsolitaire-2-fa24a121.webp"
+   ],
+   "everforest": [
+    "moarchy-pegsolitaire-0-0e81fb6a.webp",
+    "moarchy-pegsolitaire-1-c0f226a0.webp",
+    "moarchy-pegsolitaire-2-9a7e9790.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-pegsolitaire-0-f358b1af.webp",
+    "moarchy-pegsolitaire-1-1448440b.webp",
+    "moarchy-pegsolitaire-2-557778b6.webp"
+   ],
+   "gruvbox": [
+    "moarchy-pegsolitaire-0-9ab29206.webp",
+    "moarchy-pegsolitaire-1-868e9a7d.webp",
+    "moarchy-pegsolitaire-2-d2f42365.webp"
+   ],
+   "hackerman": [
+    "moarchy-pegsolitaire-0-829a71b8.webp",
+    "moarchy-pegsolitaire-1-2beee97a.webp",
+    "moarchy-pegsolitaire-2-ecc26cf0.webp"
+   ],
+   "kanagawa": [
+    "moarchy-pegsolitaire-0-781885e3.webp",
+    "moarchy-pegsolitaire-1-2de5ff23.webp",
+    "moarchy-pegsolitaire-2-9f6e6538.webp"
+   ],
+   "last-horizon": [
+    "moarchy-pegsolitaire-0-3d42b56b.webp",
+    "moarchy-pegsolitaire-1-9823ae09.webp",
+    "moarchy-pegsolitaire-2-b1cc3017.webp"
+   ],
+   "lumon": [
+    "moarchy-pegsolitaire-0-6f5907a9.webp",
+    "moarchy-pegsolitaire-1-c5cf9da8.webp",
+    "moarchy-pegsolitaire-2-c0dbed5e.webp"
+   ],
+   "lupine": [
+    "moarchy-pegsolitaire-0-c93e4eae.webp",
+    "moarchy-pegsolitaire-1-7c7c0b2b.webp",
+    "moarchy-pegsolitaire-2-07e0375c.webp"
+   ],
+   "matte-black": [
+    "moarchy-pegsolitaire-0-4cceb72a.webp",
+    "moarchy-pegsolitaire-1-e820eecf.webp",
+    "moarchy-pegsolitaire-2-f9bf5f66.webp"
+   ],
+   "miasma": [
+    "moarchy-pegsolitaire-0-46f7aa1e.webp",
+    "moarchy-pegsolitaire-1-936d7c58.webp",
+    "moarchy-pegsolitaire-2-04ccf951.webp"
+   ],
+   "nord": [
+    "moarchy-pegsolitaire-0-a3b23fd2.webp",
+    "moarchy-pegsolitaire-1-38787695.webp",
+    "moarchy-pegsolitaire-2-8a1de10c.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-pegsolitaire-0-cf7433c2.webp",
+    "moarchy-pegsolitaire-1-7a5d1e98.webp",
+    "moarchy-pegsolitaire-2-5fbf53e0.webp"
+   ],
+   "retro-82": [
+    "moarchy-pegsolitaire-0-045ba065.webp",
+    "moarchy-pegsolitaire-1-bdfb2a37.webp",
+    "moarchy-pegsolitaire-2-8fc04667.webp"
+   ],
+   "ristretto": [
+    "moarchy-pegsolitaire-0-d0a27cc9.webp",
+    "moarchy-pegsolitaire-1-ecb5f2ef.webp",
+    "moarchy-pegsolitaire-2-943e1880.webp"
+   ],
+   "rose-pine": [
+    "moarchy-pegsolitaire-0-d6349230.webp",
+    "moarchy-pegsolitaire-1-3e2b080d.webp",
+    "moarchy-pegsolitaire-2-ebbe1384.webp"
+   ],
+   "solitude": [
+    "moarchy-pegsolitaire-0-1aee2308.webp",
+    "moarchy-pegsolitaire-1-545ff940.webp",
+    "moarchy-pegsolitaire-2-f6e2887e.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-pegsolitaire-0-9016dc2c.webp",
+    "moarchy-pegsolitaire-1-3d0346cf.webp",
+    "moarchy-pegsolitaire-2-75dabf1d.webp"
+   ],
+   "vantablack": [
+    "moarchy-pegsolitaire-0-5a6e4143.webp",
+    "moarchy-pegsolitaire-1-04373022.webp",
+    "moarchy-pegsolitaire-2-1fd5edde.webp"
+   ],
+   "white": [
+    "moarchy-pegsolitaire-0-c7404607.webp",
+    "moarchy-pegsolitaire-1-28c8c8a7.webp",
+    "moarchy-pegsolitaire-2-9ce304c0.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-fiveletters",
@@ -217,11 +1673,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-fiveletters-0-c2f61613.webp",
-   "moarchy-fiveletters-1-b29d1660.webp",
-   "moarchy-fiveletters-2-635a00cc.webp"
+   "moarchy-fiveletters-0-5ad75d0f.webp",
+   "moarchy-fiveletters-1-e37a6881.webp",
+   "moarchy-fiveletters-2-cd1149fe.webp"
   ],
-  "icon": "moarchy-fiveletters-a378bc6b.webp"
+  "icon": "moarchy-fiveletters-a378bc6b.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-fiveletters-0-e2473d5e.webp",
+    "moarchy-fiveletters-1-0bc09e95.webp",
+    "moarchy-fiveletters-2-0cb2f771.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-fiveletters-0-05d64245.webp",
+    "moarchy-fiveletters-1-99dcc8b0.webp",
+    "moarchy-fiveletters-2-d1c36ac2.webp"
+   ],
+   "ethereal": [
+    "moarchy-fiveletters-0-4b017bab.webp",
+    "moarchy-fiveletters-1-3be7d692.webp",
+    "moarchy-fiveletters-2-8302e0a4.webp"
+   ],
+   "everforest": [
+    "moarchy-fiveletters-0-4270ea7a.webp",
+    "moarchy-fiveletters-1-d4c7127d.webp",
+    "moarchy-fiveletters-2-5f713381.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-fiveletters-0-712558d9.webp",
+    "moarchy-fiveletters-1-75be070b.webp",
+    "moarchy-fiveletters-2-dd1e6d25.webp"
+   ],
+   "gruvbox": [
+    "moarchy-fiveletters-0-c4e992e0.webp",
+    "moarchy-fiveletters-1-0a29f6c6.webp",
+    "moarchy-fiveletters-2-d00af1ea.webp"
+   ],
+   "hackerman": [
+    "moarchy-fiveletters-0-28d4efda.webp",
+    "moarchy-fiveletters-1-aadaf43f.webp",
+    "moarchy-fiveletters-2-0b647a90.webp"
+   ],
+   "kanagawa": [
+    "moarchy-fiveletters-0-36d68e96.webp",
+    "moarchy-fiveletters-1-62d03ec4.webp",
+    "moarchy-fiveletters-2-5569b14f.webp"
+   ],
+   "last-horizon": [
+    "moarchy-fiveletters-0-26223431.webp",
+    "moarchy-fiveletters-1-f54c2e98.webp",
+    "moarchy-fiveletters-2-29ad4317.webp"
+   ],
+   "lumon": [
+    "moarchy-fiveletters-0-b0fc3b4e.webp",
+    "moarchy-fiveletters-1-22e18cfe.webp",
+    "moarchy-fiveletters-2-c1de852e.webp"
+   ],
+   "lupine": [
+    "moarchy-fiveletters-0-37feba5b.webp",
+    "moarchy-fiveletters-1-02ceb2d7.webp",
+    "moarchy-fiveletters-2-caef2244.webp"
+   ],
+   "matte-black": [
+    "moarchy-fiveletters-0-8b045a30.webp",
+    "moarchy-fiveletters-1-12a4f59b.webp",
+    "moarchy-fiveletters-2-32899162.webp"
+   ],
+   "miasma": [
+    "moarchy-fiveletters-0-06e34aca.webp",
+    "moarchy-fiveletters-1-f8826899.webp",
+    "moarchy-fiveletters-2-e3351ee7.webp"
+   ],
+   "nord": [
+    "moarchy-fiveletters-0-28359b89.webp",
+    "moarchy-fiveletters-1-7824de3e.webp",
+    "moarchy-fiveletters-2-5a88698f.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-fiveletters-0-e8fc9dad.webp",
+    "moarchy-fiveletters-1-b3714bc7.webp",
+    "moarchy-fiveletters-2-fe0302c8.webp"
+   ],
+   "retro-82": [
+    "moarchy-fiveletters-0-97383ada.webp",
+    "moarchy-fiveletters-1-9ae51944.webp",
+    "moarchy-fiveletters-2-74b68cf9.webp"
+   ],
+   "ristretto": [
+    "moarchy-fiveletters-0-5713d3e1.webp",
+    "moarchy-fiveletters-1-0676cf5a.webp",
+    "moarchy-fiveletters-2-ac69e399.webp"
+   ],
+   "rose-pine": [
+    "moarchy-fiveletters-0-49b81fb7.webp",
+    "moarchy-fiveletters-1-e905ac4f.webp",
+    "moarchy-fiveletters-2-36e8a4ff.webp"
+   ],
+   "solitude": [
+    "moarchy-fiveletters-0-a8153ec9.webp",
+    "moarchy-fiveletters-1-8c0a2fab.webp",
+    "moarchy-fiveletters-2-6078a749.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-fiveletters-0-5ad75d0f.webp",
+    "moarchy-fiveletters-1-e37a6881.webp",
+    "moarchy-fiveletters-2-cd1149fe.webp"
+   ],
+   "vantablack": [
+    "moarchy-fiveletters-0-c79519c2.webp",
+    "moarchy-fiveletters-1-40e0d665.webp",
+    "moarchy-fiveletters-2-8776a9e0.webp"
+   ],
+   "white": [
+    "moarchy-fiveletters-0-10c2d74a.webp",
+    "moarchy-fiveletters-1-3bcf0a7e.webp",
+    "moarchy-fiveletters-2-1789a606.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-breakout",
@@ -233,11 +1801,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-breakout-0-438f2263.webp",
-   "moarchy-breakout-1-a05e9003.webp",
-   "moarchy-breakout-2-e088a485.webp"
+   "moarchy-breakout-0-82667813.webp",
+   "moarchy-breakout-1-d3ca9e72.webp",
+   "moarchy-breakout-2-57a2b5a5.webp"
   ],
-  "icon": "moarchy-breakout-1a413b80.webp"
+  "icon": "moarchy-breakout-1a413b80.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-breakout-0-45c7cfa8.webp",
+    "moarchy-breakout-1-16293ccf.webp",
+    "moarchy-breakout-2-04d9e8c7.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-breakout-0-68d1e2a1.webp",
+    "moarchy-breakout-1-9b94ccd5.webp",
+    "moarchy-breakout-2-8ab98f73.webp"
+   ],
+   "ethereal": [
+    "moarchy-breakout-0-f94c89e9.webp",
+    "moarchy-breakout-1-89400db1.webp",
+    "moarchy-breakout-2-109d3a6e.webp"
+   ],
+   "everforest": [
+    "moarchy-breakout-0-2304f218.webp",
+    "moarchy-breakout-1-58b10b82.webp",
+    "moarchy-breakout-2-b937f24e.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-breakout-0-777d62c0.webp",
+    "moarchy-breakout-1-a7514640.webp",
+    "moarchy-breakout-2-30de9398.webp"
+   ],
+   "gruvbox": [
+    "moarchy-breakout-0-1af12e11.webp",
+    "moarchy-breakout-1-95ce4a80.webp",
+    "moarchy-breakout-2-ebfe746c.webp"
+   ],
+   "hackerman": [
+    "moarchy-breakout-0-c35be5ad.webp",
+    "moarchy-breakout-1-25496ae6.webp",
+    "moarchy-breakout-2-68eafcf8.webp"
+   ],
+   "kanagawa": [
+    "moarchy-breakout-0-75783a4c.webp",
+    "moarchy-breakout-1-154acf83.webp",
+    "moarchy-breakout-2-a8696694.webp"
+   ],
+   "last-horizon": [
+    "moarchy-breakout-0-10fad9e2.webp",
+    "moarchy-breakout-1-087913ef.webp",
+    "moarchy-breakout-2-a645d0ec.webp"
+   ],
+   "lumon": [
+    "moarchy-breakout-0-009b9216.webp",
+    "moarchy-breakout-1-1e0fcca2.webp",
+    "moarchy-breakout-2-3bb44f35.webp"
+   ],
+   "lupine": [
+    "moarchy-breakout-0-8cebcee9.webp",
+    "moarchy-breakout-1-64078725.webp",
+    "moarchy-breakout-2-2fdd808f.webp"
+   ],
+   "matte-black": [
+    "moarchy-breakout-0-d03de5a8.webp",
+    "moarchy-breakout-1-58a57a70.webp",
+    "moarchy-breakout-2-ead4af41.webp"
+   ],
+   "miasma": [
+    "moarchy-breakout-0-9bb38e73.webp",
+    "moarchy-breakout-1-b1c3085e.webp",
+    "moarchy-breakout-2-8bf2ecaf.webp"
+   ],
+   "nord": [
+    "moarchy-breakout-0-c2765807.webp",
+    "moarchy-breakout-1-738b2fa5.webp",
+    "moarchy-breakout-2-78b809b3.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-breakout-0-bb122551.webp",
+    "moarchy-breakout-1-bb286489.webp",
+    "moarchy-breakout-2-60600743.webp"
+   ],
+   "retro-82": [
+    "moarchy-breakout-0-bd2ec956.webp",
+    "moarchy-breakout-1-186948f0.webp",
+    "moarchy-breakout-2-b433c8b0.webp"
+   ],
+   "ristretto": [
+    "moarchy-breakout-0-3995e774.webp",
+    "moarchy-breakout-1-4bcf5729.webp",
+    "moarchy-breakout-2-9938f09e.webp"
+   ],
+   "rose-pine": [
+    "moarchy-breakout-0-71950922.webp",
+    "moarchy-breakout-1-c39d1e33.webp",
+    "moarchy-breakout-2-5c77a4bd.webp"
+   ],
+   "solitude": [
+    "moarchy-breakout-0-edad1e2f.webp",
+    "moarchy-breakout-1-8636e2b9.webp",
+    "moarchy-breakout-2-215917ab.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-breakout-0-82667813.webp",
+    "moarchy-breakout-1-d3ca9e72.webp",
+    "moarchy-breakout-2-57a2b5a5.webp"
+   ],
+   "vantablack": [
+    "moarchy-breakout-0-acf62258.webp",
+    "moarchy-breakout-1-789d2465.webp",
+    "moarchy-breakout-2-4af81cd0.webp"
+   ],
+   "white": [
+    "moarchy-breakout-0-07d3de44.webp",
+    "moarchy-breakout-1-ce8c4fbb.webp",
+    "moarchy-breakout-2-e7eef6e6.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-keep",
@@ -249,11 +1929,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-keep-0-924b79c7.webp",
-   "moarchy-keep-1-ad89795a.webp",
-   "moarchy-keep-2-ef72bef1.webp"
+   "moarchy-keep-0-d2a31e44.webp",
+   "moarchy-keep-1-988cfb83.webp",
+   "moarchy-keep-2-1f7c6891.webp"
   ],
-  "icon": "moarchy-keep-ca78f9d0.webp"
+  "icon": "moarchy-keep-ca78f9d0.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-keep-0-dc0b76b3.webp",
+    "moarchy-keep-1-ac65ce1d.webp",
+    "moarchy-keep-2-7eef2441.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-keep-0-f763340d.webp",
+    "moarchy-keep-1-278d7a78.webp",
+    "moarchy-keep-2-eec96209.webp"
+   ],
+   "ethereal": [
+    "moarchy-keep-0-ebeab646.webp",
+    "moarchy-keep-1-d4d4143b.webp",
+    "moarchy-keep-2-edaae7f9.webp"
+   ],
+   "everforest": [
+    "moarchy-keep-0-7034d6b7.webp",
+    "moarchy-keep-1-7d6f30a5.webp",
+    "moarchy-keep-2-5192bede.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-keep-0-c4ba2460.webp",
+    "moarchy-keep-1-6fffbdd3.webp",
+    "moarchy-keep-2-aefa4f58.webp"
+   ],
+   "gruvbox": [
+    "moarchy-keep-0-4511f04e.webp",
+    "moarchy-keep-1-91b56e05.webp",
+    "moarchy-keep-2-d628c7cc.webp"
+   ],
+   "hackerman": [
+    "moarchy-keep-0-98c14158.webp",
+    "moarchy-keep-1-6aa363b4.webp",
+    "moarchy-keep-2-040e3796.webp"
+   ],
+   "kanagawa": [
+    "moarchy-keep-0-617d8320.webp",
+    "moarchy-keep-1-60f08f3c.webp",
+    "moarchy-keep-2-8461de3d.webp"
+   ],
+   "last-horizon": [
+    "moarchy-keep-0-7d694693.webp",
+    "moarchy-keep-1-2e52a3e1.webp",
+    "moarchy-keep-2-e53ab6df.webp"
+   ],
+   "lumon": [
+    "moarchy-keep-0-93e30bb1.webp",
+    "moarchy-keep-1-4c05eb03.webp",
+    "moarchy-keep-2-ef68fb07.webp"
+   ],
+   "lupine": [
+    "moarchy-keep-0-31b539d3.webp",
+    "moarchy-keep-1-f5793faa.webp",
+    "moarchy-keep-2-c0dd6ef6.webp"
+   ],
+   "matte-black": [
+    "moarchy-keep-0-66083a56.webp",
+    "moarchy-keep-1-704da02e.webp",
+    "moarchy-keep-2-179080ca.webp"
+   ],
+   "miasma": [
+    "moarchy-keep-0-a8177972.webp",
+    "moarchy-keep-1-9bfd7687.webp",
+    "moarchy-keep-2-a82559ac.webp"
+   ],
+   "nord": [
+    "moarchy-keep-0-581df434.webp",
+    "moarchy-keep-1-b018dcc4.webp",
+    "moarchy-keep-2-833d8976.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-keep-0-5076779c.webp",
+    "moarchy-keep-1-910ab4fd.webp",
+    "moarchy-keep-2-5535efd2.webp"
+   ],
+   "retro-82": [
+    "moarchy-keep-0-8622dc92.webp",
+    "moarchy-keep-1-79a91f0f.webp",
+    "moarchy-keep-2-7ae3b90c.webp"
+   ],
+   "ristretto": [
+    "moarchy-keep-0-5cf6056d.webp",
+    "moarchy-keep-1-712d1912.webp",
+    "moarchy-keep-2-a220f5b5.webp"
+   ],
+   "rose-pine": [
+    "moarchy-keep-0-8d2ad3d8.webp",
+    "moarchy-keep-1-b13375f2.webp",
+    "moarchy-keep-2-6c85d5ea.webp"
+   ],
+   "solitude": [
+    "moarchy-keep-0-91d24d2f.webp",
+    "moarchy-keep-1-58a25118.webp",
+    "moarchy-keep-2-88503aa5.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-keep-0-d2a31e44.webp",
+    "moarchy-keep-1-988cfb83.webp",
+    "moarchy-keep-2-1f7c6891.webp"
+   ],
+   "vantablack": [
+    "moarchy-keep-0-6a33eb92.webp",
+    "moarchy-keep-1-36b33fa6.webp",
+    "moarchy-keep-2-49570a83.webp"
+   ],
+   "white": [
+    "moarchy-keep-0-f3ac1dc2.webp",
+    "moarchy-keep-1-50fe7b68.webp",
+    "moarchy-keep-2-7a97fdd6.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-habits",
@@ -265,11 +2057,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-habits-0-f6297cf9.webp",
-   "moarchy-habits-1-d41dc63f.webp",
-   "moarchy-habits-2-fd5083fa.webp"
+   "moarchy-habits-0-03de4788.webp",
+   "moarchy-habits-1-986f7a58.webp",
+   "moarchy-habits-2-b2dfff5c.webp"
   ],
-  "icon": "moarchy-habits-2cffed3e.webp"
+  "icon": "moarchy-habits-2cffed3e.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-habits-0-ba6149af.webp",
+    "moarchy-habits-1-d9e31044.webp",
+    "moarchy-habits-2-3c704691.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-habits-0-045961d0.webp",
+    "moarchy-habits-1-66972a02.webp",
+    "moarchy-habits-2-ba8411f2.webp"
+   ],
+   "ethereal": [
+    "moarchy-habits-0-d00dbdbe.webp",
+    "moarchy-habits-1-962f7885.webp",
+    "moarchy-habits-2-4248e504.webp"
+   ],
+   "everforest": [
+    "moarchy-habits-0-2f8124cf.webp",
+    "moarchy-habits-1-0026c1d3.webp",
+    "moarchy-habits-2-f13ae902.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-habits-0-7dc06547.webp",
+    "moarchy-habits-1-266f9c36.webp",
+    "moarchy-habits-2-bff4adfc.webp"
+   ],
+   "gruvbox": [
+    "moarchy-habits-0-95ef248d.webp",
+    "moarchy-habits-1-eac9e22d.webp",
+    "moarchy-habits-2-4a904214.webp"
+   ],
+   "hackerman": [
+    "moarchy-habits-0-4148ddae.webp",
+    "moarchy-habits-1-26f0e3b7.webp",
+    "moarchy-habits-2-5f127bcd.webp"
+   ],
+   "kanagawa": [
+    "moarchy-habits-0-3491a3da.webp",
+    "moarchy-habits-1-11b16f1d.webp",
+    "moarchy-habits-2-c70bab8c.webp"
+   ],
+   "last-horizon": [
+    "moarchy-habits-0-faafa2af.webp",
+    "moarchy-habits-1-b5c47dec.webp",
+    "moarchy-habits-2-fe9c6fc0.webp"
+   ],
+   "lumon": [
+    "moarchy-habits-0-90f498b5.webp",
+    "moarchy-habits-1-3e8da86f.webp",
+    "moarchy-habits-2-2ce89b50.webp"
+   ],
+   "lupine": [
+    "moarchy-habits-0-f1e28ed3.webp",
+    "moarchy-habits-1-348a18c6.webp",
+    "moarchy-habits-2-6c4ef468.webp"
+   ],
+   "matte-black": [
+    "moarchy-habits-0-83797875.webp",
+    "moarchy-habits-1-2686aa1a.webp",
+    "moarchy-habits-2-47e66e09.webp"
+   ],
+   "miasma": [
+    "moarchy-habits-0-f553557e.webp",
+    "moarchy-habits-1-d03a10e5.webp",
+    "moarchy-habits-2-dff4eeb2.webp"
+   ],
+   "nord": [
+    "moarchy-habits-0-a690a599.webp",
+    "moarchy-habits-1-868e3b2f.webp",
+    "moarchy-habits-2-9f3cffbb.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-habits-0-27473b02.webp",
+    "moarchy-habits-1-5610b03f.webp",
+    "moarchy-habits-2-a036a02a.webp"
+   ],
+   "retro-82": [
+    "moarchy-habits-0-9d1e7cb1.webp",
+    "moarchy-habits-1-8c0b5ee0.webp",
+    "moarchy-habits-2-60b9ffe5.webp"
+   ],
+   "ristretto": [
+    "moarchy-habits-0-4e5b23ac.webp",
+    "moarchy-habits-1-5ef746ec.webp",
+    "moarchy-habits-2-8855689e.webp"
+   ],
+   "rose-pine": [
+    "moarchy-habits-0-a1b4e8f7.webp",
+    "moarchy-habits-1-085a125b.webp",
+    "moarchy-habits-2-2e5f3aa5.webp"
+   ],
+   "solitude": [
+    "moarchy-habits-0-3027608b.webp",
+    "moarchy-habits-1-f20b9601.webp",
+    "moarchy-habits-2-9eac5082.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-habits-0-03de4788.webp",
+    "moarchy-habits-1-986f7a58.webp",
+    "moarchy-habits-2-b2dfff5c.webp"
+   ],
+   "vantablack": [
+    "moarchy-habits-0-c35298df.webp",
+    "moarchy-habits-1-bba0c4ea.webp",
+    "moarchy-habits-2-7bb99e00.webp"
+   ],
+   "white": [
+    "moarchy-habits-0-bf65bbd7.webp",
+    "moarchy-habits-1-40ca3935.webp",
+    "moarchy-habits-2-b625bee5.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-launches",
@@ -281,11 +2185,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-launches-0-70669a57.webp",
-   "moarchy-launches-1-e33a9a79.webp",
-   "moarchy-launches-2-af951624.webp"
+   "moarchy-launches-0-c238c002.webp",
+   "moarchy-launches-1-49da8227.webp",
+   "moarchy-launches-2-f11fe9eb.webp"
   ],
-  "icon": "moarchy-launches-d4b6acac.webp"
+  "icon": "moarchy-launches-d4b6acac.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-launches-0-c26e9b78.webp",
+    "moarchy-launches-1-160a7cfd.webp",
+    "moarchy-launches-2-67362be6.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-launches-0-52475531.webp",
+    "moarchy-launches-1-b9b716ce.webp",
+    "moarchy-launches-2-3f5128d2.webp"
+   ],
+   "ethereal": [
+    "moarchy-launches-0-51b1082d.webp",
+    "moarchy-launches-1-14668049.webp",
+    "moarchy-launches-2-ec45937a.webp"
+   ],
+   "everforest": [
+    "moarchy-launches-0-367eef68.webp",
+    "moarchy-launches-1-f80b1713.webp",
+    "moarchy-launches-2-b167a38e.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-launches-0-2625aa9b.webp",
+    "moarchy-launches-1-f27d8243.webp",
+    "moarchy-launches-2-0e33384d.webp"
+   ],
+   "gruvbox": [
+    "moarchy-launches-0-c3a5ae3e.webp",
+    "moarchy-launches-1-c4d059d6.webp",
+    "moarchy-launches-2-dd5f5a84.webp"
+   ],
+   "hackerman": [
+    "moarchy-launches-0-13a38b72.webp",
+    "moarchy-launches-1-00908cae.webp",
+    "moarchy-launches-2-c3526317.webp"
+   ],
+   "kanagawa": [
+    "moarchy-launches-0-abcae06a.webp",
+    "moarchy-launches-1-69e667e5.webp",
+    "moarchy-launches-2-8ec9bfd2.webp"
+   ],
+   "last-horizon": [
+    "moarchy-launches-0-19c4b518.webp",
+    "moarchy-launches-1-9074151e.webp",
+    "moarchy-launches-2-20efcb6b.webp"
+   ],
+   "lumon": [
+    "moarchy-launches-0-2a5ac13c.webp",
+    "moarchy-launches-1-48156489.webp",
+    "moarchy-launches-2-29baca86.webp"
+   ],
+   "lupine": [
+    "moarchy-launches-0-fd311df5.webp",
+    "moarchy-launches-1-47f22033.webp",
+    "moarchy-launches-2-38168aac.webp"
+   ],
+   "matte-black": [
+    "moarchy-launches-0-3f5023f6.webp",
+    "moarchy-launches-1-2f632c55.webp",
+    "moarchy-launches-2-80a4dc51.webp"
+   ],
+   "miasma": [
+    "moarchy-launches-0-95af565e.webp",
+    "moarchy-launches-1-05d4ae2b.webp",
+    "moarchy-launches-2-9838489a.webp"
+   ],
+   "nord": [
+    "moarchy-launches-0-d834bd4f.webp",
+    "moarchy-launches-1-aa24895d.webp",
+    "moarchy-launches-2-0de62363.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-launches-0-3368b44f.webp",
+    "moarchy-launches-1-6869c235.webp",
+    "moarchy-launches-2-fcb0b540.webp"
+   ],
+   "retro-82": [
+    "moarchy-launches-0-aeed20e7.webp",
+    "moarchy-launches-1-ef9afc3d.webp",
+    "moarchy-launches-2-908764a3.webp"
+   ],
+   "ristretto": [
+    "moarchy-launches-0-d9aba744.webp",
+    "moarchy-launches-1-d2a5f4d9.webp",
+    "moarchy-launches-2-c7b0a845.webp"
+   ],
+   "rose-pine": [
+    "moarchy-launches-0-f85eb055.webp",
+    "moarchy-launches-1-81f84586.webp",
+    "moarchy-launches-2-487422ee.webp"
+   ],
+   "solitude": [
+    "moarchy-launches-0-4a130ec1.webp",
+    "moarchy-launches-1-4f3c108f.webp",
+    "moarchy-launches-2-cfabe25f.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-launches-0-c238c002.webp",
+    "moarchy-launches-1-49da8227.webp",
+    "moarchy-launches-2-f11fe9eb.webp"
+   ],
+   "vantablack": [
+    "moarchy-launches-0-36633949.webp",
+    "moarchy-launches-1-e5dd2343.webp",
+    "moarchy-launches-2-8e2b650e.webp"
+   ],
+   "white": [
+    "moarchy-launches-0-963b40d7.webp",
+    "moarchy-launches-1-48859d2d.webp",
+    "moarchy-launches-2-b64a3d41.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-food",
@@ -297,11 +2313,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-food-0-402229bb.webp",
-   "moarchy-food-1-3eaf3e25.webp",
-   "moarchy-food-2-f7caa249.webp"
+   "moarchy-food-0-ef5d7acc.webp",
+   "moarchy-food-1-6ea2e2d8.webp",
+   "moarchy-food-2-f00b12d3.webp"
   ],
-  "icon": "moarchy-food-fd1f1e8e.webp"
+  "icon": "moarchy-food-fd1f1e8e.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-food-0-efd4fa32.webp",
+    "moarchy-food-1-63e8b06f.webp",
+    "moarchy-food-2-bef67cbd.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-food-0-60f8ac85.webp",
+    "moarchy-food-1-9eff1df9.webp",
+    "moarchy-food-2-5da8fce4.webp"
+   ],
+   "ethereal": [
+    "moarchy-food-0-bdb29bb9.webp",
+    "moarchy-food-1-130e252c.webp",
+    "moarchy-food-2-bd7dd423.webp"
+   ],
+   "everforest": [
+    "moarchy-food-0-2c7f0e67.webp",
+    "moarchy-food-1-516ad9d4.webp",
+    "moarchy-food-2-c6771255.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-food-0-55b34b87.webp",
+    "moarchy-food-1-0e8f629d.webp",
+    "moarchy-food-2-5b576014.webp"
+   ],
+   "gruvbox": [
+    "moarchy-food-0-6ee35937.webp",
+    "moarchy-food-1-eb361a9a.webp",
+    "moarchy-food-2-cabd787c.webp"
+   ],
+   "hackerman": [
+    "moarchy-food-0-b708f422.webp",
+    "moarchy-food-1-c4051776.webp",
+    "moarchy-food-2-b30e3f1f.webp"
+   ],
+   "kanagawa": [
+    "moarchy-food-0-cd94a950.webp",
+    "moarchy-food-1-56ff1fd7.webp",
+    "moarchy-food-2-e7a2628f.webp"
+   ],
+   "last-horizon": [
+    "moarchy-food-0-979d238e.webp",
+    "moarchy-food-1-5235863e.webp",
+    "moarchy-food-2-055bbace.webp"
+   ],
+   "lumon": [
+    "moarchy-food-0-3dc91a0b.webp",
+    "moarchy-food-1-671e6572.webp",
+    "moarchy-food-2-c3fe428b.webp"
+   ],
+   "lupine": [
+    "moarchy-food-0-2938c9bd.webp",
+    "moarchy-food-1-9c510031.webp",
+    "moarchy-food-2-c6e71129.webp"
+   ],
+   "matte-black": [
+    "moarchy-food-0-10549457.webp",
+    "moarchy-food-1-3d4b58b1.webp",
+    "moarchy-food-2-e0d5f43d.webp"
+   ],
+   "miasma": [
+    "moarchy-food-0-6ed863aa.webp",
+    "moarchy-food-1-d3fc7d46.webp",
+    "moarchy-food-2-275612bd.webp"
+   ],
+   "nord": [
+    "moarchy-food-0-a26da6b3.webp",
+    "moarchy-food-1-dab5bc7e.webp",
+    "moarchy-food-2-e2a9099a.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-food-0-6c1da3ab.webp",
+    "moarchy-food-1-6e2aa742.webp",
+    "moarchy-food-2-e8faadf7.webp"
+   ],
+   "retro-82": [
+    "moarchy-food-0-25d8ecf1.webp",
+    "moarchy-food-1-d2efd6cd.webp",
+    "moarchy-food-2-f76840d7.webp"
+   ],
+   "ristretto": [
+    "moarchy-food-0-21600894.webp",
+    "moarchy-food-1-6d34f78c.webp",
+    "moarchy-food-2-15fa3fc3.webp"
+   ],
+   "rose-pine": [
+    "moarchy-food-0-82fbb996.webp",
+    "moarchy-food-1-26d119a5.webp",
+    "moarchy-food-2-18f8be05.webp"
+   ],
+   "solitude": [
+    "moarchy-food-0-8724b082.webp",
+    "moarchy-food-1-31c49d32.webp",
+    "moarchy-food-2-248c380b.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-food-0-ef5d7acc.webp",
+    "moarchy-food-1-6ea2e2d8.webp",
+    "moarchy-food-2-f00b12d3.webp"
+   ],
+   "vantablack": [
+    "moarchy-food-0-6e401305.webp",
+    "moarchy-food-1-72c17608.webp",
+    "moarchy-food-2-f44d015b.webp"
+   ],
+   "white": [
+    "moarchy-food-0-48df5c91.webp",
+    "moarchy-food-1-29917c08.webp",
+    "moarchy-food-2-5984bce7.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-calculator",
@@ -313,11 +2441,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-calculator-0-68a38d70.webp",
-   "moarchy-calculator-1-3f55c007.webp",
-   "moarchy-calculator-2-347d2b56.webp"
+   "moarchy-calculator-0-80927092.webp",
+   "moarchy-calculator-1-0f357df1.webp",
+   "moarchy-calculator-2-b6e7dd6f.webp"
   ],
-  "icon": "moarchy-calculator-c368e2b0.webp"
+  "icon": "moarchy-calculator-c368e2b0.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-calculator-0-99d2747f.webp",
+    "moarchy-calculator-1-e388ba0f.webp",
+    "moarchy-calculator-2-7785b424.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-calculator-0-73928911.webp",
+    "moarchy-calculator-1-7ee7f3d8.webp",
+    "moarchy-calculator-2-7272a8df.webp"
+   ],
+   "ethereal": [
+    "moarchy-calculator-0-e809c7f2.webp",
+    "moarchy-calculator-1-419a24de.webp",
+    "moarchy-calculator-2-6ff36a59.webp"
+   ],
+   "everforest": [
+    "moarchy-calculator-0-5c61fe1a.webp",
+    "moarchy-calculator-1-3a5fabf6.webp",
+    "moarchy-calculator-2-edbe48c7.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-calculator-0-df08008a.webp",
+    "moarchy-calculator-1-a65bf7ed.webp",
+    "moarchy-calculator-2-760baca6.webp"
+   ],
+   "gruvbox": [
+    "moarchy-calculator-0-0468c4b0.webp",
+    "moarchy-calculator-1-7e1a6edf.webp",
+    "moarchy-calculator-2-21e0c242.webp"
+   ],
+   "hackerman": [
+    "moarchy-calculator-0-0dea3795.webp",
+    "moarchy-calculator-1-373bea51.webp",
+    "moarchy-calculator-2-15cda48b.webp"
+   ],
+   "kanagawa": [
+    "moarchy-calculator-0-662e3f92.webp",
+    "moarchy-calculator-1-7f627e1d.webp",
+    "moarchy-calculator-2-afa23f16.webp"
+   ],
+   "last-horizon": [
+    "moarchy-calculator-0-99b7cfad.webp",
+    "moarchy-calculator-1-74b31453.webp",
+    "moarchy-calculator-2-b8afa703.webp"
+   ],
+   "lumon": [
+    "moarchy-calculator-0-00cf8379.webp",
+    "moarchy-calculator-1-ba1c22ac.webp",
+    "moarchy-calculator-2-1b61f0e4.webp"
+   ],
+   "lupine": [
+    "moarchy-calculator-0-664e3da7.webp",
+    "moarchy-calculator-1-21343a18.webp",
+    "moarchy-calculator-2-bb92233d.webp"
+   ],
+   "matte-black": [
+    "moarchy-calculator-0-80dcefbc.webp",
+    "moarchy-calculator-1-8a40126b.webp",
+    "moarchy-calculator-2-69421eb3.webp"
+   ],
+   "miasma": [
+    "moarchy-calculator-0-02f30b78.webp",
+    "moarchy-calculator-1-a53c5430.webp",
+    "moarchy-calculator-2-7914cca7.webp"
+   ],
+   "nord": [
+    "moarchy-calculator-0-1243a41e.webp",
+    "moarchy-calculator-1-1172e000.webp",
+    "moarchy-calculator-2-c6759421.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-calculator-0-c4e66f84.webp",
+    "moarchy-calculator-1-12167d91.webp",
+    "moarchy-calculator-2-4a723d01.webp"
+   ],
+   "retro-82": [
+    "moarchy-calculator-0-440c0020.webp",
+    "moarchy-calculator-1-d327204e.webp",
+    "moarchy-calculator-2-acfe6387.webp"
+   ],
+   "ristretto": [
+    "moarchy-calculator-0-06bd5a7f.webp",
+    "moarchy-calculator-1-b39b7c49.webp",
+    "moarchy-calculator-2-597b1ed6.webp"
+   ],
+   "rose-pine": [
+    "moarchy-calculator-0-5513a3de.webp",
+    "moarchy-calculator-1-4f672419.webp",
+    "moarchy-calculator-2-c0007297.webp"
+   ],
+   "solitude": [
+    "moarchy-calculator-0-dcba347d.webp",
+    "moarchy-calculator-1-ba4d4083.webp",
+    "moarchy-calculator-2-2a70f79e.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-calculator-0-80927092.webp",
+    "moarchy-calculator-1-0f357df1.webp",
+    "moarchy-calculator-2-b6e7dd6f.webp"
+   ],
+   "vantablack": [
+    "moarchy-calculator-0-4d5fba5f.webp",
+    "moarchy-calculator-1-2d73b1e7.webp",
+    "moarchy-calculator-2-c2400507.webp"
+   ],
+   "white": [
+    "moarchy-calculator-0-99ae3d04.webp",
+    "moarchy-calculator-1-6bef9b93.webp",
+    "moarchy-calculator-2-d15cda4b.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-weather",
@@ -329,11 +2569,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-weather-0-9626a83b.webp",
-   "moarchy-weather-1-2cedbbab.webp",
-   "moarchy-weather-2-edd4bced.webp"
+   "moarchy-weather-0-ee31cbe1.webp",
+   "moarchy-weather-1-ab860623.webp",
+   "moarchy-weather-2-5222b9d2.webp"
   ],
-  "icon": "moarchy-weather-5cd88171.webp"
+  "icon": "moarchy-weather-5cd88171.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-weather-0-71698a29.webp",
+    "moarchy-weather-1-4e206698.webp",
+    "moarchy-weather-2-51d4a161.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-weather-0-3d2436ff.webp",
+    "moarchy-weather-1-e6c997a1.webp",
+    "moarchy-weather-2-fc799675.webp"
+   ],
+   "ethereal": [
+    "moarchy-weather-0-bb41cb9c.webp",
+    "moarchy-weather-1-3ab20ea0.webp",
+    "moarchy-weather-2-3e65480a.webp"
+   ],
+   "everforest": [
+    "moarchy-weather-0-9e70b712.webp",
+    "moarchy-weather-1-0eeb3a6b.webp",
+    "moarchy-weather-2-5c1613a0.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-weather-0-2661726f.webp",
+    "moarchy-weather-1-ef22c717.webp",
+    "moarchy-weather-2-0abcd068.webp"
+   ],
+   "gruvbox": [
+    "moarchy-weather-0-b325430e.webp",
+    "moarchy-weather-1-f18ad0d5.webp",
+    "moarchy-weather-2-680ffb29.webp"
+   ],
+   "hackerman": [
+    "moarchy-weather-0-fbf97870.webp",
+    "moarchy-weather-1-fa9f48ea.webp",
+    "moarchy-weather-2-708a157b.webp"
+   ],
+   "kanagawa": [
+    "moarchy-weather-0-298d6819.webp",
+    "moarchy-weather-1-c1ce6632.webp",
+    "moarchy-weather-2-de207eaf.webp"
+   ],
+   "last-horizon": [
+    "moarchy-weather-0-35aeb9a3.webp",
+    "moarchy-weather-1-dbd33d96.webp",
+    "moarchy-weather-2-f686c05c.webp"
+   ],
+   "lumon": [
+    "moarchy-weather-0-7c821293.webp",
+    "moarchy-weather-1-6ac1771d.webp",
+    "moarchy-weather-2-8c3b0b4a.webp"
+   ],
+   "lupine": [
+    "moarchy-weather-0-912df903.webp",
+    "moarchy-weather-1-bfcfed18.webp",
+    "moarchy-weather-2-da03bf3d.webp"
+   ],
+   "matte-black": [
+    "moarchy-weather-0-86912a67.webp",
+    "moarchy-weather-1-009da9fb.webp",
+    "moarchy-weather-2-43cd69ac.webp"
+   ],
+   "miasma": [
+    "moarchy-weather-0-5c7c6940.webp",
+    "moarchy-weather-1-4c8e6b4c.webp",
+    "moarchy-weather-2-653b853c.webp"
+   ],
+   "nord": [
+    "moarchy-weather-0-d2f187b2.webp",
+    "moarchy-weather-1-181966b6.webp",
+    "moarchy-weather-2-9500a421.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-weather-0-8c0e79db.webp",
+    "moarchy-weather-1-dce1315b.webp",
+    "moarchy-weather-2-76244373.webp"
+   ],
+   "retro-82": [
+    "moarchy-weather-0-2245cecf.webp",
+    "moarchy-weather-1-3b8729a9.webp",
+    "moarchy-weather-2-cca1464e.webp"
+   ],
+   "ristretto": [
+    "moarchy-weather-0-42ccbb2d.webp",
+    "moarchy-weather-1-6a0defc7.webp",
+    "moarchy-weather-2-7f4a8aa7.webp"
+   ],
+   "rose-pine": [
+    "moarchy-weather-0-df32d4eb.webp",
+    "moarchy-weather-1-54bac14f.webp",
+    "moarchy-weather-2-f88c19d3.webp"
+   ],
+   "solitude": [
+    "moarchy-weather-0-2615bfaf.webp",
+    "moarchy-weather-1-7428b6ab.webp",
+    "moarchy-weather-2-06e83636.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-weather-0-ee31cbe1.webp",
+    "moarchy-weather-1-ab860623.webp",
+    "moarchy-weather-2-5222b9d2.webp"
+   ],
+   "vantablack": [
+    "moarchy-weather-0-8f38344c.webp",
+    "moarchy-weather-1-8cb6d3ea.webp",
+    "moarchy-weather-2-1f1d3228.webp"
+   ],
+   "white": [
+    "moarchy-weather-0-833f0ccb.webp",
+    "moarchy-weather-1-952728ed.webp",
+    "moarchy-weather-2-1d606cd3.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-clock",
@@ -345,11 +2697,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-clock-0-862db608.webp",
-   "moarchy-clock-1-9f062e4c.webp",
-   "moarchy-clock-2-63dd9e3f.webp"
+   "moarchy-clock-0-e4e2685d.webp",
+   "moarchy-clock-1-148d992b.webp",
+   "moarchy-clock-2-32bf1ec1.webp"
   ],
-  "icon": "moarchy-clock-008918fb.webp"
+  "icon": "moarchy-clock-008918fb.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-clock-0-f3b2b340.webp",
+    "moarchy-clock-1-ea56e60e.webp",
+    "moarchy-clock-2-67cc39de.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-clock-0-171a0fd3.webp",
+    "moarchy-clock-1-6f4c3bcc.webp",
+    "moarchy-clock-2-228dd907.webp"
+   ],
+   "ethereal": [
+    "moarchy-clock-0-cd5c9ce8.webp",
+    "moarchy-clock-1-f2fe6bf1.webp",
+    "moarchy-clock-2-c879fb71.webp"
+   ],
+   "everforest": [
+    "moarchy-clock-0-4722a678.webp",
+    "moarchy-clock-1-31443a95.webp",
+    "moarchy-clock-2-fd0f6faf.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-clock-0-f9714b36.webp",
+    "moarchy-clock-1-e4af62ad.webp",
+    "moarchy-clock-2-247ee071.webp"
+   ],
+   "gruvbox": [
+    "moarchy-clock-0-5edb0dc9.webp",
+    "moarchy-clock-1-46d15b74.webp",
+    "moarchy-clock-2-dc6efb98.webp"
+   ],
+   "hackerman": [
+    "moarchy-clock-0-6cc41270.webp",
+    "moarchy-clock-1-a2614bea.webp",
+    "moarchy-clock-2-e643e898.webp"
+   ],
+   "kanagawa": [
+    "moarchy-clock-0-5747f1b3.webp",
+    "moarchy-clock-1-373e4921.webp",
+    "moarchy-clock-2-0bfed213.webp"
+   ],
+   "last-horizon": [
+    "moarchy-clock-0-70d4fe7b.webp",
+    "moarchy-clock-1-fd3c612d.webp",
+    "moarchy-clock-2-7ce6d81a.webp"
+   ],
+   "lumon": [
+    "moarchy-clock-0-130c8a21.webp",
+    "moarchy-clock-1-e6da8cb8.webp",
+    "moarchy-clock-2-b8cc856c.webp"
+   ],
+   "lupine": [
+    "moarchy-clock-0-a1a000f7.webp",
+    "moarchy-clock-1-f3f2702f.webp",
+    "moarchy-clock-2-3edd3dbf.webp"
+   ],
+   "matte-black": [
+    "moarchy-clock-0-04af2c72.webp",
+    "moarchy-clock-1-936bd78c.webp",
+    "moarchy-clock-2-7d9eb13a.webp"
+   ],
+   "miasma": [
+    "moarchy-clock-0-a40a0b4b.webp",
+    "moarchy-clock-1-3d887fd0.webp",
+    "moarchy-clock-2-a0c6c263.webp"
+   ],
+   "nord": [
+    "moarchy-clock-0-375c5bc9.webp",
+    "moarchy-clock-1-a85b5834.webp",
+    "moarchy-clock-2-4d79cba5.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-clock-0-e5589a72.webp",
+    "moarchy-clock-1-c37e5057.webp",
+    "moarchy-clock-2-1c8e1b85.webp"
+   ],
+   "retro-82": [
+    "moarchy-clock-0-fcec73e1.webp",
+    "moarchy-clock-1-297eaf62.webp",
+    "moarchy-clock-2-7491d2c8.webp"
+   ],
+   "ristretto": [
+    "moarchy-clock-0-5ca98600.webp",
+    "moarchy-clock-1-fa2d2368.webp",
+    "moarchy-clock-2-72a87bbf.webp"
+   ],
+   "rose-pine": [
+    "moarchy-clock-0-814b7666.webp",
+    "moarchy-clock-1-b21af17c.webp",
+    "moarchy-clock-2-fb0e808f.webp"
+   ],
+   "solitude": [
+    "moarchy-clock-0-cebda0f9.webp",
+    "moarchy-clock-1-f4fc70fa.webp",
+    "moarchy-clock-2-1cc92029.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-clock-0-e4e2685d.webp",
+    "moarchy-clock-1-148d992b.webp",
+    "moarchy-clock-2-32bf1ec1.webp"
+   ],
+   "vantablack": [
+    "moarchy-clock-0-a6ac7178.webp",
+    "moarchy-clock-1-758ad055.webp",
+    "moarchy-clock-2-fad85e4a.webp"
+   ],
+   "white": [
+    "moarchy-clock-0-62a4f6e9.webp",
+    "moarchy-clock-1-85a9141c.webp",
+    "moarchy-clock-2-5a3b4229.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-calendar",
@@ -361,11 +2825,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-calendar-0-1061596b.webp",
-   "moarchy-calendar-1-5b217f58.webp",
-   "moarchy-calendar-2-164302b2.webp"
+   "moarchy-calendar-0-ce26443a.webp",
+   "moarchy-calendar-1-44f107ed.webp",
+   "moarchy-calendar-2-4b7b6ea6.webp"
   ],
-  "icon": "moarchy-calendar-a7cd0c4a.webp"
+  "icon": "moarchy-calendar-a7cd0c4a.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-calendar-0-c4e9c6d6.webp",
+    "moarchy-calendar-1-32aca792.webp",
+    "moarchy-calendar-2-f3309775.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-calendar-0-0a023f6c.webp",
+    "moarchy-calendar-1-2345c814.webp",
+    "moarchy-calendar-2-672e3975.webp"
+   ],
+   "ethereal": [
+    "moarchy-calendar-0-3fe4e815.webp",
+    "moarchy-calendar-1-197ba510.webp",
+    "moarchy-calendar-2-3fb97c14.webp"
+   ],
+   "everforest": [
+    "moarchy-calendar-0-ebbf9d57.webp",
+    "moarchy-calendar-1-c738f5fc.webp",
+    "moarchy-calendar-2-2cc371b4.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-calendar-0-459fa25b.webp",
+    "moarchy-calendar-1-2ce1af5a.webp",
+    "moarchy-calendar-2-d2b5509f.webp"
+   ],
+   "gruvbox": [
+    "moarchy-calendar-0-a9251476.webp",
+    "moarchy-calendar-1-e8bfe282.webp",
+    "moarchy-calendar-2-70361543.webp"
+   ],
+   "hackerman": [
+    "moarchy-calendar-0-1066c427.webp",
+    "moarchy-calendar-1-4c795d62.webp",
+    "moarchy-calendar-2-6fc57b9c.webp"
+   ],
+   "kanagawa": [
+    "moarchy-calendar-0-90d7c32e.webp",
+    "moarchy-calendar-1-0358c8ae.webp",
+    "moarchy-calendar-2-5aa9b807.webp"
+   ],
+   "last-horizon": [
+    "moarchy-calendar-0-49080c1e.webp",
+    "moarchy-calendar-1-712bd7a3.webp",
+    "moarchy-calendar-2-e63e1820.webp"
+   ],
+   "lumon": [
+    "moarchy-calendar-0-b3719980.webp",
+    "moarchy-calendar-1-3f45a9bc.webp",
+    "moarchy-calendar-2-fc155415.webp"
+   ],
+   "lupine": [
+    "moarchy-calendar-0-91155145.webp",
+    "moarchy-calendar-1-054ada1b.webp",
+    "moarchy-calendar-2-e46f6550.webp"
+   ],
+   "matte-black": [
+    "moarchy-calendar-0-4a113448.webp",
+    "moarchy-calendar-1-2c1a0b3f.webp",
+    "moarchy-calendar-2-cbc72a86.webp"
+   ],
+   "miasma": [
+    "moarchy-calendar-0-21b19f78.webp",
+    "moarchy-calendar-1-d0790e11.webp",
+    "moarchy-calendar-2-521c7b70.webp"
+   ],
+   "nord": [
+    "moarchy-calendar-0-6d5adf10.webp",
+    "moarchy-calendar-1-167d744d.webp",
+    "moarchy-calendar-2-6109769c.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-calendar-0-30e79f7e.webp",
+    "moarchy-calendar-1-3c76d537.webp",
+    "moarchy-calendar-2-a98d1f1f.webp"
+   ],
+   "retro-82": [
+    "moarchy-calendar-0-a29b8a50.webp",
+    "moarchy-calendar-1-6e6b7c46.webp",
+    "moarchy-calendar-2-2c8fa977.webp"
+   ],
+   "ristretto": [
+    "moarchy-calendar-0-65f21148.webp",
+    "moarchy-calendar-1-bd7761b0.webp",
+    "moarchy-calendar-2-2007581a.webp"
+   ],
+   "rose-pine": [
+    "moarchy-calendar-0-205ce13b.webp",
+    "moarchy-calendar-1-aa789f50.webp",
+    "moarchy-calendar-2-e66b59af.webp"
+   ],
+   "solitude": [
+    "moarchy-calendar-0-744e515b.webp",
+    "moarchy-calendar-1-f0802669.webp",
+    "moarchy-calendar-2-2663d9ad.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-calendar-0-ce26443a.webp",
+    "moarchy-calendar-1-44f107ed.webp",
+    "moarchy-calendar-2-4b7b6ea6.webp"
+   ],
+   "vantablack": [
+    "moarchy-calendar-0-a0492e0f.webp",
+    "moarchy-calendar-1-657c8577.webp",
+    "moarchy-calendar-2-4278dab3.webp"
+   ],
+   "white": [
+    "moarchy-calendar-0-c6e22b29.webp",
+    "moarchy-calendar-1-8f33eaf8.webp",
+    "moarchy-calendar-2-4e8b8f39.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-contacts",
@@ -377,11 +2953,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-contacts-0-980eec91.webp",
-   "moarchy-contacts-1-91accc77.webp",
-   "moarchy-contacts-2-0027d930.webp"
+   "moarchy-contacts-0-1ca84ce7.webp",
+   "moarchy-contacts-1-479d73eb.webp",
+   "moarchy-contacts-2-3ec91dc7.webp"
   ],
-  "icon": "moarchy-contacts-09f7d9be.webp"
+  "icon": "moarchy-contacts-09f7d9be.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-contacts-0-ed935238.webp",
+    "moarchy-contacts-1-b82b77e4.webp",
+    "moarchy-contacts-2-01f2d722.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-contacts-0-1e376273.webp",
+    "moarchy-contacts-1-3d168795.webp",
+    "moarchy-contacts-2-989c82ad.webp"
+   ],
+   "ethereal": [
+    "moarchy-contacts-0-e5915fff.webp",
+    "moarchy-contacts-1-207a40de.webp",
+    "moarchy-contacts-2-53f8df32.webp"
+   ],
+   "everforest": [
+    "moarchy-contacts-0-e49c42d3.webp",
+    "moarchy-contacts-1-99dfb021.webp",
+    "moarchy-contacts-2-f0fad0d0.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-contacts-0-73ed5907.webp",
+    "moarchy-contacts-1-3feb0557.webp",
+    "moarchy-contacts-2-2a292ff2.webp"
+   ],
+   "gruvbox": [
+    "moarchy-contacts-0-457a6d46.webp",
+    "moarchy-contacts-1-f051768c.webp",
+    "moarchy-contacts-2-1e3f7d4d.webp"
+   ],
+   "hackerman": [
+    "moarchy-contacts-0-52de8eea.webp",
+    "moarchy-contacts-1-4de41a72.webp",
+    "moarchy-contacts-2-bc30aca4.webp"
+   ],
+   "kanagawa": [
+    "moarchy-contacts-0-b4dc9765.webp",
+    "moarchy-contacts-1-8cbc2ac3.webp",
+    "moarchy-contacts-2-11aaaea4.webp"
+   ],
+   "last-horizon": [
+    "moarchy-contacts-0-0984dc30.webp",
+    "moarchy-contacts-1-7c62525f.webp",
+    "moarchy-contacts-2-af6096dd.webp"
+   ],
+   "lumon": [
+    "moarchy-contacts-0-2da9578c.webp",
+    "moarchy-contacts-1-3bbf52d3.webp",
+    "moarchy-contacts-2-07404465.webp"
+   ],
+   "lupine": [
+    "moarchy-contacts-0-55a6522a.webp",
+    "moarchy-contacts-1-3ea2a8ea.webp",
+    "moarchy-contacts-2-86cd4b45.webp"
+   ],
+   "matte-black": [
+    "moarchy-contacts-0-726c1ec7.webp",
+    "moarchy-contacts-1-5a1b60c9.webp",
+    "moarchy-contacts-2-05a04c6d.webp"
+   ],
+   "miasma": [
+    "moarchy-contacts-0-9a0754a5.webp",
+    "moarchy-contacts-1-0296a779.webp",
+    "moarchy-contacts-2-d54b3131.webp"
+   ],
+   "nord": [
+    "moarchy-contacts-0-8b31511f.webp",
+    "moarchy-contacts-1-ad530cb5.webp",
+    "moarchy-contacts-2-e00f189b.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-contacts-0-68521152.webp",
+    "moarchy-contacts-1-c59f6175.webp",
+    "moarchy-contacts-2-db897fc1.webp"
+   ],
+   "retro-82": [
+    "moarchy-contacts-0-4b29291a.webp",
+    "moarchy-contacts-1-d737ef93.webp",
+    "moarchy-contacts-2-51127618.webp"
+   ],
+   "ristretto": [
+    "moarchy-contacts-0-974a16b0.webp",
+    "moarchy-contacts-1-37e55ff8.webp",
+    "moarchy-contacts-2-47707bb3.webp"
+   ],
+   "rose-pine": [
+    "moarchy-contacts-0-d3ac5b1c.webp",
+    "moarchy-contacts-1-88a0164d.webp",
+    "moarchy-contacts-2-fcda3bc5.webp"
+   ],
+   "solitude": [
+    "moarchy-contacts-0-b5a9a86b.webp",
+    "moarchy-contacts-1-b164e875.webp",
+    "moarchy-contacts-2-cbb389c0.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-contacts-0-1ca84ce7.webp",
+    "moarchy-contacts-1-479d73eb.webp",
+    "moarchy-contacts-2-3ec91dc7.webp"
+   ],
+   "vantablack": [
+    "moarchy-contacts-0-00922996.webp",
+    "moarchy-contacts-1-bf289ece.webp",
+    "moarchy-contacts-2-bfebbc25.webp"
+   ],
+   "white": [
+    "moarchy-contacts-0-ef42ffe8.webp",
+    "moarchy-contacts-1-2fc0c706.webp",
+    "moarchy-contacts-2-f6f53522.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-files",
@@ -393,11 +3081,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-files-0-d4a2a6e9.webp",
-   "moarchy-files-1-46c8249a.webp",
-   "moarchy-files-2-436ffc91.webp"
+   "moarchy-files-0-11b03dab.webp",
+   "moarchy-files-1-2ae248ca.webp",
+   "moarchy-files-2-80852311.webp"
   ],
-  "icon": "moarchy-files-02c120d6.webp"
+  "icon": "moarchy-files-02c120d6.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-files-0-7c0d7739.webp",
+    "moarchy-files-1-31daf17f.webp",
+    "moarchy-files-2-7bba54c7.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-files-0-daccaf1f.webp",
+    "moarchy-files-1-11523772.webp",
+    "moarchy-files-2-e105ab79.webp"
+   ],
+   "ethereal": [
+    "moarchy-files-0-816dfe30.webp",
+    "moarchy-files-1-d112db82.webp",
+    "moarchy-files-2-32c629c2.webp"
+   ],
+   "everforest": [
+    "moarchy-files-0-310ceb60.webp",
+    "moarchy-files-1-10d22683.webp",
+    "moarchy-files-2-bec14796.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-files-0-425aa87a.webp",
+    "moarchy-files-1-07544056.webp",
+    "moarchy-files-2-774d896e.webp"
+   ],
+   "gruvbox": [
+    "moarchy-files-0-4e62ef18.webp",
+    "moarchy-files-1-7fec3cda.webp",
+    "moarchy-files-2-b912e62b.webp"
+   ],
+   "hackerman": [
+    "moarchy-files-0-3d915525.webp",
+    "moarchy-files-1-8491fec2.webp",
+    "moarchy-files-2-5e854a5d.webp"
+   ],
+   "kanagawa": [
+    "moarchy-files-0-8fdf93e1.webp",
+    "moarchy-files-1-906c261c.webp",
+    "moarchy-files-2-b20363c4.webp"
+   ],
+   "last-horizon": [
+    "moarchy-files-0-5bf49369.webp",
+    "moarchy-files-1-36a418cb.webp",
+    "moarchy-files-2-a4f07eaf.webp"
+   ],
+   "lumon": [
+    "moarchy-files-0-24c9648e.webp",
+    "moarchy-files-1-41da6d0b.webp",
+    "moarchy-files-2-7ffeaadc.webp"
+   ],
+   "lupine": [
+    "moarchy-files-0-30242208.webp",
+    "moarchy-files-1-90b5d2ff.webp",
+    "moarchy-files-2-6830a9b4.webp"
+   ],
+   "matte-black": [
+    "moarchy-files-0-6b6a38e7.webp",
+    "moarchy-files-1-73225c5c.webp",
+    "moarchy-files-2-82d03c0a.webp"
+   ],
+   "miasma": [
+    "moarchy-files-0-d38a30d2.webp",
+    "moarchy-files-1-7d658b06.webp",
+    "moarchy-files-2-784d8f61.webp"
+   ],
+   "nord": [
+    "moarchy-files-0-63646ceb.webp",
+    "moarchy-files-1-f7cbfc00.webp",
+    "moarchy-files-2-7304f62f.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-files-0-0be6039a.webp",
+    "moarchy-files-1-faf2a8ac.webp",
+    "moarchy-files-2-34d2d053.webp"
+   ],
+   "retro-82": [
+    "moarchy-files-0-0914562e.webp",
+    "moarchy-files-1-b454b64d.webp",
+    "moarchy-files-2-7e135db3.webp"
+   ],
+   "ristretto": [
+    "moarchy-files-0-f99b4fc4.webp",
+    "moarchy-files-1-1688525f.webp",
+    "moarchy-files-2-b3677730.webp"
+   ],
+   "rose-pine": [
+    "moarchy-files-0-425b5107.webp",
+    "moarchy-files-1-2de1c994.webp",
+    "moarchy-files-2-31b32b1e.webp"
+   ],
+   "solitude": [
+    "moarchy-files-0-aa7209de.webp",
+    "moarchy-files-1-159bb01e.webp",
+    "moarchy-files-2-886e6476.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-files-0-11b03dab.webp",
+    "moarchy-files-1-2ae248ca.webp",
+    "moarchy-files-2-80852311.webp"
+   ],
+   "vantablack": [
+    "moarchy-files-0-11dd4c3e.webp",
+    "moarchy-files-1-4e75ac0f.webp",
+    "moarchy-files-2-5f7430b8.webp"
+   ],
+   "white": [
+    "moarchy-files-0-d561771b.webp",
+    "moarchy-files-1-992dd4cc.webp",
+    "moarchy-files-2-e231fed8.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-editor",
@@ -409,11 +3209,123 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-editor-0-35359f50.webp",
-   "moarchy-editor-1-a6d7f383.webp",
-   "moarchy-editor-2-96bb5c78.webp"
+   "moarchy-editor-0-24774ffc.webp",
+   "moarchy-editor-1-140ff44d.webp",
+   "moarchy-editor-2-be972753.webp"
   ],
-  "icon": "moarchy-editor-e3e7f72a.webp"
+  "icon": "moarchy-editor-e3e7f72a.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-editor-0-cccf0a94.webp",
+    "moarchy-editor-1-0d11da21.webp",
+    "moarchy-editor-2-c7790b30.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-editor-0-f220d17e.webp",
+    "moarchy-editor-1-1f220e35.webp",
+    "moarchy-editor-2-6f1b050a.webp"
+   ],
+   "ethereal": [
+    "moarchy-editor-0-e825016f.webp",
+    "moarchy-editor-1-d7667cb6.webp",
+    "moarchy-editor-2-a8145782.webp"
+   ],
+   "everforest": [
+    "moarchy-editor-0-3622decb.webp",
+    "moarchy-editor-1-5513864c.webp",
+    "moarchy-editor-2-cc3bafeb.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-editor-0-1a84b3e6.webp",
+    "moarchy-editor-1-3c599700.webp",
+    "moarchy-editor-2-b1cbad24.webp"
+   ],
+   "gruvbox": [
+    "moarchy-editor-0-70d020ce.webp",
+    "moarchy-editor-1-65fb2830.webp",
+    "moarchy-editor-2-d171d2fb.webp"
+   ],
+   "hackerman": [
+    "moarchy-editor-0-57e91370.webp",
+    "moarchy-editor-1-e7ed5ebb.webp",
+    "moarchy-editor-2-795d0e70.webp"
+   ],
+   "kanagawa": [
+    "moarchy-editor-0-80768db4.webp",
+    "moarchy-editor-1-fabe1d21.webp",
+    "moarchy-editor-2-251f8601.webp"
+   ],
+   "last-horizon": [
+    "moarchy-editor-0-f6d25795.webp",
+    "moarchy-editor-1-93870b91.webp",
+    "moarchy-editor-2-827e3679.webp"
+   ],
+   "lumon": [
+    "moarchy-editor-0-447e0918.webp",
+    "moarchy-editor-1-a875ee6f.webp",
+    "moarchy-editor-2-f181623e.webp"
+   ],
+   "lupine": [
+    "moarchy-editor-0-f6d5c211.webp",
+    "moarchy-editor-1-e8fe237c.webp",
+    "moarchy-editor-2-ae3a3261.webp"
+   ],
+   "matte-black": [
+    "moarchy-editor-0-bfac4e9f.webp",
+    "moarchy-editor-1-70315666.webp",
+    "moarchy-editor-2-78da1eb7.webp"
+   ],
+   "miasma": [
+    "moarchy-editor-0-9dfdbc78.webp",
+    "moarchy-editor-1-d49be8e9.webp",
+    "moarchy-editor-2-308870e2.webp"
+   ],
+   "nord": [
+    "moarchy-editor-0-a23488c2.webp",
+    "moarchy-editor-1-0b1f4149.webp",
+    "moarchy-editor-2-6e0ec3c9.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-editor-0-8a735af1.webp",
+    "moarchy-editor-1-69a87a9d.webp",
+    "moarchy-editor-2-4c4f2e8c.webp"
+   ],
+   "retro-82": [
+    "moarchy-editor-0-345f8bd6.webp",
+    "moarchy-editor-1-ee15d185.webp",
+    "moarchy-editor-2-84f2cb2d.webp"
+   ],
+   "ristretto": [
+    "moarchy-editor-0-1bba1c60.webp",
+    "moarchy-editor-1-6238474e.webp",
+    "moarchy-editor-2-77986c54.webp"
+   ],
+   "rose-pine": [
+    "moarchy-editor-0-317e2bd1.webp",
+    "moarchy-editor-1-4d71c24f.webp",
+    "moarchy-editor-2-0e8ed96a.webp"
+   ],
+   "solitude": [
+    "moarchy-editor-0-03c69a23.webp",
+    "moarchy-editor-1-da38c3f6.webp",
+    "moarchy-editor-2-bc625c7e.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-editor-0-24774ffc.webp",
+    "moarchy-editor-1-140ff44d.webp",
+    "moarchy-editor-2-be972753.webp"
+   ],
+   "vantablack": [
+    "moarchy-editor-0-aeb256d5.webp",
+    "moarchy-editor-1-c4332c6d.webp",
+    "moarchy-editor-2-af2fd001.webp"
+   ],
+   "white": [
+    "moarchy-editor-0-1810858f.webp",
+    "moarchy-editor-1-dd47c485.webp",
+    "moarchy-editor-2-e3654c98.webp"
+   ]
+  }
  },
  {
   "pkg": "moarchy-mail",
@@ -425,10 +3337,122 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-mail-0-30abad7c.webp",
-   "moarchy-mail-1-1c0bbdc8.webp",
-   "moarchy-mail-2-bbec522f.webp"
+   "moarchy-mail-0-8a9d531b.webp",
+   "moarchy-mail-1-c810a085.webp",
+   "moarchy-mail-2-eabb00cd.webp"
   ],
-  "icon": "moarchy-mail-6c5be2ff.webp"
+  "icon": "moarchy-mail-6c5be2ff.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-mail-0-1662dcfe.webp",
+    "moarchy-mail-1-7c051f7d.webp",
+    "moarchy-mail-2-ac0dd4ad.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-mail-0-826a9aea.webp",
+    "moarchy-mail-1-9c461f58.webp",
+    "moarchy-mail-2-c62b132d.webp"
+   ],
+   "ethereal": [
+    "moarchy-mail-0-f5619f90.webp",
+    "moarchy-mail-1-85aad0e5.webp",
+    "moarchy-mail-2-f7becda9.webp"
+   ],
+   "everforest": [
+    "moarchy-mail-0-11003f9a.webp",
+    "moarchy-mail-1-12c2cd8a.webp",
+    "moarchy-mail-2-b38a4ba0.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-mail-0-56532832.webp",
+    "moarchy-mail-1-6dcf3215.webp",
+    "moarchy-mail-2-094abbde.webp"
+   ],
+   "gruvbox": [
+    "moarchy-mail-0-13ca3c3e.webp",
+    "moarchy-mail-1-2e9c82fd.webp",
+    "moarchy-mail-2-bc7c753b.webp"
+   ],
+   "hackerman": [
+    "moarchy-mail-0-9b85d23f.webp",
+    "moarchy-mail-1-4fe642d8.webp",
+    "moarchy-mail-2-e3bbe98e.webp"
+   ],
+   "kanagawa": [
+    "moarchy-mail-0-446fb352.webp",
+    "moarchy-mail-1-d4098850.webp",
+    "moarchy-mail-2-431fdaa1.webp"
+   ],
+   "last-horizon": [
+    "moarchy-mail-0-b64cd05a.webp",
+    "moarchy-mail-1-e6999b36.webp",
+    "moarchy-mail-2-b13c7de1.webp"
+   ],
+   "lumon": [
+    "moarchy-mail-0-b677ad1a.webp",
+    "moarchy-mail-1-4ed60018.webp",
+    "moarchy-mail-2-52a81bed.webp"
+   ],
+   "lupine": [
+    "moarchy-mail-0-dd79c77e.webp",
+    "moarchy-mail-1-729d3e8d.webp",
+    "moarchy-mail-2-824cae3c.webp"
+   ],
+   "matte-black": [
+    "moarchy-mail-0-4f987f7e.webp",
+    "moarchy-mail-1-d02e8417.webp",
+    "moarchy-mail-2-58ad1157.webp"
+   ],
+   "miasma": [
+    "moarchy-mail-0-7b3b073e.webp",
+    "moarchy-mail-1-2d5db2e2.webp",
+    "moarchy-mail-2-89a5535e.webp"
+   ],
+   "nord": [
+    "moarchy-mail-0-8d0fe989.webp",
+    "moarchy-mail-1-c7b11576.webp",
+    "moarchy-mail-2-17a7df6b.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-mail-0-b64057a8.webp",
+    "moarchy-mail-1-2d7a81d7.webp",
+    "moarchy-mail-2-edc04844.webp"
+   ],
+   "retro-82": [
+    "moarchy-mail-0-95e86855.webp",
+    "moarchy-mail-1-6ce731fe.webp",
+    "moarchy-mail-2-926980a3.webp"
+   ],
+   "ristretto": [
+    "moarchy-mail-0-4c1e3333.webp",
+    "moarchy-mail-1-1adecd2d.webp",
+    "moarchy-mail-2-23272030.webp"
+   ],
+   "rose-pine": [
+    "moarchy-mail-0-4a647752.webp",
+    "moarchy-mail-1-73013346.webp",
+    "moarchy-mail-2-b555a88a.webp"
+   ],
+   "solitude": [
+    "moarchy-mail-0-0b7f35c3.webp",
+    "moarchy-mail-1-2ea54fdc.webp",
+    "moarchy-mail-2-25e27bfd.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-mail-0-8a9d531b.webp",
+    "moarchy-mail-1-c810a085.webp",
+    "moarchy-mail-2-eabb00cd.webp"
+   ],
+   "vantablack": [
+    "moarchy-mail-0-d471699f.webp",
+    "moarchy-mail-1-e33bd496.webp",
+    "moarchy-mail-2-09623299.webp"
+   ],
+   "white": [
+    "moarchy-mail-0-d9d8c9cc.webp",
+    "moarchy-mail-1-da58f3ad.webp",
+    "moarchy-mail-2-56595364.webp"
+   ]
+  }
  }
 ]
