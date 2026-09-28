@@ -28,8 +28,12 @@ Generated. Don't edit by hand: changes are overwritten by the next run.
 touches it or `aur/recommended/`. It lists the apps App Finder puts first:
 ours, built for a phone-sized screen. Each entry has the same fields as an
 `aur/apps.json` entry, in the order App Finder shows them. Their screenshots
-(taken on a Pixel 3a, cropped to the app's window, 540 px wide) and icons
-(from each app's own SVG) are in `aur/recommended/shots/` and
-`aur/recommended/icons/`, named by content hash like the generated ones.
+are three screens each, 540 px wide at a phone's density (360 px of layout at
+1.5): the first five were taken on a Pixel 3a and cropped to the app's window;
+Vitals and the moarchy-apps games are drawn by that repo's
+`scripts/app-shot.sh` with `SCALE=1.5`, from each app's demo data, in Tokyo
+Night. Icons are each app's own SVG at 144 px. Both are in
+`aur/recommended/shots/` and `aur/recommended/icons/`, named by content hash
+like the generated ones.
 
 An app listed here replaces the test run's entry for the same package.

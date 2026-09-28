@@ -57,11 +57,11 @@
   "rating": "perfect",
   "notes": [],
   "shots": [
-   "moarchy-vitals-0-f8240fd6.webp",
-   "moarchy-vitals-1-1d3173b6.webp",
-   "moarchy-vitals-2-50348a6a.webp"
+   "moarchy-vitals-0-0bfb7fff.webp",
+   "moarchy-vitals-1-5c4d3310.webp",
+   "moarchy-vitals-2-28ee67d6.webp"
   ],
-  "icon": "moarchy-vitals-801d0b1b.webp"
+  "icon": "moarchy-vitals-871cf304.webp"
  },
  {
   "pkg": "transit",
@@ -78,5 +78,149 @@
    "transit-2-d666cb8b.webp"
   ],
   "icon": "transit-6e9b010c.webp"
+ },
+ {
+  "pkg": "moarchy-tictactoe",
+  "name": "Tic-tac-toe",
+  "desktop": "org.moarchy.TicTacToe.desktop",
+  "version": "0.2.0-1",
+  "description": "Noughts and crosses against the phone, or across a table",
+  "summary": "Built for this screen: the score over the board and the two buttons under it, a record of each difficulty a tap away, and square marks in the theme's own colours.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-tictactoe-0-f15d2beb.webp",
+   "moarchy-tictactoe-1-481efae2.webp",
+   "moarchy-tictactoe-2-4eddd30a.webp"
+  ],
+  "icon": "moarchy-tictactoe-2a42e297.webp"
+ },
+ {
+  "pkg": "moarchy-minesweeper",
+  "name": "Minesweeper",
+  "desktop": "org.moarchy.Minesweeper.desktop",
+  "version": "0.2.0-1",
+  "description": "Clear the field without opening a mine",
+  "summary": "Built for this screen: a portrait board of thumb-sized cells, a flag button that latches, a clock that stops with the window, and a record per level.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-minesweeper-0-cbcefffa.webp",
+   "moarchy-minesweeper-1-122ae2d2.webp",
+   "moarchy-minesweeper-2-81ab2b4c.webp"
+  ],
+  "icon": "moarchy-minesweeper-3b7e4908.webp"
+ },
+ {
+  "pkg": "moarchy-reversi",
+  "name": "Reversi",
+  "desktop": "org.moarchy.Reversi.desktop",
+  "version": "0.2.0-1",
+  "description": "Play Reversi against the phone, or across a table",
+  "summary": "Built for this screen: the board edge to edge with the score over it, an opponent that thinks on its own thread, and Undo and New game under your thumb.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-reversi-0-60d660b0.webp",
+   "moarchy-reversi-1-15416393.webp",
+   "moarchy-reversi-2-81f789a1.webp"
+  ],
+  "icon": "moarchy-reversi-d6e1d12c.webp"
+ },
+ {
+  "pkg": "moarchy-chess",
+  "name": "Chess",
+  "desktop": "org.moarchy.Chess.desktop",
+  "version": "0.2.0-1",
+  "description": "Play chess against the phone, or across a table",
+  "summary": "Built for this screen: two taps a move on a full-width board, three levels to play against, promotion as a sheet, and the game kept when you leave.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-chess-0-0a758ea1.webp",
+   "moarchy-chess-1-48a4855c.webp",
+   "moarchy-chess-2-13cd73f2.webp"
+  ],
+  "icon": "moarchy-chess-6e859434.webp"
+ },
+ {
+  "pkg": "moarchy-mill",
+  "name": "Mill",
+  "desktop": "org.moarchy.Mill.desktop",
+  "version": "0.2.0-1",
+  "description": "Nine Men's Morris against the phone, or across a table",
+  "summary": "Built for this screen: the three squares full width, pieces in hand counted over them, and the rule everybody forgets shown when it applies.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-mill-0-7df174a4.webp",
+   "moarchy-mill-1-6ed73b81.webp",
+   "moarchy-mill-2-c700c3a3.webp"
+  ],
+  "icon": "moarchy-mill-903ce071.webp"
+ },
+ {
+  "pkg": "moarchy-solitaire",
+  "name": "Solitaire",
+  "desktop": "org.moarchy.Solitaire.desktop",
+  "version": "0.2.0-1",
+  "description": "Klondike patience, one tap a move",
+  "summary": "Built for this screen: seven columns sized to fit 360 px, one tap a move, and Send them home when every card is face up.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-solitaire-0-f536b59f.webp",
+   "moarchy-solitaire-1-71aa9030.webp",
+   "moarchy-solitaire-2-19234788.webp"
+  ],
+  "icon": "moarchy-solitaire-415834b2.webp"
+ },
+ {
+  "pkg": "moarchy-pegsolitaire",
+  "name": "Peg Solitaire",
+  "desktop": "org.moarchy.PegSolitaire.desktop",
+  "version": "0.2.0-1",
+  "description": "Jump pegs until one is left, on nine solvable figures",
+  "summary": "Built for this screen: a board of big pegs, nine figures that can all be solved, and a hint that shows the next jump of a real solution.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-pegsolitaire-0-e7d23b86.webp",
+   "moarchy-pegsolitaire-1-4100e308.webp",
+   "moarchy-pegsolitaire-2-79cbe879.webp"
+  ],
+  "icon": "moarchy-pegsolitaire-6b98c167.webp"
+ },
+ {
+  "pkg": "moarchy-fiveletters",
+  "name": "Five Letters",
+  "desktop": "org.moarchy.FiveLetters.desktop",
+  "version": "0.2.0-1",
+  "description": "Guess the five-letter word in six tries",
+  "summary": "Built for this screen: the grid and its own keyboard on one page, a mark as well as a colour on every tile, and a record of each day's guesses.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-fiveletters-0-c2f61613.webp",
+   "moarchy-fiveletters-1-b29d1660.webp",
+   "moarchy-fiveletters-2-635a00cc.webp"
+  ],
+  "icon": "moarchy-fiveletters-a378bc6b.webp"
+ },
+ {
+  "pkg": "moarchy-breakout",
+  "name": "Breakout",
+  "desktop": "org.moarchy.Breakout.desktop",
+  "version": "0.2.0-1",
+  "description": "Knock the wall down without losing the ball",
+  "summary": "Built for this screen: a full-height field, a bat that follows your thumb, five walls, and a clock that stops when the window closes.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-breakout-0-438f2263.webp",
+   "moarchy-breakout-1-a05e9003.webp",
+   "moarchy-breakout-2-e088a485.webp"
+  ],
+  "icon": "moarchy-breakout-1a413b80.webp"
  }
 ]
