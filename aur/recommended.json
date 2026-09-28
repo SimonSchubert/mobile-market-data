@@ -1,5 +1,21 @@
 [
  {
+  "pkg": "moarchy-video-library",
+  "name": "Video Library",
+  "desktop": "org.moarchy.VideoLibrary.desktop",
+  "version": "0.1.0-1",
+  "description": "Videos from LBRY and Odysee: browse, search, follow channels and watch",
+  "summary": "Built for this screen: Odysee's front page one big card to a row, videos that play in the page with controls made for a finger, and fullscreen turned on its side.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-video-library-0-16e9421a.webp",
+   "moarchy-video-library-1-6876baba.webp",
+   "moarchy-video-library-2-6e266826.webp"
+  ],
+  "icon": "moarchy-video-library-47e500e1.webp"
+ },
+ {
   "pkg": "couch-for-trakt",
   "name": "Couch for Trakt",
   "desktop": "couch-for-trakt.desktop",
