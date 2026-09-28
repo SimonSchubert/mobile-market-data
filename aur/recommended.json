@@ -1835,6 +1835,137 @@
   ]
  },
  {
+  "pkg": "moarchy-trivia",
+  "name": "Trivia",
+  "desktop": "org.moarchy.Trivia.desktop",
+  "version": "0.1.0-1",
+  "description": "Multiple-choice quizzes by category and difficulty, from Open Trivia DB",
+  "summary": "Built for this screen: a category is one tap, the answers are big enough for a thumb and marked with a tick or a cross as well as a colour, and a round survives the phone reclaiming the app. Needs the internet for each new round.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-trivia-0-07fc6032.webp",
+   "moarchy-trivia-1-89328128.webp",
+   "moarchy-trivia-2-e5610e3e.webp"
+  ],
+  "icon": "moarchy-trivia-a29ec40b.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-trivia-0-3bc2b12e.webp",
+    "moarchy-trivia-1-abc9d5e1.webp",
+    "moarchy-trivia-2-1afd93f9.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-trivia-0-bd6699a9.webp",
+    "moarchy-trivia-1-33e30b12.webp",
+    "moarchy-trivia-2-ed090079.webp"
+   ],
+   "ethereal": [
+    "moarchy-trivia-0-62637a1b.webp",
+    "moarchy-trivia-1-c6eb0480.webp",
+    "moarchy-trivia-2-526a1f25.webp"
+   ],
+   "everforest": [
+    "moarchy-trivia-0-4f678378.webp",
+    "moarchy-trivia-1-362984da.webp",
+    "moarchy-trivia-2-7acd6fe5.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-trivia-0-2caa0235.webp",
+    "moarchy-trivia-1-4d069e21.webp",
+    "moarchy-trivia-2-7b323c4a.webp"
+   ],
+   "gruvbox": [
+    "moarchy-trivia-0-5b880523.webp",
+    "moarchy-trivia-1-f3947a6a.webp",
+    "moarchy-trivia-2-7b916200.webp"
+   ],
+   "hackerman": [
+    "moarchy-trivia-0-8360519f.webp",
+    "moarchy-trivia-1-eaa2971c.webp",
+    "moarchy-trivia-2-d67ca64e.webp"
+   ],
+   "kanagawa": [
+    "moarchy-trivia-0-48f641ad.webp",
+    "moarchy-trivia-1-97dff909.webp",
+    "moarchy-trivia-2-5a53b10d.webp"
+   ],
+   "last-horizon": [
+    "moarchy-trivia-0-44f5b21f.webp",
+    "moarchy-trivia-1-5f568789.webp",
+    "moarchy-trivia-2-e11fa32d.webp"
+   ],
+   "lumon": [
+    "moarchy-trivia-0-e85d5156.webp",
+    "moarchy-trivia-1-a6b33633.webp",
+    "moarchy-trivia-2-55bb2d33.webp"
+   ],
+   "lupine": [
+    "moarchy-trivia-0-e6b5d407.webp",
+    "moarchy-trivia-1-cf544400.webp",
+    "moarchy-trivia-2-dcbe287a.webp"
+   ],
+   "matte-black": [
+    "moarchy-trivia-0-a67e45ae.webp",
+    "moarchy-trivia-1-b4f28ad8.webp",
+    "moarchy-trivia-2-74ce5e39.webp"
+   ],
+   "miasma": [
+    "moarchy-trivia-0-0c3f1343.webp",
+    "moarchy-trivia-1-b0803e7f.webp",
+    "moarchy-trivia-2-aeffebab.webp"
+   ],
+   "nord": [
+    "moarchy-trivia-0-b10ab787.webp",
+    "moarchy-trivia-1-d0a8f939.webp",
+    "moarchy-trivia-2-e7f1fa9e.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-trivia-0-d6f29564.webp",
+    "moarchy-trivia-1-c4dc1e4b.webp",
+    "moarchy-trivia-2-97e7a3f5.webp"
+   ],
+   "retro-82": [
+    "moarchy-trivia-0-24a9e579.webp",
+    "moarchy-trivia-1-abe078fd.webp",
+    "moarchy-trivia-2-f74c0182.webp"
+   ],
+   "ristretto": [
+    "moarchy-trivia-0-bd6511b4.webp",
+    "moarchy-trivia-1-20157539.webp",
+    "moarchy-trivia-2-4eac0ebc.webp"
+   ],
+   "rose-pine": [
+    "moarchy-trivia-0-021b7c61.webp",
+    "moarchy-trivia-1-a59e6ecb.webp",
+    "moarchy-trivia-2-2a4a6dd9.webp"
+   ],
+   "solitude": [
+    "moarchy-trivia-0-488a1a75.webp",
+    "moarchy-trivia-1-06210c9d.webp",
+    "moarchy-trivia-2-5cca7ee8.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-trivia-0-07fc6032.webp",
+    "moarchy-trivia-1-89328128.webp",
+    "moarchy-trivia-2-e5610e3e.webp"
+   ],
+   "vantablack": [
+    "moarchy-trivia-0-fbaf8f51.webp",
+    "moarchy-trivia-1-b833c649.webp",
+    "moarchy-trivia-2-5515ad82.webp"
+   ],
+   "white": [
+    "moarchy-trivia-0-7e0eccbe.webp",
+    "moarchy-trivia-1-92775fa3.webp",
+    "moarchy-trivia-2-7645ef0a.webp"
+   ]
+  },
+  "categories": [
+   "games"
+  ]
+ },
+ {
   "pkg": "moarchy-breakout",
   "name": "Breakout",
   "desktop": "org.moarchy.Breakout.desktop",
