@@ -2490,6 +2490,137 @@
   ]
  },
  {
+  "pkg": "moarchy-atlas",
+  "name": "Atlas",
+  "desktop": "org.moarchy.Atlas.desktop",
+  "version": "0.1.0-1",
+  "description": "Flags, capitals and facts for every country, and a flag quiz",
+  "summary": "Built for this screen: every country as a wall of flags, a page each with its capital, people, languages and neighbours a tap away, and a flag quiz that works offline. Needs a free REST Countries key.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-atlas-0-922e16b3.webp",
+   "moarchy-atlas-1-26b5b921.webp",
+   "moarchy-atlas-2-24c87382.webp"
+  ],
+  "icon": "moarchy-atlas-3bf9568b.webp",
+  "themed": {
+   "catppuccin": [
+    "moarchy-atlas-0-468fa685.webp",
+    "moarchy-atlas-1-4ce2b704.webp",
+    "moarchy-atlas-2-e7ec9797.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-atlas-0-ca786887.webp",
+    "moarchy-atlas-1-25f35b4d.webp",
+    "moarchy-atlas-2-ca20c26a.webp"
+   ],
+   "ethereal": [
+    "moarchy-atlas-0-36484b95.webp",
+    "moarchy-atlas-1-33459910.webp",
+    "moarchy-atlas-2-cacd0ed9.webp"
+   ],
+   "everforest": [
+    "moarchy-atlas-0-2bf663ff.webp",
+    "moarchy-atlas-1-b27f29e6.webp",
+    "moarchy-atlas-2-ff04e551.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-atlas-0-5b8c241b.webp",
+    "moarchy-atlas-1-4cf59d1c.webp",
+    "moarchy-atlas-2-c9bd674f.webp"
+   ],
+   "gruvbox": [
+    "moarchy-atlas-0-ce7e516d.webp",
+    "moarchy-atlas-1-d0c8e5b2.webp",
+    "moarchy-atlas-2-44a62940.webp"
+   ],
+   "hackerman": [
+    "moarchy-atlas-0-a6912d5a.webp",
+    "moarchy-atlas-1-575cd748.webp",
+    "moarchy-atlas-2-8a632eea.webp"
+   ],
+   "kanagawa": [
+    "moarchy-atlas-0-73552e98.webp",
+    "moarchy-atlas-1-b8eee29e.webp",
+    "moarchy-atlas-2-42d89b5e.webp"
+   ],
+   "last-horizon": [
+    "moarchy-atlas-0-1adadc9e.webp",
+    "moarchy-atlas-1-9a79519f.webp",
+    "moarchy-atlas-2-098a154a.webp"
+   ],
+   "lumon": [
+    "moarchy-atlas-0-571a6c7b.webp",
+    "moarchy-atlas-1-bcf1e2a7.webp",
+    "moarchy-atlas-2-dea4634a.webp"
+   ],
+   "lupine": [
+    "moarchy-atlas-0-31a39929.webp",
+    "moarchy-atlas-1-d2f6fd17.webp",
+    "moarchy-atlas-2-b4216060.webp"
+   ],
+   "matte-black": [
+    "moarchy-atlas-0-b402a145.webp",
+    "moarchy-atlas-1-b78fc682.webp",
+    "moarchy-atlas-2-b2674bbf.webp"
+   ],
+   "miasma": [
+    "moarchy-atlas-0-8a315aa8.webp",
+    "moarchy-atlas-1-fb5b89e9.webp",
+    "moarchy-atlas-2-b7485915.webp"
+   ],
+   "nord": [
+    "moarchy-atlas-0-1381fabb.webp",
+    "moarchy-atlas-1-8abc0682.webp",
+    "moarchy-atlas-2-2de9d852.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-atlas-0-b2efe8f6.webp",
+    "moarchy-atlas-1-617547ff.webp",
+    "moarchy-atlas-2-d05a223b.webp"
+   ],
+   "retro-82": [
+    "moarchy-atlas-0-2de91b2d.webp",
+    "moarchy-atlas-1-ba822959.webp",
+    "moarchy-atlas-2-b52465f7.webp"
+   ],
+   "ristretto": [
+    "moarchy-atlas-0-f7cf6e9d.webp",
+    "moarchy-atlas-1-4833b515.webp",
+    "moarchy-atlas-2-45f6f20a.webp"
+   ],
+   "rose-pine": [
+    "moarchy-atlas-0-ed21acc2.webp",
+    "moarchy-atlas-1-e8a5d0d7.webp",
+    "moarchy-atlas-2-2a5955c3.webp"
+   ],
+   "solitude": [
+    "moarchy-atlas-0-269c75f3.webp",
+    "moarchy-atlas-1-1beb4790.webp",
+    "moarchy-atlas-2-9adbc77e.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-atlas-0-922e16b3.webp",
+    "moarchy-atlas-1-26b5b921.webp",
+    "moarchy-atlas-2-24c87382.webp"
+   ],
+   "vantablack": [
+    "moarchy-atlas-0-426b700e.webp",
+    "moarchy-atlas-1-7d378b89.webp",
+    "moarchy-atlas-2-8f89072a.webp"
+   ],
+   "white": [
+    "moarchy-atlas-0-a47efede.webp",
+    "moarchy-atlas-1-61c4c7a9.webp",
+    "moarchy-atlas-2-350c399e.webp"
+   ]
+  },
+  "categories": [
+   "education"
+  ]
+ },
+ {
   "pkg": "moarchy-food",
   "name": "Food",
   "desktop": "org.moarchy.Food.desktop",
