@@ -2621,6 +2621,138 @@
   ]
  },
  {
+  "pkg": "moarchy-books",
+  "name": "Books",
+  "desktop": "org.moarchy.Books.desktop",
+  "version": "0.1.0-1",
+  "description": "Open Library's catalogue and a reading list of your own",
+  "summary": "Built for this screen: Discover's shelves scroll with a thumb, a book is one tap to Want to read, Reading or Read, the page you are on is a tap away, and three covers fit to a row. An ISBN off the back of a book finds it. Needs the internet to browse; your shelves stay on the phone.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-books-0-f1de57ee.webp",
+   "moarchy-books-1-d1357040.webp",
+   "moarchy-books-2-393037ff.webp"
+  ],
+  "icon": "moarchy-books-9a0155cb.webp",
+  "categories": [
+   "education",
+   "media"
+  ],
+  "themed": {
+   "catppuccin": [
+    "moarchy-books-0-f625386a.webp",
+    "moarchy-books-1-97033ae0.webp",
+    "moarchy-books-2-52e45339.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-books-0-c76b1bf0.webp",
+    "moarchy-books-1-f25c331c.webp",
+    "moarchy-books-2-cf26f1b2.webp"
+   ],
+   "ethereal": [
+    "moarchy-books-0-bd66ec5f.webp",
+    "moarchy-books-1-5e93ea6e.webp",
+    "moarchy-books-2-64dca0a2.webp"
+   ],
+   "everforest": [
+    "moarchy-books-0-e191a229.webp",
+    "moarchy-books-1-86b278a6.webp",
+    "moarchy-books-2-a65eab18.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-books-0-3339bdd9.webp",
+    "moarchy-books-1-73edaa30.webp",
+    "moarchy-books-2-611c6bc7.webp"
+   ],
+   "gruvbox": [
+    "moarchy-books-0-3eb402cf.webp",
+    "moarchy-books-1-c81297ac.webp",
+    "moarchy-books-2-8df5253b.webp"
+   ],
+   "hackerman": [
+    "moarchy-books-0-1f94b7b5.webp",
+    "moarchy-books-1-53102585.webp",
+    "moarchy-books-2-93126b23.webp"
+   ],
+   "kanagawa": [
+    "moarchy-books-0-3a7b7e31.webp",
+    "moarchy-books-1-4b19424e.webp",
+    "moarchy-books-2-894745a7.webp"
+   ],
+   "last-horizon": [
+    "moarchy-books-0-0d803aaf.webp",
+    "moarchy-books-1-5ee9dff4.webp",
+    "moarchy-books-2-03b95bea.webp"
+   ],
+   "lumon": [
+    "moarchy-books-0-f1146f2d.webp",
+    "moarchy-books-1-3c2d6b5b.webp",
+    "moarchy-books-2-a4e6103f.webp"
+   ],
+   "lupine": [
+    "moarchy-books-0-0d4fbe15.webp",
+    "moarchy-books-1-05590601.webp",
+    "moarchy-books-2-94895954.webp"
+   ],
+   "matte-black": [
+    "moarchy-books-0-9533a50d.webp",
+    "moarchy-books-1-32a23b4b.webp",
+    "moarchy-books-2-ffce20d5.webp"
+   ],
+   "miasma": [
+    "moarchy-books-0-db732d4f.webp",
+    "moarchy-books-1-0911e652.webp",
+    "moarchy-books-2-9beda243.webp"
+   ],
+   "nord": [
+    "moarchy-books-0-51f6045e.webp",
+    "moarchy-books-1-9d6ba47a.webp",
+    "moarchy-books-2-17a4a4c3.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-books-0-8c1ad3fe.webp",
+    "moarchy-books-1-74fe71ac.webp",
+    "moarchy-books-2-ac1317f1.webp"
+   ],
+   "retro-82": [
+    "moarchy-books-0-bf1cbf4f.webp",
+    "moarchy-books-1-e59a4fea.webp",
+    "moarchy-books-2-6383657a.webp"
+   ],
+   "ristretto": [
+    "moarchy-books-0-30d36317.webp",
+    "moarchy-books-1-90e4a0d1.webp",
+    "moarchy-books-2-f001e833.webp"
+   ],
+   "rose-pine": [
+    "moarchy-books-0-12369764.webp",
+    "moarchy-books-1-be4bf8cd.webp",
+    "moarchy-books-2-4bbebda6.webp"
+   ],
+   "solitude": [
+    "moarchy-books-0-c471b58b.webp",
+    "moarchy-books-1-9370f0a7.webp",
+    "moarchy-books-2-bd672d1a.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-books-0-f1de57ee.webp",
+    "moarchy-books-1-d1357040.webp",
+    "moarchy-books-2-393037ff.webp"
+   ],
+   "vantablack": [
+    "moarchy-books-0-cc286a00.webp",
+    "moarchy-books-1-dd140f22.webp",
+    "moarchy-books-2-a1d24822.webp"
+   ],
+   "white": [
+    "moarchy-books-0-8eed709a.webp",
+    "moarchy-books-1-00c46c04.webp",
+    "moarchy-books-2-3afece6a.webp"
+   ]
+  }
+ },
+ {
   "pkg": "moarchy-food",
   "name": "Food",
   "desktop": "org.moarchy.Food.desktop",
