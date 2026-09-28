@@ -222,5 +222,197 @@
    "moarchy-breakout-2-e088a485.webp"
   ],
   "icon": "moarchy-breakout-1a413b80.webp"
+ },
+ {
+  "pkg": "moarchy-keep",
+  "name": "Notes",
+  "desktop": "org.moarchy.Keep.desktop",
+  "version": "0.2.0-1",
+  "description": "Text notes and checklists, kept on the device",
+  "summary": "Built for this screen: notes and checklists as lined cards two across, one tap to open and write, pinned ones first, and search at the top.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-keep-0-924b79c7.webp",
+   "moarchy-keep-1-ad89795a.webp",
+   "moarchy-keep-2-ef72bef1.webp"
+  ],
+  "icon": "moarchy-keep-ca78f9d0.webp"
+ },
+ {
+  "pkg": "moarchy-habits",
+  "name": "Habits",
+  "desktop": "org.moarchy.Habits.desktop",
+  "version": "0.2.0-1",
+  "description": "Track habits with a tap a day, kept on the device",
+  "summary": "Built for this screen: a row per habit with the last days to tap, a page per habit with its streak and sixteen weeks of history, and achievements.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-habits-0-f6297cf9.webp",
+   "moarchy-habits-1-d41dc63f.webp",
+   "moarchy-habits-2-fd5083fa.webp"
+  ],
+  "icon": "moarchy-habits-2cffed3e.webp"
+ },
+ {
+  "pkg": "moarchy-launches",
+  "name": "Launches",
+  "desktop": "org.moarchy.Launches.desktop",
+  "version": "0.2.0-1",
+  "description": "Upcoming rocket launches, and the ones you star",
+  "summary": "Built for this screen: the next launches with live countdowns, a page per launch with its pad, window and orbit, and the ones you star on a tab of their own.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-launches-0-70669a57.webp",
+   "moarchy-launches-1-e33a9a79.webp",
+   "moarchy-launches-2-af951624.webp"
+  ],
+  "icon": "moarchy-launches-d4b6acac.webp"
+ },
+ {
+  "pkg": "moarchy-food",
+  "name": "Food",
+  "desktop": "org.moarchy.Food.desktop",
+  "version": "0.2.0-1",
+  "description": "Point the camera at a barcode for nutrition facts",
+  "summary": "Built for this screen: the camera as the first page, a product page with Nutri-Score, nutrition per 100 g and allergens, and everything you scanned kept.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-food-0-402229bb.webp",
+   "moarchy-food-1-3eaf3e25.webp",
+   "moarchy-food-2-f7caa249.webp"
+  ],
+  "icon": "moarchy-food-fd1f1e8e.webp"
+ },
+ {
+  "pkg": "moarchy-calculator",
+  "name": "Calculator",
+  "desktop": "org.moarchy.Calculator.desktop",
+  "version": "0.2.0-1",
+  "description": "The four operations, a tape you can tap, and arithmetic in tens",
+  "summary": "Built for this screen: big square keys with the sum above them, arithmetic that counts in tens so 0.1 + 0.2 is 0.3, and a tape of past sums.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-calculator-0-68a38d70.webp",
+   "moarchy-calculator-1-3f55c007.webp",
+   "moarchy-calculator-2-347d2b56.webp"
+  ],
+  "icon": "moarchy-calculator-c368e2b0.webp"
+ },
+ {
+  "pkg": "moarchy-weather",
+  "name": "Weather",
+  "desktop": "org.moarchy.Weather.desktop",
+  "version": "0.2.0-1",
+  "description": "Now, the next day and the week, where you are and in the places you named",
+  "summary": "Built for this screen: now, the next hours and the week in one scrolling column, and the places you named a tap away.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-weather-0-9626a83b.webp",
+   "moarchy-weather-1-2cedbbab.webp",
+   "moarchy-weather-2-edd4bced.webp"
+  ],
+  "icon": "moarchy-weather-5cd88171.webp"
+ },
+ {
+  "pkg": "moarchy-clock",
+  "name": "Clock",
+  "desktop": "org.moarchy.Clock.desktop",
+  "version": "0.2.0-1",
+  "description": "The time, an alarm that says when it is late, a stopwatch and a timer",
+  "summary": "Built for this screen: alarms, a stopwatch with laps and a timer, one tab each, with a dial big enough to read across a room.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-clock-0-862db608.webp",
+   "moarchy-clock-1-9f062e4c.webp",
+   "moarchy-clock-2-63dd9e3f.webp"
+  ],
+  "icon": "moarchy-clock-008918fb.webp"
+ },
+ {
+  "pkg": "moarchy-calendar",
+  "name": "Calendar",
+  "desktop": "org.moarchy.Calendar.desktop",
+  "version": "0.2.0-1",
+  "description": "The month, the day under it, and what is next",
+  "summary": "Built for this screen: the month with the chosen day's events under it, an agenda of what is next, and events kept in one file with no accounts.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-calendar-0-1061596b.webp",
+   "moarchy-calendar-1-5b217f58.webp",
+   "moarchy-calendar-2-164302b2.webp"
+  ],
+  "icon": "moarchy-calendar-a7cd0c4a.webp"
+ },
+ {
+  "pkg": "moarchy-contacts",
+  "name": "Contacts",
+  "desktop": "org.moarchy.Contacts.desktop",
+  "version": "0.2.0-1",
+  "description": "A name, a number, an email, and a note — one file, no accounts",
+  "summary": "Built for this screen: one searchable list by letter, a page per person to edit, and everything kept in one file on the phone.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-contacts-0-980eec91.webp",
+   "moarchy-contacts-1-91accc77.webp",
+   "moarchy-contacts-2-0027d930.webp"
+  ],
+  "icon": "moarchy-contacts-09f7d9be.webp"
+ },
+ {
+  "pkg": "moarchy-files",
+  "name": "Files",
+  "desktop": "org.moarchy.Files.desktop",
+  "version": "0.2.0-1",
+  "description": "One folder at a time",
+  "summary": "Built for this screen: one folder at a time with a crumb trail above it, places a tab away, and copy, move, rename and trash from a sheet.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-files-0-d4a2a6e9.webp",
+   "moarchy-files-1-46c8249a.webp",
+   "moarchy-files-2-436ffc91.webp"
+  ],
+  "icon": "moarchy-files-02c120d6.webp"
+ },
+ {
+  "pkg": "moarchy-editor",
+  "name": "Text Editor",
+  "desktop": "org.moarchy.Editor.desktop",
+  "version": "0.2.0-1",
+  "description": "One text file at a time, and an $EDITOR that waits",
+  "summary": "Built for this screen: recent files a tap away, one file on the whole screen in a monospace face, and nothing lost when a file is closed unsaved.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-editor-0-35359f50.webp",
+   "moarchy-editor-1-a6d7f383.webp",
+   "moarchy-editor-2-96bb5c78.webp"
+  ],
+  "icon": "moarchy-editor-e3e7f72a.webp"
+ },
+ {
+  "pkg": "moarchy-mail",
+  "name": "Mail",
+  "desktop": "org.moarchy.Mail.desktop",
+  "version": "0.2.0-1",
+  "description": "Read and write email",
+  "summary": "Built for this screen: one account over IMAP and SMTP, the inbox as one list, a message on a page of its own with no HTML drawn, and folders a tap away.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-mail-0-30abad7c.webp",
+   "moarchy-mail-1-1c0bbdc8.webp",
+   "moarchy-mail-2-bbec522f.webp"
+  ],
+  "icon": "moarchy-mail-6c5be2ff.webp"
  }
 ]
