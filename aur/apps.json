@@ -166,6 +166,27 @@
   "summary": "The single-page layout is almost narrow enough, but it is slightly wider than the phone: the buttons at the right end of the budget and bill-amount rows are cut off at the right edge, and so is the Donate button in Actions.",
   "version": "1.1.0-1"
  },
+ "aur:blackbox-terminal": {
+  "adds": 3,
+  "categories": [
+   "tools"
+  ],
+  "commit": "467d3b08d225a46f7af8547f2f8199b111d8d9c7",
+  "description": "A beautiful terminal for GNOME",
+  "desktop": "com.raggesilver.BlackBox.desktop",
+  "icon": "blackbox-terminal-fbef0adc.webp",
+  "name": "Black Box",
+  "notes": [],
+  "pkg": "blackbox-terminal",
+  "rating": "usable",
+  "shots": [
+   "blackbox-terminal-0-e5ac980a.webp",
+   "blackbox-terminal-1-1c590551.webp",
+   "blackbox-terminal-2-29e3eb2f.webp"
+  ],
+  "summary": "Black Box fits the narrow screen well: terminal output wraps to the width, and the menu and Preferences fit and scroll properly, though the Preferences tab bar shows broken icons and taps on the bottom tabs did not appear to switch pages.",
+  "version": "0.15.2-1"
+ },
  "aur:blink-markdown": {
   "adds": 2,
   "categories": [
@@ -305,6 +326,29 @@
   ],
   "summary": "The breathing screen fills the narrow phone screen cleanly, with the animation centred and nothing cut off, though the close button in the top corner is small to tap.",
   "version": "0.1.4-1"
+ },
+ "aur:brief": {
+  "adds": 11,
+  "categories": [
+   "tools"
+  ],
+  "commit": "81d1d4c8ffb0b240ed6954248d12fd15a0320dd5",
+  "description": "A GTK4 application for browsing tldr-pages (community-maintained command line help pages).",
+  "desktop": "io.github.shonebinu.Brief.desktop",
+  "icon": "brief-9d23e673.webp",
+  "name": "Brief",
+  "notes": [
+   "Some labels are cut off"
+  ],
+  "pkg": "brief",
+  "rating": "usable",
+  "shots": [
+   "brief-0-93a60758.webp",
+   "brief-1-a123ede2.webp",
+   "brief-2-615c9562.webp"
+  ],
+  "summary": "The list, search and page views all fit the narrow screen and work well by touch, but long commands on a page are cut off at the right edge instead of wrapping.",
+  "version": "0.3.2-1"
  },
  "aur:cairn": {
   "adds": 2,
@@ -520,6 +564,23 @@
   "summary": "Chroma keeps its two-pane desktop layout on the phone, so the detail pane is cut off at the right edge: its empty-state text is clipped on both tabs, and no palette ever appeared after the add attempts.",
   "version": "1.1.3-1"
  },
+ "aur:cine": {
+  "adds": 2,
+  "categories": [
+   "media"
+  ],
+  "commit": "2e1ba63ca7c49580524e5dedaf3c694a733aa9b9",
+  "description": "Play your videos",
+  "desktop": "io.github.diegopvlk.Cine.desktop",
+  "icon": "",
+  "name": "Cine",
+  "notes": [],
+  "pkg": "cine",
+  "rating": "broken",
+  "shots": [],
+  "summary": "Does not start on the phone.",
+  "version": "1.8.4-1"
+ },
  "aur:cobang": {
   "adds": 24,
   "categories": [
@@ -687,6 +748,27 @@
   "summary": "The account list and the Add Account form both fill the narrow screen neatly, with large, easy-to-tap buttons and nothing cut off.",
   "version": "50.2-2"
  },
+ "aur:cosmic-ext-calculator-git": {
+  "adds": 1,
+  "categories": [
+   "tools"
+  ],
+  "commit": "8c42123454697e73da4a04acaaa79d0e855dc836",
+  "description": "Calculator for the COSMIC desktop.",
+  "desktop": "dev.edfloreshz.Calculator.desktop",
+  "icon": "cosmic-ext-calculator-git-9b331bd5.webp",
+  "name": "Calculator",
+  "notes": [],
+  "pkg": "cosmic-ext-calculator-git",
+  "rating": "perfect",
+  "shots": [
+   "cosmic-ext-calculator-git-0-9e6fb356.webp",
+   "cosmic-ext-calculator-git-1-f25cc18b.webp",
+   "cosmic-ext-calculator-git-2-6415d0dc.webp"
+  ],
+  "summary": "The keypad and display fill the narrow screen neatly with large, finger-sized buttons and nothing cut off, though the last screenshot still shows 48*12 instead of a result after = was tapped.",
+  "version": "0.2.1.r9.gd22de56-1"
+ },
  "aur:coulr": {
   "adds": 2,
   "categories": [
@@ -710,6 +792,31 @@
   ],
   "summary": "The main color screen fits a phone well, but the About dialog runs off the left edge, which cuts off its back button and the start of its text.",
   "version": "2.3.1-1"
+ },
+ "aur:cozy-audiobooks": {
+  "adds": 18,
+  "categories": [
+   "media"
+  ],
+  "commit": "34ffc6c1ba71a23f49c8db4fab62fed97c170271",
+  "description": "Play and organize your audio book collection",
+  "desktop": "com.github.geigi.cozy.desktop",
+  "icon": "cozy-audiobooks-3bab163f.webp",
+  "name": "Cozy",
+  "notes": [
+   "Drawn for a bigger screen",
+   "Some of it runs off the edge",
+   "Some labels are cut off"
+  ],
+  "pkg": "cozy-audiobooks",
+  "rating": "desktop only",
+  "shots": [
+   "cozy-audiobooks-0-37062a73.webp",
+   "cozy-audiobooks-1-59f1a45c.webp",
+   "cozy-audiobooks-2-8b7e1c4d.webp"
+  ],
+  "summary": "The welcome screen fits the phone, but the folder chooser you need to add audiobooks is wider than the screen, with its sidebar, file names and Select/Cancel buttons cut off, so you can't add a library.",
+  "version": "1.3.0-2"
  },
  "aur:crosspipe": {
   "adds": 1,
@@ -989,6 +1096,33 @@
   "summary": "Every screen fits the phone's width and works well by touch, but the 'Only weather alerts are currently supported' note in the search results is cut off at the right edge, and so is the error message at the bottom.",
   "version": "2.0.0-1"
  },
+ "aur:emulsion": {
+  "adds": 1,
+  "categories": [
+   "graphics"
+  ],
+  "commit": "1068b5170c3bd3e20500ee153dcf3f89301436d8",
+  "description": "A fast and minimalistic image viewer",
+  "desktop": "emulsion.desktop",
+  "icon": "emulsion-a01bc11c.webp",
+  "name": "Emulsion",
+  "notes": [
+   "Drawn for a bigger screen",
+   "Some buttons are small for a finger",
+   "Some of it runs off the edge",
+   "Some labels are cut off",
+   "Made for a keyboard: nothing to tap"
+  ],
+  "pkg": "emulsion",
+  "rating": "desktop only",
+  "shots": [
+   "emulsion-0-b83134b4.webp",
+   "emulsion-1-b83134b4.webp",
+   "emulsion-2-e4f1263b.webp"
+  ],
+  "summary": "Emulsion opens on a keyboard-shortcut help screen that is wider than the phone and cut off on both sides, and tapping the 'i' button doesn't close it, so you never get to the image viewer.",
+  "version": "11.0.0-1"
+ },
  "aur:eovpn": {
   "adds": 8,
   "categories": [
@@ -1174,6 +1308,29 @@
   "summary": "Flowtime is built for a narrow screen: the timer, the statistics list and the bottom sheet all fit the phone without clipping, but tapping the Statistics tab's label twice did nothing and only its icon switched tabs.",
   "version": "6.5-1"
  },
+ "aur:fluffychat": {
+  "adds": 3,
+  "categories": [
+   "internet"
+  ],
+  "commit": "0514a69d489c2d1ec8f1e1b1e42c2289ca4dbb43",
+  "description": "The cutest instant messenger in the [matrix]",
+  "desktop": "fluffychat.desktop",
+  "icon": "fluffychat-5e9dc0ae.webp",
+  "name": "FluffyChat",
+  "notes": [
+   "Some labels are cut off"
+  ],
+  "pkg": "fluffychat",
+  "rating": "usable",
+  "shots": [
+   "fluffychat-0-6a0723c3.webp",
+   "fluffychat-1-78b65efd.webp",
+   "fluffychat-2-3ab81d8f.webp"
+  ],
+  "summary": "Every screen reached fits the narrow phone screen and is easy to tap, though the About dialog breaks the app name across two lines and the license page cuts off its long title.",
+  "version": "2.9.4-1"
+ },
  "aur:forgesmith": {
   "adds": 12,
   "categories": [
@@ -1223,6 +1380,45 @@
   ],
   "summary": "Formiko's editor fits the width, but its toolbar, word count and live preview run off the right edge, the sidebar pushes the editor off the screen, and the Open Document dialog is cut off on both sides.",
   "version": "2.0.0-1"
+ },
+ "aur:friendiqa": {
+  "adds": 2,
+  "categories": [
+   "internet"
+  ],
+  "commit": "2476da5165f24f921b97f6f592561914afb3559c",
+  "description": "App for social network Friendica",
+  "desktop": "de.manic.friendiqa.desktop",
+  "icon": "",
+  "name": "Friendiqa",
+  "notes": [
+   "Some buttons are small for a finger"
+  ],
+  "pkg": "friendiqa",
+  "rating": "usable",
+  "shots": [
+   "friendiqa-0-aa1e083e.webp",
+   "friendiqa-1-aa1e083e.webp"
+  ],
+  "summary": "The login screen fits the narrow phone screen and nothing is cut off, but a few buttons are small and have no label, and every tab shows the same login page until you sign in.",
+  "version": "0.7.1-1"
+ },
+ "aur:g4music-git": {
+  "adds": 0,
+  "categories": [
+   "media"
+  ],
+  "commit": "978a6f5921227291ea3905d9cc3e92a97c8dc143",
+  "description": "",
+  "desktop": "",
+  "icon": "",
+  "name": "g4music-git",
+  "notes": [],
+  "pkg": "g4music-git",
+  "rating": "broken",
+  "shots": [],
+  "summary": "Does not start on the phone: error: failed to prepare transaction (conflicting dependencies)",
+  "version": ""
  },
  "aur:gabtag": {
   "adds": 8,
@@ -1363,6 +1559,23 @@
   ],
   "summary": "The search screen fits, but the credential screen is wider than the phone, so the header's close button, the ends of the text fields, the Add Profile button and the institution details are cut off at the right edge.",
   "version": "0.14-1"
+ },
+ "aur:giara-git": {
+  "adds": 20,
+  "categories": [
+   "internet"
+  ],
+  "commit": "010b3e91772d7a0afa184cc4b1cd85f6f852b31c",
+  "description": "An app for Reddit",
+  "desktop": "org.gabmus.giara.desktop",
+  "icon": "",
+  "name": "Giara",
+  "notes": [],
+  "pkg": "giara-git",
+  "rating": "broken",
+  "shots": [],
+  "summary": "Does not start on the phone: TypeError: Auth.url() takes 1 positional argument but 4 were given",
+  "version": "1.1.0.r23.gb493f46-1"
  },
  "aur:gitilante": {
   "adds": 2,
@@ -1516,6 +1729,56 @@
   "summary": "Does not start on the phone: RecursionError: maximum recursion depth exceeded",
   "version": "0.1.0-1"
  },
+ "aur:goodvibes": {
+  "adds": 5,
+  "categories": [
+   "media"
+  ],
+  "commit": "e5732773677e2f8e5d2e399ca1d2d0923a7cf3f5",
+  "description": "Play web radios",
+  "desktop": "io.gitlab.Goodvibes.desktop",
+  "icon": "goodvibes-aa88d450.webp",
+  "name": "Goodvibes",
+  "notes": [
+   "Some buttons are small for a finger",
+   "Some of it runs off the edge",
+   "Some labels are cut off"
+  ],
+  "pkg": "goodvibes",
+  "rating": "desktop only",
+  "shots": [
+   "goodvibes-0-ba330b3e.webp",
+   "goodvibes-1-b75e35c2.webp",
+   "goodvibes-2-53636810.webp"
+  ],
+  "summary": "The station list, player controls and details view fit the narrow screen, but the Add Station dialog is wider than the phone, so its field labels and Save button are cut off at the edges.",
+  "version": "0.8.4-1"
+ },
+ "aur:halftone": {
+  "adds": 2,
+  "categories": [
+   "graphics"
+  ],
+  "commit": "01f457e0b4146550a2259d57114b3e9905126ea5",
+  "description": "Give your images that pixel art-like style",
+  "desktop": "io.github.tfuxu.Halftone.desktop",
+  "icon": "halftone-6c634569.webp",
+  "name": "Halftone",
+  "notes": [
+   "Drawn for a bigger screen",
+   "Some of it runs off the edge",
+   "Some labels are cut off"
+  ],
+  "pkg": "halftone",
+  "rating": "desktop only",
+  "shots": [
+   "halftone-0-41cc4142.webp",
+   "halftone-1-93a0f5a7.webp",
+   "halftone-2-41289197.webp"
+  ],
+  "summary": "The welcome screen fits the phone, but the file chooser for opening an image is wider than the screen: its sidebar and folder names are cut off on the left and the action buttons can't be seen, so you can't pick a photo.",
+  "version": "0.6.0-1"
+ },
  "aur:headsetkontrol": {
   "adds": 53,
   "categories": [
@@ -1660,6 +1923,28 @@
   "summary": "Does not start on the phone.",
   "version": "0.2.0-3"
  },
+ "aur:interstellar-bin": {
+  "adds": 2,
+  "categories": [
+   "internet"
+  ],
+  "commit": "344185f5f10271de61a987b068107c4d0ea3351a",
+  "description": "An app for Mbin/Lemmy/PieFed, connecting you to the fediverse.",
+  "desktop": "interstellar.desktop",
+  "icon": "interstellar-bin-2352a619.webp",
+  "name": "Interstellar",
+  "notes": [
+   "Some labels are cut off"
+  ],
+  "pkg": "interstellar-bin",
+  "rating": "usable",
+  "shots": [
+   "interstellar-bin-0-4a3399a3.webp",
+   "interstellar-bin-1-e50d9b0c.webp"
+  ],
+  "summary": "The feed fits the narrow screen in a single column with a phone-style bottom tab bar, though author and community names are cut short and the floating button covers some post controls.",
+  "version": "0.11.4-1"
+ },
  "aur:jot-git": {
   "adds": 1,
   "categories": [
@@ -1707,6 +1992,30 @@
   ],
   "summary": "The single-column markdown editor fills the narrow screen and renders the note cleanly, but the help and settings icons in the bottom bar are tiny, did nothing visible when tapped, and the file path is cut off.",
   "version": "2.5.3-1"
+ },
+ "aur:kana": {
+  "adds": 1,
+  "categories": [
+   "education"
+  ],
+  "commit": "ce474e0cac09bc28418cf19eb7b8c7c2a1859d19",
+  "description": "Learn Japanese characters",
+  "desktop": "com.felipekinoshita.Kana.desktop",
+  "icon": "",
+  "name": "Kana",
+  "notes": [
+   "Some of it runs off the edge",
+   "Some labels are cut off"
+  ],
+  "pkg": "kana",
+  "rating": "desktop only",
+  "shots": [
+   "kana-0-16b2ffc2.webp",
+   "kana-1-1b03dbd7.webp",
+   "kana-2-f4e72bda.webp"
+  ],
+  "summary": "The welcome and quiz screens fit the narrow phone screen well and are easy to tap, but the Preferences dialog opens wider than the screen and is cut off on the left edge.",
+  "version": "1.4-1"
  },
  "aur:keymasq": {
   "adds": 10,
@@ -1839,6 +2148,29 @@
   "summary": "Kontainer's header, menus and About page fit the narrow screen and are easy to tap, but one line of the 'engine not found' message runs off both sides of the screen.",
   "version": "1.6.2-1"
  },
+ "aur:koreader-bin": {
+  "adds": 2,
+  "categories": [
+   "graphics"
+  ],
+  "commit": "dcb6fc828ba810b16d344883756c5649f4849547",
+  "description": "Ebook reader",
+  "desktop": "rocks.koreader.KOReader.desktop",
+  "icon": "koreader-bin-0c458052.webp",
+  "name": "KOReader",
+  "notes": [
+   "Some labels are cut off"
+  ],
+  "pkg": "koreader-bin",
+  "rating": "usable",
+  "shots": [
+   "koreader-bin-0-00142447.webp",
+   "koreader-bin-1-07bf4602.webp",
+   "koreader-bin-2-8f191feb.webp"
+  ],
+  "summary": "KOReader fits the narrow phone screen well: its file browser, reader and menus all fit the full width and are easy to tap, but in the file browser keyboard-shortcut letter boxes cover the start of the folder names.",
+  "version": "2026.07.1-2"
+ },
  "aur:kretro": {
   "adds": 20,
   "categories": [
@@ -1933,6 +2265,55 @@
   "summary": "The single-column translator mostly fits the narrow screen with finger-sized dropdowns, but the input text runs to the right edge and gets slightly clipped, and the header and bars have no right margin.",
   "version": "0.3.0-1"
  },
+ "aur:livi": {
+  "adds": 1,
+  "categories": [
+   "media"
+  ],
+  "commit": "c01d41d46ac26702e4dacd8f7b53211479f74bf4",
+  "description": "Play videos",
+  "desktop": "org.sigxcpu.Livi.desktop",
+  "icon": "livi-e82b117a.webp",
+  "name": "Light Video",
+  "notes": [
+   "Drawn for a bigger screen",
+   "Some of it runs off the edge",
+   "Some labels are cut off"
+  ],
+  "pkg": "livi",
+  "rating": "desktop only",
+  "shots": [
+   "livi-0-d21335b1.webp",
+   "livi-1-a6d31e77.webp",
+   "livi-2-53a0e758.webp"
+  ],
+  "summary": "The player's main screen fits the phone, but its file chooser is wider than the screen and cuts off on the left, hiding the folder list and file names, so the test could not open a video.",
+  "version": "0.4.0-1"
+ },
+ "aur:localsend": {
+  "adds": 4,
+  "categories": [
+   "internet"
+  ],
+  "commit": "74a63103e9b195895577bb67f7ac6e0f83957525",
+  "description": "An open source cross-platform alternative to AirDrop",
+  "desktop": "localsend.desktop",
+  "icon": "localsend-29e0c12a.webp",
+  "name": "LocalSend",
+  "notes": [
+   "Some of it runs off the edge",
+   "Some labels are cut off"
+  ],
+  "pkg": "localsend",
+  "rating": "desktop only",
+  "shots": [
+   "localsend-0-0b8c6dbf.webp",
+   "localsend-1-92ebdf19.webp",
+   "localsend-2-8f20298e.webp"
+  ],
+  "summary": "The Receive and Send screens fit the narrow screen well, but the file chooser it opens to pick files is wider than the phone and runs off the left edge, which cuts off its folder names and path bar and hides the buttons for choosing a file.",
+  "version": "1.18.2-2"
+ },
  "aur:luminance": {
   "adds": 3,
   "categories": [
@@ -1957,6 +2338,30 @@
   ],
   "summary": "The main window is wider than the phone, so its header buttons and the empty-state heading and hint are cut off at both edges, but the menu and About dialogs fit.",
   "version": "1.5.0-2"
+ },
+ "aur:mini-text": {
+  "adds": 1,
+  "categories": [
+   "tools"
+  ],
+  "commit": "9331a9446e6b9464ddf09b17c65fc75a0478d5e9",
+  "description": "A very small and basic text editor",
+  "desktop": "io.github.nokse22.minitext.desktop",
+  "icon": "",
+  "name": "Mini Text",
+  "notes": [
+   "Some of it runs off the edge",
+   "Some labels are cut off"
+  ],
+  "pkg": "mini-text",
+  "rating": "desktop only",
+  "shots": [
+   "mini-text-0-e971c51d.webp",
+   "mini-text-1-aef9c67b.webp",
+   "mini-text-2-9cb1a0a1.webp"
+  ],
+  "summary": "The editor and its menu fit the narrow screen well and are easy to use by touch, but the Shortcuts dialog is wider than the phone and its left-hand list is cut off at the edge.",
+  "version": "1.0.0-1"
  },
  "aur:mousam": {
   "adds": 8,
@@ -2055,6 +2460,29 @@
   "summary": "A fixed sidebar takes up half the width, so on every screen the main panel is cut off at the right edge: the Overview values, the WiFi Scan button and the Ethernet details are all partly or fully hidden.",
   "version": "0.2.1-1"
  },
+ "aur:netsleuth": {
+  "adds": 1,
+  "categories": [
+   "tools"
+  ],
+  "commit": "6ab2335931237d4ba2d04e1010726d8a4c81e99e",
+  "description": "Simple utility for calculating and analyzing IP subnet values",
+  "desktop": "io.github.vmkspv.netsleuth.desktop",
+  "icon": "netsleuth-b91be546.webp",
+  "name": "Netsleuth",
+  "notes": [
+   "Some of it runs off the edge"
+  ],
+  "pkg": "netsleuth",
+  "rating": "usable",
+  "shots": [
+   "netsleuth-0-c020ccf4.webp",
+   "netsleuth-1-9541f8f7.webp",
+   "netsleuth-2-ae23c442.webp"
+  ],
+  "summary": "The calculator form and results fit the narrow screen well and work by touch, though the subnet mask dropdown slides slightly off the right edge and cuts off its clear button, and the binary values wrap in the middle of an octet.",
+  "version": "1.1.4-1"
+ },
  "aur:nicotine-plus-git": {
   "adds": 2,
   "categories": [
@@ -2096,6 +2524,26 @@
   "shots": [],
   "summary": "Does not start on the phone: panic: empty display string",
   "version": "0.12.2-5"
+ },
+ "aur:notejot": {
+  "adds": 2,
+  "categories": [
+   "tools"
+  ],
+  "commit": "5e88d073a0227ae2ae3722b87cfce9f2bcc8abc6",
+  "description": "Jot your ideas",
+  "desktop": "io.github.lainsce.Notejot.desktop",
+  "icon": "",
+  "name": "Notejot",
+  "notes": [],
+  "pkg": "notejot",
+  "rating": "perfect",
+  "shots": [
+   "notejot-0-cb8be75d.webp",
+   "notejot-1-65dc2770.webp"
+  ],
+  "summary": "Notejot uses the full width of the phone: the notes list and the editor fit cleanly, its toolbar and buttons are easy to tap, and nothing is cut off.",
+  "version": "3.5.1-1"
  },
  "aur:nucleus-gtk4-git": {
   "adds": 2,
@@ -2603,6 +3051,49 @@
   "summary": "The app is built for a narrow screen: the feed, sidebar, menu and Preferences all fit the phone's width and scroll properly, and the only flaw shown is the cut-off \"More Information\" button on the opening privacy notice.",
   "version": "4.1.0-2"
  },
+ "aur:pithos": {
+  "adds": 3,
+  "categories": [
+   "media"
+  ],
+  "commit": "662c20993adad3b0f69f4cc58b66055b5f6bba96",
+  "description": "Play music from Pandora Radio",
+  "desktop": "io.github.Pithos.desktop",
+  "icon": "pithos-70dcb2ff.webp",
+  "name": "Pithos",
+  "notes": [],
+  "pkg": "pithos",
+  "rating": "usable",
+  "shots": [
+   "pithos-0-56d6dd5a.webp",
+   "pithos-1-f66ec780.webp",
+   "pithos-2-08e6ab0a.webp"
+  ],
+  "summary": "The Preferences dialog with its sign-in fields and plugin list fits the narrow screen and scrolls properly, and the player's controls fit across the top, but the music player itself stays blank until you sign in to Pandora.",
+  "version": "1.6.2-3"
+ },
+ "aur:plasma-phonebook-git": {
+  "adds": 21,
+  "categories": [
+   "productivity"
+  ],
+  "commit": "f6535ac69b5b816145fe6fc4fcebd63b05c318c5",
+  "description": "Edit and view Contacts",
+  "desktop": "org.kde.phonebook.desktop",
+  "icon": "",
+  "name": "Phonebook",
+  "notes": [
+   "Opens to an empty screen"
+  ],
+  "pkg": "plasma-phonebook-git",
+  "rating": "not usable",
+  "shots": [
+   "plasma-phonebook-git-0-a2ee4480.webp",
+   "plasma-phonebook-git-1-b478ea80.webp"
+  ],
+  "summary": "The contact list fits the narrow screen, but its add button has no icon, and tapping it opens a blank grey sheet with no form, so you can't add a contact on the phone.",
+  "version": "24.02.0.r157.gd4bd3b0-1"
+ },
  "aur:plattenalbum": {
   "adds": 2,
   "categories": [
@@ -2623,6 +3114,27 @@
   ],
   "summary": "Every screen reached, from the welcome screen to the setup and manual-connection bottom sheets, fits the narrow phone screen with large touch-friendly buttons and nothing cut off.",
   "version": "2.7.0-1"
+ },
+ "aur:portfolio-file-manager": {
+  "adds": 1,
+  "categories": [
+   "tools"
+  ],
+  "commit": "2acf9c61c2f183a4296be7ba5a018f2433197807",
+  "description": "Manage files on the go",
+  "desktop": "dev.tchx84.Portfolio.desktop",
+  "icon": "portfolio-file-manager-bd1a219f.webp",
+  "name": "Portfolio",
+  "notes": [],
+  "pkg": "portfolio-file-manager",
+  "rating": "perfect",
+  "shots": [
+   "portfolio-file-manager-0-8e4f9dfb.webp",
+   "portfolio-file-manager-1-81a108a1.webp",
+   "portfolio-file-manager-2-02a7728a.webp"
+  ],
+  "summary": "Portfolio is made for phones: its single-column lists, large rows and bottom toolbar fit the narrow screen with nothing cut off.",
+  "version": "1.0.3-1"
  },
  "aur:powersupply": {
   "adds": 1,
@@ -2727,6 +3239,30 @@
   ],
   "summary": "Riff adapts well to the phone: the sidebar becomes a full-screen list, grids fall back to a single column, the sort popover fits on screen and the player bar has large, finger-sized controls.",
   "version": "26.07-1"
+ },
+ "aur:rotor": {
+  "adds": 2,
+  "categories": [
+   "tools"
+  ],
+  "commit": "a20b6454c9510eba5c7853373869477a93b50c60",
+  "description": "Stateless password manager",
+  "desktop": "me.ogarcia.rotor.desktop",
+  "icon": "rotor-9755dd5f.webp",
+  "name": "Rotor",
+  "notes": [
+   "Some buttons are small for a finger",
+   "Some labels are cut off"
+  ],
+  "pkg": "rotor",
+  "rating": "usable",
+  "shots": [
+   "rotor-0-8e0acbe2.webp",
+   "rotor-1-cef98cd8.webp",
+   "rotor-2-b238165c.webp"
+  ],
+  "summary": "The generator, password list and Preferences sheet all fit the narrow screen and work by touch, but the two tab labels are cut off and the small icons next to the master password field are hard to tap.",
+  "version": "0.11.1-1"
  },
  "aur:rustconn": {
   "adds": 4,
@@ -2890,6 +3426,26 @@
   "summary": "Does not start on the phone: \tat kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:704)",
   "version": "0.14.0-1"
  },
+ "aur:spot-client": {
+  "adds": 1,
+  "categories": [
+   "media"
+  ],
+  "commit": "e9edb52471ce5694c419b5d2fee22549135ead5c",
+  "description": "Gtk/Rust native Spotify client",
+  "desktop": "dev.alextren.Spot.desktop",
+  "icon": "spot-client-ca8778bf.webp",
+  "name": "Spot",
+  "notes": [],
+  "pkg": "spot-client",
+  "rating": "usable",
+  "shots": [
+   "spot-client-0-019845c2.webp",
+   "spot-client-1-019845c2.webp"
+  ],
+  "summary": "The only screen reached, the Spotify login welcome dialog, fits the narrow screen fully with large tappable buttons, but the main app behind the login could not be seen.",
+  "version": "0.5.0-1"
+ },
  "aur:sticky-notes": {
   "adds": 1,
   "categories": [
@@ -2985,6 +3541,27 @@
   ],
   "summary": "A fixed sidebar takes up the left half of the screen, so the logo and the \"connect your Tangara\" instructions run off the right edge and nothing the user taps changes that.",
   "version": "0.5.2-1"
+ },
+ "aur:teleprompter": {
+  "adds": 1,
+  "categories": [
+   "tools"
+  ],
+  "commit": "87ae4cf14c466f960d4c7ac2512a3cdc61bd0beb",
+  "description": "Stay on track during speeches",
+  "desktop": "io.github.nokse22.teleprompter.desktop",
+  "icon": "teleprompter-4cb6124f.webp",
+  "name": "Teleprompter",
+  "notes": [],
+  "pkg": "teleprompter",
+  "rating": "perfect",
+  "shots": [
+   "teleprompter-0-c2e66883.webp",
+   "teleprompter-1-e1aee04a.webp",
+   "teleprompter-2-da254ec2.webp"
+  ],
+  "summary": "Teleprompter fits the narrow screen well: the script fills the full width in large text, the bottom toolbar has easy-to-tap buttons, and the menu and Preferences sheet sit fully on screen.",
+  "version": "1.0.1-1"
  },
  "aur:textsnatcher": {
   "adds": 8,
@@ -3161,6 +3738,27 @@
   "summary": "The fixed sidebar takes half the width, so the track list, the player's seek bar and the location dialog are cut off at the right edge of the phone screen.",
   "version": "0.6.2-1"
  },
+ "aur:trivia-quiz": {
+  "adds": 6,
+  "categories": [
+   "games"
+  ],
+  "commit": "d044b9101aaa63a7a7bc4036b13f2eb1a16f83a3",
+  "description": "Respond to endless questions",
+  "desktop": "io.github.nokse22.trivia-quiz.desktop",
+  "icon": "trivia-quiz-cdf91db5.webp",
+  "name": "Trivia Quiz",
+  "notes": [],
+  "pkg": "trivia-quiz",
+  "rating": "perfect",
+  "shots": [
+   "trivia-quiz-0-802c3f4a.webp",
+   "trivia-quiz-1-7285ea4e.webp",
+   "trivia-quiz-2-bb4bca37.webp"
+  ],
+  "summary": "Every screen fits the narrow phone screen: the settings list, the full-width answer buttons, the menu and the About sheet all sit inside the width and are easy to tap.",
+  "version": "1.0.1-1"
+ },
  "aur:tundra": {
   "adds": 1,
   "categories": [
@@ -3179,6 +3777,26 @@
   ],
   "summary": "The only screen reached is a sign-in screen that fits the narrow phone width cleanly, with a full-width Sign in button that is easy to tap.",
   "version": "0.5.4-2"
+ },
+ "aur:turnon": {
+  "adds": 1,
+  "categories": [
+   "tools"
+  ],
+  "commit": "e24a6c358678f2e1c0f52335c3edaef829c3eadd",
+  "description": "Turn on devices in your network",
+  "desktop": "de.swsnr.turnon.desktop",
+  "icon": "",
+  "name": "Turn On",
+  "notes": [],
+  "pkg": "turnon",
+  "rating": "perfect",
+  "shots": [
+   "turnon-0-cb318797.webp",
+   "turnon-1-7a318acf.webp"
+  ],
+  "summary": "Every screen reached fits the narrow phone screen: the empty state, header and add-device sheet are laid out for touch with large rows and buttons, and nothing is cut off.",
+  "version": "3.2.2-1"
  },
  "aur:ultimate-tic-tac-toe-git": {
   "adds": 2,
