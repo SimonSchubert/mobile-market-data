@@ -3931,5 +3931,136 @@
    "internet",
    "productivity"
   ]
+ },
+ {
+  "pkg": "moarchy-authenticator",
+  "name": "Authenticator",
+  "desktop": "org.moarchy.Authenticator.desktop",
+  "version": "0.1.0-1",
+  "description": "Two-factor sign-in codes, one tap from the clipboard",
+  "summary": "Built for this screen: every account's six digits in one column, big enough to read off, with a ring for the seconds left and the next code shown before this one runs out. A tap copies. Add a key, an otpauth:// link or a Google Authenticator export; the keys stay in one file on the phone, and nothing goes over the network.",
+  "rating": "perfect",
+  "notes": [],
+  "shots": [
+   "moarchy-authenticator-0-02605292.webp",
+   "moarchy-authenticator-1-cb5d9ebd.webp",
+   "moarchy-authenticator-2-e19012f9.webp"
+  ],
+  "icon": "moarchy-authenticator-6d815c14.webp",
+  "categories": [
+   "tools"
+  ],
+  "themed": {
+   "catppuccin": [
+    "moarchy-authenticator-0-c8d09905.webp",
+    "moarchy-authenticator-1-b153aa0e.webp",
+    "moarchy-authenticator-2-e21782b5.webp"
+   ],
+   "catppuccin-latte": [
+    "moarchy-authenticator-0-f17f3fb6.webp",
+    "moarchy-authenticator-1-2b6acbd0.webp",
+    "moarchy-authenticator-2-7fd4bca8.webp"
+   ],
+   "ethereal": [
+    "moarchy-authenticator-0-af99a810.webp",
+    "moarchy-authenticator-1-047bd852.webp",
+    "moarchy-authenticator-2-85b11e22.webp"
+   ],
+   "everforest": [
+    "moarchy-authenticator-0-2470cda8.webp",
+    "moarchy-authenticator-1-265b89e8.webp",
+    "moarchy-authenticator-2-63a4b457.webp"
+   ],
+   "flexoki-light": [
+    "moarchy-authenticator-0-868580f0.webp",
+    "moarchy-authenticator-1-15fa0b2d.webp",
+    "moarchy-authenticator-2-42600bd3.webp"
+   ],
+   "gruvbox": [
+    "moarchy-authenticator-0-5547080c.webp",
+    "moarchy-authenticator-1-deae88d2.webp",
+    "moarchy-authenticator-2-0f699240.webp"
+   ],
+   "hackerman": [
+    "moarchy-authenticator-0-31d58e90.webp",
+    "moarchy-authenticator-1-b688de12.webp",
+    "moarchy-authenticator-2-1bac4d3a.webp"
+   ],
+   "kanagawa": [
+    "moarchy-authenticator-0-7afe0bc9.webp",
+    "moarchy-authenticator-1-31d574fa.webp",
+    "moarchy-authenticator-2-13d42c9b.webp"
+   ],
+   "last-horizon": [
+    "moarchy-authenticator-0-3723752c.webp",
+    "moarchy-authenticator-1-ae5b7ebc.webp",
+    "moarchy-authenticator-2-f79434c1.webp"
+   ],
+   "lumon": [
+    "moarchy-authenticator-0-bccc6fcc.webp",
+    "moarchy-authenticator-1-b8ac1ba1.webp",
+    "moarchy-authenticator-2-4478afd5.webp"
+   ],
+   "lupine": [
+    "moarchy-authenticator-0-f45e6f65.webp",
+    "moarchy-authenticator-1-3d05b90d.webp",
+    "moarchy-authenticator-2-f1ba8ef1.webp"
+   ],
+   "matte-black": [
+    "moarchy-authenticator-0-7d569c21.webp",
+    "moarchy-authenticator-1-ba6ee321.webp",
+    "moarchy-authenticator-2-4312e1e3.webp"
+   ],
+   "miasma": [
+    "moarchy-authenticator-0-752306bd.webp",
+    "moarchy-authenticator-1-b3a52468.webp",
+    "moarchy-authenticator-2-f828ba41.webp"
+   ],
+   "nord": [
+    "moarchy-authenticator-0-c93c81f1.webp",
+    "moarchy-authenticator-1-17aa0970.webp",
+    "moarchy-authenticator-2-1ba0b33a.webp"
+   ],
+   "osaka-jade": [
+    "moarchy-authenticator-0-5b8e7d13.webp",
+    "moarchy-authenticator-1-5ce29db2.webp",
+    "moarchy-authenticator-2-4f21f75c.webp"
+   ],
+   "retro-82": [
+    "moarchy-authenticator-0-4112f6aa.webp",
+    "moarchy-authenticator-1-09e3631b.webp",
+    "moarchy-authenticator-2-34011b1c.webp"
+   ],
+   "ristretto": [
+    "moarchy-authenticator-0-107755ce.webp",
+    "moarchy-authenticator-1-9a8cafbb.webp",
+    "moarchy-authenticator-2-2e63728f.webp"
+   ],
+   "rose-pine": [
+    "moarchy-authenticator-0-684935b4.webp",
+    "moarchy-authenticator-1-c8812676.webp",
+    "moarchy-authenticator-2-ed46ce02.webp"
+   ],
+   "solitude": [
+    "moarchy-authenticator-0-5fbdc93e.webp",
+    "moarchy-authenticator-1-55cc1eba.webp",
+    "moarchy-authenticator-2-8853bd93.webp"
+   ],
+   "tokyo-night": [
+    "moarchy-authenticator-0-02605292.webp",
+    "moarchy-authenticator-1-cb5d9ebd.webp",
+    "moarchy-authenticator-2-e19012f9.webp"
+   ],
+   "vantablack": [
+    "moarchy-authenticator-0-e991649c.webp",
+    "moarchy-authenticator-1-8c43e874.webp",
+    "moarchy-authenticator-2-58a211b6.webp"
+   ],
+   "white": [
+    "moarchy-authenticator-0-58477610.webp",
+    "moarchy-authenticator-1-951e0392.webp",
+    "moarchy-authenticator-2-976e0248.webp"
+   ]
+  }
  }
 ]
